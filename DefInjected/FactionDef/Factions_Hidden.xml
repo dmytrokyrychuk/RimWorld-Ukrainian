@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Spacer.label>Космічний мандрівник</Spacer.label>
+	<Spacer.description>Люди з далеких глибин космосу.</Spacer.description>
+	<Spacer.pawnsPlural>Космандрики</Spacer.pawnsPlural>
+	<Spacer.fixedName>Космічні мандрівники</Spacer.fixedName>
+
+	<SpacerHostile.label>Космічний завойовник</SpacerHostile.label>
+	<SpacerHostile.description>Ворожі гості з далеких глибин космосу.</SpacerHostile.description>
+	<SpacerHostile.pawnsPlural>Козавники</SpacerHostile.pawnsPlural>
+	<SpacerHostile.fixedName>Космічні завойовники</SpacerHostile.fixedName>
+
+  <!-- Special sub-humanlike factions -->
+
+	<Mechanoid.label>Рій механоїдів</Mechanoid.label>
+	<Mechanoid.description>Рій давніх, здатних до самовідтворення, машин.</Mechanoid.description>
+	<Mechanoid.pawnsPlural>Механоїди</Mechanoid.pawnsPlural>
+	<Mechanoid.fixedName>Рій механоїдів</Mechanoid.fixedName>
+  
+	<Insect.label>Комаха</Insect.label>
+	<Insect.description>Зазвичай агресивні та настирливі комахи.</Insect.description>
+	<Insect.pawnsPlural>Комахи</Insect.pawnsPlural>
+	<Insect.fixedName>Комахи</Insect.fixedName>
+
+</LanguageData>
