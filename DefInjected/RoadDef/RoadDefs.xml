@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<DirtPath.label>Стежка</DirtPath.label>
-
-	<DirtRoad.label>Ґрунтова дорога</DirtRoad.label>
-
-	<StoneRoad.label>Кам’яна дорога</StoneRoad.label>
-
-	<AncientAsphaltRoad.label>Стародавня асфальтована дорога</AncientAsphaltRoad.label>
-
-	<AncientAsphaltHighway.label>Стародавнє шосе</AncientAsphaltHighway.label>
-
+  
+  <!-- EN: ancient asphalt highway -->
+  <AncientAsphaltHighway.label>Стародавнє шосе</AncientAsphaltHighway.label>
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>Стародавня асфальтована дорога</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>Стежка</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>Ґрунтова дорога</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>Кам’яна дорога</StoneRoad.label>
+  
 </LanguageData>

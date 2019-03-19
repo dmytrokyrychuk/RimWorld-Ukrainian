@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!-- Sandstone -->
-
-	<MakeStoneBlocksSandstone.label>Зробити блоки з пісковику</MakeStoneBlocksSandstone.label>
-	<MakeStoneBlocksSandstone.description>Обробити пісковикові брили, щоб отримати придатні для використання блоки.</MakeStoneBlocksSandstone.description>
-	<MakeStoneBlocksSandstone.jobString>Оброблює каміння.</MakeStoneBlocksSandstone.jobString>
-
-
-	<!-- Granite -->
-
-	<MakeStoneBlocksGranite.label>Зробити блоки з граніту</MakeStoneBlocksGranite.label>
-	<MakeStoneBlocksGranite.description>Обробити гранітні брили, щоб отримати придатні для використання блоки.</MakeStoneBlocksGranite.description>
-	<MakeStoneBlocksGranite.jobString>Оброблює каміння.</MakeStoneBlocksGranite.jobString>
-
-
-	<!-- Limestone -->
-
-	<MakeStoneBlocksLimestone.label>Зробити блоки з вапняку</MakeStoneBlocksLimestone.label>
-	<MakeStoneBlocksLimestone.description>Обробити вапнякові брили, щоб отримати придатні для використання блоки.</MakeStoneBlocksLimestone.description>
-	<MakeStoneBlocksLimestone.jobString>Оброблює каміння.</MakeStoneBlocksLimestone.jobString>
-
-
-	<!-- Slate -->
-
-	<MakeStoneBlocksSlate.label>Зробити блоки зі сланцю</MakeStoneBlocksSlate.label>
-	<MakeStoneBlocksSlate.description>Обробити сланцеві брили, щоб отримати придатні для використання блоки.</MakeStoneBlocksSlate.description>
-	<MakeStoneBlocksSlate.jobString>Оброблює каміння.</MakeStoneBlocksSlate.jobString>
-
-
-	<!-- Marble -->
-
-	<MakeStoneBlocksMarble.label>Зробити блоки з мармуру</MakeStoneBlocksMarble.label>
-	<MakeStoneBlocksMarble.description>Обробити мармурові брили, щоб отримати придатні для використання блоки.</MakeStoneBlocksMarble.description>
-	<MakeStoneBlocksMarble.jobString>Оброблює каміння.</MakeStoneBlocksMarble.jobString>
-
-
+  
+  <!-- EN: make granite blocks -->
+  <Make_StoneBlocksGranite.label>Зробити блоки з граніту</Make_StoneBlocksGranite.label>
+  <!-- EN: Cuts granite chunks into usable blocks. -->
+  <Make_StoneBlocksGranite.description>Обробити гранітні брили, щоб отримати придатні для використання блоки.</Make_StoneBlocksGranite.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksGranite.jobString>Оброблює каміння.</Make_StoneBlocksGranite.jobString>
+  
+  <!-- EN: make limestone blocks -->
+  <Make_StoneBlocksLimestone.label>Зробити блоки з вапняку</Make_StoneBlocksLimestone.label>
+  <!-- EN: Cuts limestone chunks into usable blocks. -->
+  <Make_StoneBlocksLimestone.description>Обробити вапнякові брили, щоб отримати придатні для використання блоки.</Make_StoneBlocksLimestone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksLimestone.jobString>Оброблює каміння.</Make_StoneBlocksLimestone.jobString>
+  
+  <!-- EN: make marble blocks -->
+  <Make_StoneBlocksMarble.label>Зробити блоки з мармуру</Make_StoneBlocksMarble.label>
+  <!-- EN: Cuts marble chunks into usable blocks. -->
+  <Make_StoneBlocksMarble.description>Обробити мармурові брили, щоб отримати придатні для використання блоки.</Make_StoneBlocksMarble.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksMarble.jobString>Оброблює каміння.</Make_StoneBlocksMarble.jobString>
+  
+  <!-- EN: make sandstone blocks -->
+  <Make_StoneBlocksSandstone.label>Зробити блоки з пісковику</Make_StoneBlocksSandstone.label>
+  <!-- EN: Cuts sandstone chunks into usable blocks. -->
+  <Make_StoneBlocksSandstone.description>Обробити пісковикові брили, щоб отримати придатні для використання блоки.</Make_StoneBlocksSandstone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSandstone.jobString>Оброблює каміння.</Make_StoneBlocksSandstone.jobString>
+  
+  <!-- EN: make slate blocks -->
+  <Make_StoneBlocksSlate.label>Зробити блоки зі сланцю</Make_StoneBlocksSlate.label>
+  <!-- EN: Cuts slate chunks into usable blocks. -->
+  <Make_StoneBlocksSlate.description>Обробити сланцеві брили, щоб отримати придатні для використання блоки.</Make_StoneBlocksSlate.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksSlate.jobString>Оброблює каміння.</Make_StoneBlocksSlate.jobString>
+  
 </LanguageData>

@@ -1,28 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<FilthDirt.label>Грязюка</FilthDirt.label>
-	<FilthAnimalFilth.label>Тваринний бруд</FilthAnimalFilth.label>
-	<FilthSand.label>Пісок</FilthSand.label>
-	<RockRubble.label>Щебінь (бруд)</RockRubble.label>
-	<BuildingRubble.label>Буд. сміття</BuildingRubble.label>
-	<SlagRubble.label>Шлак</SlagRubble.label>
-	<SandbagRubble.label>Залишки мішків з піском</SandbagRubble.label>
-
-  <!-- Fluids etc -->
-
-	<FilthBlood.label>Кров</FilthBlood.label>
-	<FilthBloodInsect.label>Кров комахи</FilthBloodInsect.label>
-	<FilthAmnioticFluid.label>Амніотична рідина</FilthAmnioticFluid.label>
-	<FilthSlime.label>Слиз</FilthSlime.label>
-
-	<FilthVomit.label>Блювотиння</FilthVomit.label>
-	<FilthFireFoam.label>Пожежна піна</FilthFireFoam.label>
-
-	<FilthFuel.label>Калюжа палива</FilthFuel.label>
-	<FilthFuel.description>Калюжа легкозаймистої рідини.</FilthFuel.description>
-
-	<FilthCorpseBile.label>Трупна рідина</FilthCorpseBile.label>
-	<FilthAsh.label>Попіл</FilthAsh.label>
-
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>Амніотична рідина</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>Тваринний бруд</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>Попіл</Filth_Ash.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>Кров</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>Кров комахи</Filth_BloodInsect.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>Трупна рідина</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>Грязюка</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>Пожежна піна</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>Калюжа палива</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>Калюжа легкозаймистої рідини.</Filth_Fuel.description>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>Буд. сміття</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>Щебінь (бруд)</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>Пісок</Filth_Sand.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>Слиз</Filth_Slime.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>TODO</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>Блювотиння</Filth_Vomit.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>Залишки мішків з піском</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>Шлак</SlagRubble.label>
+  
 </LanguageData>

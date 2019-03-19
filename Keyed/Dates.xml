@@ -1,14 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<ClockTime>Час</ClockTime>
-	<ClockDate>Дата</ClockDate>
-	<ClockYear>Рік</ClockYear>
-	<DateReadoutTip>Днів з моменту прибуття: {0}\nУ кожному місяці {1} днів.\nПоточний сезон: {2}</DateReadoutTip>
+  <!-- EN: Time -->
+  <ClockTime>Час</ClockTime>
+  <!-- EN: Date -->
+  <ClockDate>Дата</ClockDate>
+  <!-- EN: Year -->
+  <ClockYear>Рік</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
+  <DateReadoutTip>Днів з моменту прибуття: {0}\nУ кожному місяці {1} днів.\nПоточний сезон: {2}</DateReadoutTip>
 
-	<FullDate>{0} {1}, рік {2}</FullDate>
-	<DateReadout>{1} {0}, {2}</DateReadout>
-	<SeasonFullDate>{1} {0}</SeasonFullDate>
-	<WholeYear>Цілий рік</WholeYear>
-
+  <!-- EN: {0} of {1}, {2} -->
+  <FullDate>{0} {1}, рік {2}</FullDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>{1} {0}, {2}</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>{1} {0}</SeasonFullDate>
+  <!-- EN: Whole year -->
+  <WholeYear>Цілий рік</WholeYear>
+  
 </LanguageData>

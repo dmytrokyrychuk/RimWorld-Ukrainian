@@ -1,26 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Spacer.label>Космічний мандрівник</Spacer.label>
-	<Spacer.description>Люди з далеких глибин космосу.</Spacer.description>
-	<Spacer.pawnsPlural>Космандрики</Spacer.pawnsPlural>
-	<Spacer.fixedName>Космічні мандрівники</Spacer.fixedName>
-
-	<SpacerHostile.label>Космічний завойовник</SpacerHostile.label>
-	<SpacerHostile.description>Ворожі гості з далеких глибин космосу.</SpacerHostile.description>
-	<SpacerHostile.pawnsPlural>Козавники</SpacerHostile.pawnsPlural>
-	<SpacerHostile.fixedName>Космічні завойовники</SpacerHostile.fixedName>
-
-  <!-- Special sub-humanlike factions -->
-
-	<Mechanoid.label>Рій механоїдів</Mechanoid.label>
-	<Mechanoid.description>Рій давніх, здатних до самовідтворення, машин.</Mechanoid.description>
-	<Mechanoid.pawnsPlural>Механоїди</Mechanoid.pawnsPlural>
-	<Mechanoid.fixedName>Рій механоїдів</Mechanoid.fixedName>
   
-	<Insect.label>Комаха</Insect.label>
-	<Insect.description>Зазвичай агресивні та настирливі комахи.</Insect.description>
-	<Insect.pawnsPlural>Комахи</Insect.pawnsPlural>
-	<Insect.fixedName>Комахи</Insect.fixedName>
-
+  <!-- EN: ancients -->
+  <Ancients.label>Космічний мандрівник</Ancients.label>
+  <Ancients.description>Люди з далеких глибин космосу.</Ancients.description>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Космічні мандрівники</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>Космандрики</Ancients.pawnsPlural>
+  
+  <!-- EN: ancients -->
+  <AncientsHostile.label>Космічний завойовник</AncientsHostile.label>
+  <AncientsHostile.description>Ворожі гості з далеких глибин космосу.</AncientsHostile.description>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Космічні завойовники</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>Козавники</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insects -->
+  <Insect.label>Комаха</Insect.label>
+  <Insect.description>Зазвичай агресивні та настирливі комахи.</Insect.description>
+  <!-- EN: insects -->
+  <Insect.fixedName>Комахи</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>Комахи</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>Рій механоїдів</Mechanoid.label>
+  <Mechanoid.description>Рій давніх, здатних до самовідтворення, машин.</Mechanoid.description>
+  <!-- EN: a mechanoid hive -->
+  <Mechanoid.fixedName>Рій механоїдів</Mechanoid.fixedName>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>Механоїди</Mechanoid.pawnsPlural>
+  
 </LanguageData>

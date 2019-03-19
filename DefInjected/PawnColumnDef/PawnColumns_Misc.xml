@@ -1,11 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Master.label>господар</Master.label>
+  
+  <!-- EN: allowed area -->
   <AllowedArea.label>Медична зона</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
   <AllowedAreaWide.label>дозволена зона</AllowedAreaWide.label>
-  <Outfit.label>поточне спорядження</Outfit.label>
+  
+  <!-- EN: drug policy -->
   <DrugPolicy.label>політика щодо наркотиків</DrugPolicy.label>
-
-
+  
+  <!-- EN: food restriction -->
+  <FoodRestriction.label>TODO</FoodRestriction.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>господар</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>TODO</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>поточне спорядження</Outfit.label>
+  
 </LanguageData>

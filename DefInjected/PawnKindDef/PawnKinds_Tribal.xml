@@ -1,16 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<TribalWarrior.label>воїн</TribalWarrior.label>
-	<TribalWarrior.labelPlural>воїни</TribalWarrior.labelPlural>
-
-	<TribalArcher.label>лучник</TribalArcher.label>
-	<TribalArcher.labelPlural>лучники</TribalArcher.labelPlural>
-
-	<TribalChief.label>ватажок</TribalChief.label>
-	<TribalChief.labelPlural>ватажки</TribalChief.labelPlural>
-
-	<TribalTrader.label>торговець</TribalTrader.label>
-	<TribalTrader.labelPlural>торговці</TribalTrader.labelPlural>
-
+  
+  <!-- EN: archer -->
+  <Tribal_Archer.label>лучник</Tribal_Archer.label>
+  <Tribal_Archer.labelPlural>лучники</Tribal_Archer.labelPlural>
+  
+  <!-- EN: berserker -->
+  <Tribal_Berserker.label>TODO</Tribal_Berserker.label>
+  
+  <!-- EN: berserker chief -->
+  <Tribal_ChiefMelee.label>TODO</Tribal_ChiefMelee.label>
+  
+  <!-- EN: archer chief -->
+  <Tribal_ChiefRanged.label>ватажок</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.labelPlural>ватажки</Tribal_ChiefRanged.labelPlural>
+  
+  <!-- EN: heavy archer -->
+  <Tribal_HeavyArcher.label>TODO</Tribal_HeavyArcher.label>
+  
+  <!-- EN: hunter -->
+  <Tribal_Hunter.label>TODO</Tribal_Hunter.label>
+  
+  <!-- EN: penitent -->
+  <Tribal_Penitent.label>TODO</Tribal_Penitent.label>
+  
+  <!-- EN: trader -->
+  <Tribal_Trader.label>торговець</Tribal_Trader.label>
+  <Tribal_Trader.labelPlural>торговці</Tribal_Trader.labelPlural>
+  
+  <!-- EN: warrior -->
+  <Tribal_Warrior.label>воїн</Tribal_Warrior.label>
+  <Tribal_Warrior.labelPlural>воїни</Tribal_Warrior.labelPlural>
+  
 </LanguageData>

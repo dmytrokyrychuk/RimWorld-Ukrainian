@@ -1,21 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Consciousness.label>свідомість</Consciousness.label>
-	<Consciousness.labelMechanoids>обробка даних</Consciousness.labelMechanoids>
-
-	<Sight.label>зір</Sight.label>
-	<Hearing.label>слух</Hearing.label>
-	<Moving.label>пересування</Moving.label>
-	<Manipulation.label>працездатність</Manipulation.label>
-
-	<Talking.label>мова</Talking.label>
-	<Talking.labelMechanoids>зв’язок</Talking.labelMechanoids>
-
-	<Eating.label>харчування</Eating.label>
-	<Breathing.label>дихання</Breathing.label>
-	<BloodFiltration.label>фільтрація крові</BloodFiltration.label>
-	<BloodPumping.label>кров’яний тиск</BloodPumping.label>
-	<Metabolism.label>метаболізм</Metabolism.label>
-
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>фільтрація крові</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>кров’яний тиск</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>дихання</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>свідомість</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>обробка даних</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>харчування</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>слух</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>працездатність</Manipulation.label>
+  
+  <!-- EN: metabolism -->
+  <Metabolism.label>метаболізм</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>пересування</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>зір</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>мова</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>зв’язок</Talking.labelMechanoids>
+  
 </LanguageData>

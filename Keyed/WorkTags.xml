@@ -1,22 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<WorkTagNone>відсутнє</WorkTagNone>
-	<WorkTagIntellectual>інтелектуальна праця</WorkTagIntellectual>
-	<WorkTagManualDumb>фізична праця</WorkTagManualDumb>
-	<WorkTagManualSkilled>кваліфікована праця</WorkTagManualSkilled>
-	<WorkTagViolent>насильство</WorkTagViolent>
-	<WorkTagCaring>піклування</WorkTagCaring>
-	<WorkTagSocial>спілкування</WorkTagSocial>
-	<WorkTagScary>залякування</WorkTagScary>
-	<WorkTagAnimals>тваринництво</WorkTagAnimals>
-	<WorkTagArtistic>творчість</WorkTagArtistic>
-	<WorkTagCrafting>майстрування</WorkTagCrafting>
-	<WorkTagCooking>кухарство</WorkTagCooking>
-	<WorkTagFirefighting>пожежогасіння</WorkTagFirefighting>
-	<WorkTagCleaning>прибирання</WorkTagCleaning>
-	<WorkTagHauling>перенесення</WorkTagHauling>
-	<WorkTagPlantWork>землеробство</WorkTagPlantWork>
-	<WorkTagMining>шахтарство</WorkTagMining>
+  <!-- EN: none -->
+  <WorkTagNone>відсутнє</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>інтелектуальна праця</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>фізична праця</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>кваліфікована праця</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>насильство</WorkTagViolent>
+  <!-- EN: caring -->
+  <WorkTagCaring>піклування</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>спілкування</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>тваринництво</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>творчість</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>майстрування</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>кухарство</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>пожежогасіння</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>прибирання</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>перенесення</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>землеробство</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>шахтарство</WorkTagMining>
+
+  <!-- UNUSED -->
+  <WorkTagScary>залякування</WorkTagScary>
 
 </LanguageData>

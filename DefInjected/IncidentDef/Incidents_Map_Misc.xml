@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>Альфабобри</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>TODO</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>TODO</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>TODO</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>Хрещенські морози</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Хрещенські морози</ColdSnap.letterLabel>
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText>Несподівано настала дуже холодна погода. Стережіться гіпотермії та падіння врожаю.</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>Хвороба рослин</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>Свійські тварини</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Шторм</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Шторм</Flashstorm.letterLabel>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText>Незвичайно велика кількість втраплянь блискавок у відносно невелику територію. Стережіться пожеж..</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>Хвиля спеки</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Хвиля спеки</HeatWave.letterLabel>
+  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
+  <HeatWave.letterText>Прийшла хвиля надзвичайно жаркої й спекотної погоди, стережіться теплових ударів.</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>TODO</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>TODO</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>TODO</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>TODO</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>TODO</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>TODO</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>Психошторм</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>Психічне заспокоєння</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>Вимога викупу</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>TODO</RansomDemand.letterLabel>
+  
+  <!-- EN: chased refugee -->
+  <RefugeeChased.label>Утікача переслідують</RefugeeChased.label>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>Падіння рятувальної капсули</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>Падіння капсул з ресурсами</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>Прибився до колонії</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>Коротке замикання</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>Проходить трумбо</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>Токсичні опади</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Токсичні опади</ToxicFallout.letterLabel>
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
+  <ToxicFallout.letterText>Далекі пожежі призвели до утворення хімічної хмари над регіоном.\n\nБудь-яка людина чи істота, яка не матиме даху над головою, буде постійно отримувати шкоду від токсичного пилу в атмосфері.\n\nПил буде розсіюватися від кількох днів до місяця.</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>Вулканічна зима</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Вулканічна зима</VolcanicWinter.letterLabel>
+  <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText>Супервулкан прокинувся і викинув до атмосфери мільйони тонн пилу.\n\nНа щастя, до нього більше кількох сотень кілометрів, але пил, викинутий вулканом, буде відбивати частину сонячного світла, що призведе до падіння температури. Рослини теж будуть страждати через нестачу сонячних променів. Остаточно пил осяде через декілька тижнів чи місяців.</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>Мандрівник приєднується</WandererJoin.label>
+  <!-- EN: Wanderer joins -->
+  <WandererJoin.letterLabel>TODO</WandererJoin.letterLabel>
+  <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <WandererJoin.letterText>TODO</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>TODO</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>TODO</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>TODO</WildManWandersIn.letterText>
+  
+</LanguageData>

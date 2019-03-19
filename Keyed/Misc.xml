@@ -1,75 +1,142 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<Autosaving>Автозапис</Autosaving>
+  <!-- EN: Autosaving -->
+  <Autosaving>Автозапис</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>Ви троє прокинулись у своїх капсулах крипто сну під звуки сирени та скрегіт металу. Тільки ви встигли добратися до рятівних капсул, як корабель розвалився на шматки.\n\nДеякий час потому ви приземлилися на цю невідому планету Rimworld.\n\nПід дощем із шматків корабля ви починаєте будувати нове життя.</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>колонії</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>Мову можна змінити лише у головному меню.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>та</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>недоступно</DisabledLower>
 
-	<GameStartDialog>Ви троє прокинулись у своїх капсулах крипто сну під звуки сирени та скрегіт металу. Тільки ви встигли добратися до рятівних капсул, як корабель розвалився на шматки.\n\nДеякий час потому ви приземлилися на цю невідому планету Rimworld.\n\nПід дощем із шматків корабля ви починаєте будувати нове життя.</GameStartDialog>
-
-	<Colony>колонії</Colony>
-
-	<ChangeLanguageFromMainMenu>Мову можна змінити лише у головному меню.</ChangeLanguageFromMainMenu>
-
-	<AndLower>та</AndLower>
-	<DisabledLower>недоступно</DisabledLower>
-
-	<CloseButton>Закрити</CloseButton>
-
-	<VersionIndicator>Версія {0}</VersionIndicator>
-	<DevelopmentBuildLower>тільки для тестувальників</DevelopmentBuildLower>
-	<CompiledOn>Збірка від {0}</CompiledOn>
-	<LoggedIntoSteamAs></LoggedIntoSteamAs>
+  <!-- EN: Version {0} -->
+  <VersionIndicator>Версія {0}</VersionIndicator>
+  <!-- EN: development build -->
+  <DevelopmentBuildLower>тільки для тестувальників</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
+  <CompiledOn>Збірка від {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs></LoggedIntoSteamAs>
 
   <!-- General-use words -->
-	<Yes>Так</Yes>
-	<No>Ні</No>
-	<min>мін</min>
-	<max>макс</max>
-	<chance>імовірність</chance>
-	<context>обстановка</context>
-	<multiplier>коефіцієнт</multiplier>
-	<damage>шкода</damage>
-	<radius>радіус</radius>
-	<durationDays>тривалість (днів)</durationDays>
+  <!-- EN: Yes -->
+  <Yes>Так</Yes>
+  <!-- EN: No -->
+  <No>Ні</No>
+  <!-- EN: min -->
+  <min>мін</min>
+  <!-- EN: max -->
+  <max>макс</max>
+  <!-- EN: chance -->
+  <chance>імовірність</chance>
+  <!-- EN: context -->
+  <context>обстановка</context>
+  <!-- EN: multiplier -->
+  <multiplier>коефіцієнт</multiplier>
+  <!-- EN: damage -->
+  <damage>шкода</damage>
+  <!-- EN: radius -->
+  <radius>радіус</radius>
+  <!-- EN: duration (days) -->
+  <durationDays>тривалість (днів)</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>TODO</intervalDays>
+  <!-- EN: repeat -->
+  <repeat>TODO</repeat>
+  <!-- EN: default -->
+  <default>TODO</default>
+  <!-- EN: distance -->
+  <distance>TODO</distance>
+  <!-- EN: YES -->
+  <YesUppercase>TODO</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>TODO</NoUppercase>
+  <!-- EN: kg -->
+  <kg>TODO</kg>
+  <!-- EN: Day -->
+  <Day>день</Day>
+  <!-- EN: day -->
+  <day>TODO</day>
+  <!-- EN: Default -->
+  <Default>TODO</Default>
+  <!-- EN: Average -->
+  <Average>TODO</Average>
+  <!-- EN: ${0} -->
+  <MoneyFormat>TODO</MoneyFormat>
+
+  <!-- Content generation-->
   
-  <!-- Content generation -->
+  <!-- EN: {0} meat -->
+  <MeatLabel>{0} м'ясо</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>Сире м'ясо {0}.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>TODO</MeatHumanDesc>
 
-	<MeatLabel>{0} м'ясо</MeatLabel>
-	<MeatDesc>Сире м'ясо {0}.</MeatDesc>
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>{0} тіло</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>Мертве тіло {0}.</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>{0} (мертвий)</DeadLabel>
 
-	<LeatherLabel>Шкіра {0}</LeatherLabel>
-	<LeatherDesc>Шкіра, вироблена з шкури {0}.</LeatherDesc>
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>грубий {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>Груба поверхня. Натуральний, необроблений {0}.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>неотесаний {0}</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>Невідшліфована поверхня. Видобутий, але не полірований {0}.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
+  <SmoothStoneTerrainLabel>згладжений {0}</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>Згладжена, блискуча поверхня з натурального {0}.</SmoothStoneTerrainDesc>
 
-	<CorpseLabel>{0} тіло</CorpseLabel>
-	<CorpseDesc>Мертве тіло {0}.</CorpseDesc>
-	<DeadLabel>{0} (мертвий)</DeadLabel>
+  <!-- EN:  (blueprint) -->
+  <BlueprintLabelExtra> (проект)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
+  <FrameLabelExtra> (будівництво)</FrameLabelExtra>
 
-	<RoughStoneTerrainLabel>грубий {0}</RoughStoneTerrainLabel>
-	<RoughStoneTerrainDesc>Груба поверхня. Натуральний, необроблений {0}.</RoughStoneTerrainDesc>
-	<RoughHewnStoneTerrainLabel>неотесаний {0}</RoughHewnStoneTerrainLabel>
-	<RoughHewnStoneTerrainDesc>Невідшліфована поверхня. Видобутий, але не полірований {0}.</RoughHewnStoneTerrainDesc>
-	<SmoothStoneTerrainLabel>згладжений {0}</SmoothStoneTerrainLabel>
-	<SmoothStoneTerrainDesc>Згладжена, блискуча поверхня з натурального {0}.</SmoothStoneTerrainDesc>
-
-	<BlueprintLabelExtra> (проект)</BlueprintLabelExtra>
-	<FrameLabelExtra> (будівництво)</FrameLabelExtra>
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>TODO</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
-
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>{1} з {0}</ThingMadeOfStuffLabel>
 
-	<ThingMadeOfStuffLabel>{1} з {0}</ThingMadeOfStuffLabel>
-
-  <!-- To express ownership. -->
-
-  <!-- For example Jack's Bedroom -->
-
-	<SomeonesRoom>{1} у власності {0}</SomeonesRoom>
-	<CouplesRoom>{2} {0} та {1}</CouplesRoom>
-
-	<VariousLabel>(різноманітне)</VariousLabel>
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{1} у власності {0}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{2} {0} та {1}</CouplesRoom>
+  
+  <!-- EN: (various) -->
+  <VariousLabel>(різноманітне)</VariousLabel>
 
   <!-- History events -->
-
-	<ColonistDied>Колоніст загинув</ColonistDied>
+  <!-- EN: Colonist died -->
+  <ColonistDied>Колоніст загинув</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>TODO</North>
+  <!-- EN: South -->
+  <South>TODO</South>
+  <!-- EN: West -->
+  <West>TODO</West>
+  <!-- EN: East -->
+  <East>TODO</East>
+  
+  <!-- UNUSED -->
+  <LeatherLabel>Шкіра {0}</LeatherLabel>
+  <LeatherDesc>Шкіра, вироблена з шкури {0}.</LeatherDesc>
 
 </LanguageData>

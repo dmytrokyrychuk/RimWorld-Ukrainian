@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<DebugBad.stages.0.label>Debugging: поганий настрій</DebugBad.stages.0.label>
-	<DebugBad.stages.0.description>Поганий настрій для розробки.</DebugBad.stages.0.description>
-
-	<DebugGood.stages.0.label>Debugging: гарний настрій</DebugGood.stages.0.label>
-	<DebugGood.stages.0.description>Гарний настрій для розробки.</DebugGood.stages.0.description>
-
+  
+  <!-- EN: debug bad thought -->
+  <DebugBad.stages.debug_bad_thought.label>Debugging: поганий настрій</DebugBad.stages.debug_bad_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugBad.stages.debug_bad_thought.description>Поганий настрій для розробки.</DebugBad.stages.debug_bad_thought.description>
+  
+  <!-- EN: debug good thought -->
+  <DebugGood.stages.debug_good_thought.label>Debugging: гарний настрій</DebugGood.stages.debug_good_thought.label>
+  <!-- EN: Test thought for debugging. -->
+  <DebugGood.stages.debug_good_thought.description>Гарний настрій для розробки.</DebugGood.stages.debug_good_thought.description>
+  
 </LanguageData>

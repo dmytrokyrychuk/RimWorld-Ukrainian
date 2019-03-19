@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced helmet -->
+  <Apparel_AdvancedHelmet.label>сучасний шолом</Apparel_AdvancedHelmet.label>
+  <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
+  <Apparel_AdvancedHelmet.description>Полегшений бойовий шолом складної будови, підсилений за допомогою плазметалу. Неефективний проти ударів тупою зброєю.</Apparel_AdvancedHelmet.description>
+  
+  <!-- EN: bowler hat -->
+  <Apparel_BowlerHat.label>котелок</Apparel_BowlerHat.label>
+  <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
+  <Apparel_BowlerHat.description>Гарний капелюх, що ніби робить із людини, котра носить його, аристократичного жителя міста. Хоча, певно, це лише мара. Принаймні, оточуючі починають проявляти деяку повагу.</Apparel_BowlerHat.description>
+  
+  <!-- EN: cowboy hat -->
+  <Apparel_CowboyHat.label>ковбойський капелюх</Apparel_CowboyHat.label>
+  <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
+  <Apparel_CowboyHat.description>Стильна, елегантна та м'яка на дотик. Відома як найважливіший аксесуар західного одягу.</Apparel_CowboyHat.description>
+  
+  <!-- EN: marine helmet -->
+  <Apparel_PowerArmorHelmet.label>шолом силової броні</Apparel_PowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <Apparel_PowerArmorHelmet.description>Частина потужної силової броні, найчастіше використовується важкою піхотою.</Apparel_PowerArmorHelmet.description>
+  
+  <!-- EN: psychic foil helmet -->
+  <Apparel_PsychicFoilHelmet.label>шолом з фольги</Apparel_PsychicFoilHelmet.label>
+  <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
+  <Apparel_PsychicFoilHelmet.description>Тонкий шолом, встелений шаром психічно-поглинаючої фольги, яка зменшує психічний вплив на носія</Apparel_PsychicFoilHelmet.description>
+  
+  <!-- EN: simple helmet -->
+  <Apparel_SimpleHelmet.label>простий шолом</Apparel_SimpleHelmet.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet.description>Простий шолом, що надає користувачу помірний захист від ріжучих атак, але неефективний проти ударів тупою зброєю.</Apparel_SimpleHelmet.description>
+  
+  <!-- EN: tribal headdress -->
+  <Apparel_TribalHeaddress.label>племінний головний убір</Apparel_TribalHeaddress.label>
+  <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
+  <Apparel_TribalHeaddress.description>Елегантний традиційний предмет одягу, часто з релігійним значенням. Покращує ставлення оточуючих до люини, котра носить її.</Apparel_TribalHeaddress.description>
+  
+  <!-- EN: tuque -->
+  <Apparel_Tuque.label>вовняний капелюх</Apparel_Tuque.label>
+  <!-- EN: A soft, thick cap. Great for keeping warm in winter. -->
+  <Apparel_Tuque.description>М’який теплий капелюх. Ідеально підходить для зими.</Apparel_Tuque.description>
+  
+  <!-- EN: war mask -->
+  <Apparel_WarMask.label>маска війни</Apparel_WarMask.label>
+  <!-- EN: An artistically terrifying war mask. Hides the wearer's face and makes them more confident. -->
+  <Apparel_WarMask.description>Майстерно зроблена жахлива маска війни. Приховує обличчя користувача та робить його більш впевненим.</Apparel_WarMask.description>
+  
+  <!-- EN: war veil -->
+  <Apparel_WarVeil.label>бойовий покрив</Apparel_WarVeil.label>
+  <!-- EN: A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
+  <Apparel_WarVeil.description>Бойовий покрив, зроблений із укріпленої тканини та подертий, щоб виглядати пошкодженим у бою. Дехто вірить, що цей одяг може слугувати талісманом, що надає хоробрості користувачу.</Apparel_WarVeil.description>
+  
+</LanguageData>

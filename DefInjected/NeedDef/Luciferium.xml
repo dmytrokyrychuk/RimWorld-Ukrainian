@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<!-- Luciferium addiction -->
-
-	<Chemical_Luciferium.label>Люциферій</Chemical_Luciferium.label>
-	<Chemical_Luciferium.description>Тіло цієї людини підсилене механітами люциферія.\n\nБез регулярного вживання люциферія, ці механіти втратять синхронізацію. Якщо це трапиться, людина зшаленіє, що врешті-решт призведе до її смерті.\n\nЦієї залежності неможливо позбутися.</Chemical_Luciferium.description>
-
-
+  
+  <!-- EN: luciferium -->
+  <Chemical_Luciferium.label>Люциферій</Chemical_Luciferium.label>
+  <!-- EN: This person's body is enhanced by luciferium mechanites.\n\nWithout regular doses of luciferium, the mechanites will lose cohesion. If this happens, the user becomes continuously, violently insane and eventually dies.\n\nThis addiction never goes away. -->
+  <Chemical_Luciferium.description>Тіло цієї людини підсилене механітами люциферія.\n\nБез регулярного вживання люциферія, ці механіти втратять синхронізацію. Якщо це трапиться, людина зшаленіє, що врешті-решт призведе до її смерті.\n\nЦієї залежності неможливо позбутися.</Chemical_Luciferium.description>
+  
 </LanguageData>

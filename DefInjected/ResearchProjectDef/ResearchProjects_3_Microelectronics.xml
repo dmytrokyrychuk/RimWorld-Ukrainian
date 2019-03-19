@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colored lights -->
+  <ColoredLights.label>Кольорове освітлення</ColoredLights.label>
+  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
+  <ColoredLights.description>Дозволяє колоністам створювати кольорові лампи-прикраси.</ColoredLights.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
+  <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
+  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
+  
+  <!-- EN: autocannon turret -->
+  <HeavyTurrets.label>TODO</HeavyTurrets.label>
+  <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
+  <HeavyTurrets.description>TODO</HeavyTurrets.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>Лікарняне обладнання</HospitalBed.label>
+  <!-- EN: Construct hospital beds which improve medical outcomes. -->
+  <HospitalBed.description>Дозволяє колоністам обладнувати лікарняні ліжка, що підвищують шанси на успішну медичну допомогу.</HospitalBed.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>Сканери мінералів дальної дії</LongRangeMineralScanner.label>
+  <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
+  <LongRangeMineralScanner.description>Дозволяє створювати сканери мінералів дальної дії, які здійснюють пошук корисних копалин в найближчих областях (але не в тій, де він розміщений).\n\nСканер знаходить нове родовище копалин у радіусі 30 клітинок кожні ~30 днів.\n\nВстановлення неподалік додаткових сканерів майже не впливає на ефективність пошуку.</LongRangeMineralScanner.description>
+  
+  <!-- EN: medicine production -->
+  <MedicineProduction.label>Виготовлення медикаментів</MedicineProduction.label>
+  <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
+  <MedicineProduction.description>Дозволяє виготовляти медикаменти з лікарняних трав, нейтроаміна та тканини.</MedicineProduction.description>
+  
+  <!-- EN: microelectronics -->
+  <MicroelectronicsBasics.label>Базова мікроелектроніка</MicroelectronicsBasics.label>
+  <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
+  <MicroelectronicsBasics.description>Основи роботи з тонкою та складною електронікою. Це дослідження відкриває високотехнологічний дослідницький стіл, консоль зв'язку, а також інші проекти, як то телебачення та контейнери крипто-сну.</MicroelectronicsBasics.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>Дренажний насос</MoisturePump.label>
+  <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
+  <MoisturePump.description>Дозволяє створювати насос, який осушує вологий ґрунт.</MoisturePump.description>
+  
+  <!-- EN: multibarrel weapons -->
+  <MultibarrelWeapons.label>Багатоствольна зброя</MultibarrelWeapons.label>
+  <!-- EN: Assemble miniguns. -->
+  <MultibarrelWeapons.description>Дозволяє створювати мінігани.</MultibarrelWeapons.description>
+  
+  <!-- EN: precision rifling -->
+  <PrecisionRifling.label>TODO</PrecisionRifling.label>
+  <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>TODO</PrecisionRifling.description>
+  
+  <!-- EN: shield belt -->
+  <ShieldBelt.label>Поясні генератори щита</ShieldBelt.label>
+  <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
+  <ShieldBelt.description>Відкриває доступ до імпульсно-репульсорної технології, яка дозволяє створювати мініатюрні генератори захисного поля, що вбудовуються в пояс. Боєць, який носить такий пояс-щит, захищений від далекобійних атак, але і сам не може стріляти через захисне поле. Зазвичай це спорядження використовується у ближньому бою.</ShieldBelt.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>Транспортні капсули</TransportPod.label>
+  <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
+  <TransportPod.description>Дозволяє створювати транспортні капсули та катапульти, які відправляють ці капсули по суборбітальній траекторії на великі відстані.</TransportPod.description>
+  
+</LanguageData>

@@ -1,73 +1,119 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<TimeAsColonistOrColonyAnimal.label>часу як колоніст</TimeAsColonistOrColonyAnimal.label>
-	<TimeAsColonistOrColonyAnimal.description>Загальний час, який я пробув(ла) колоністом.</TimeAsColonistOrColonyAnimal.description>
-
-	<TimeAsPrisoner.label>часу як в'язень</TimeAsPrisoner.label>
-	<TimeAsPrisoner.description>Загальний час, який я пробув(ла) в'язнем.</TimeAsPrisoner.description>
-
-	<TimeInBed.label>часу в ліжку</TimeInBed.label>
-	<TimeInBed.description>Загальний час, проведений мною у ліжку.</TimeInBed.description>
-
-	<TimeInBedForMedicalReasons.label>часу в ліжку у зв'язку з лікуванням</TimeInBedForMedicalReasons.label>
-	<TimeInBedForMedicalReasons.description>Час, проведений мною у ліжку у зв'язку з лікуванням: очікування лікування, відновлення після поранень або здійснення операцій.</TimeInBedForMedicalReasons.description>
-
-	<TimeDowned.label>часу в нокауті</TimeDowned.label>
-	<TimeDowned.description>Загальний час, впродовж якого я був(ла) без свідомості.</TimeDowned.description>
-
-	<TimeGettingFood.label>час пошуку їжі та її споживання</TimeGettingFood.label>
-	<TimeGettingFood.description>Загальний час, витрачений мною на пошук та споживання їжі.</TimeGettingFood.description>
-
-	<TimeGettingJoy.label>час, витрачений на розваги</TimeGettingJoy.label>
-	<TimeGettingJoy.description>Загальний час, витрачений мною на розваги.</TimeGettingJoy.description>
-
-	<TimeUnderRoof.label>часу під дахом</TimeUnderRoof.label>
-	<TimeUnderRoof.description>Загальний час мого перебування під дахом.</TimeUnderRoof.description>
-
-	<TimeDrafted.label>часу в режимі бою</TimeDrafted.label>
-	<TimeDrafted.description>Загальний час, проведений мною в режимі бою.</TimeDrafted.description>
-
-	<TimeOnFire.label>часу у вогні</TimeOnFire.label>
-	<TimeOnFire.description>Загальний час, впродовж якого я перебував(ла) у вогні.</TimeOnFire.description>
-
-	<TimeInMentalState.label>часу в стані псих. зриву</TimeInMentalState.label>
-	<TimeInMentalState.description>Загальний час, впродовж якого я був(ла) у стані психічного зриву.</TimeInMentalState.description>
-
-	<TimeHauling.label>часу на перенесення</TimeHauling.label>
-	<TimeHauling.description>Загальний час, витрачений на перенесення мною речей.</TimeHauling.description>
-
-	<TimeHandlingAnimals.label>час дресування тварин</TimeHandlingAnimals.label>
-	<TimeHandlingAnimals.description>Загальний час, витрачений мною на роботу із тваринами.</TimeHandlingAnimals.description>
-
-	<TimeFirefighting.label>час гасіння пожеж</TimeFirefighting.label>
-	<TimeFirefighting.description>Загальний час, витрачений мною на боротьбу з вогнем.</TimeFirefighting.description>
-
-	<TimeWardening.label>часу як наглядач</TimeWardening.label>
-	<TimeWardening.description>Загальний час, який я провів(ела), виконуючи роботу наглядача.</TimeWardening.description>
-
-	<TimeHunting.label>час полювання</TimeHunting.label>
-	<TimeHunting.description>Загальний час, витрачений мною на полювання.</TimeHunting.description>
-
-	<TimeConstructing.label>час будівництва</TimeConstructing.label>
-	<TimeConstructing.description>Загальний час, витрачений мною на будівництво або розбір.</TimeConstructing.description>
-
-	<TimeTreatingAndFeeding.label>час догляду</TimeTreatingAndFeeding.label>
-	<TimeTreatingAndFeeding.description>Загальний час, витрачений мною для догляду за хворими.</TimeTreatingAndFeeding.description>
-
-	<TimeResearching.label>час дослідження</TimeResearching.label>
-	<TimeResearching.description>Загальний час, впродовж якого я здійснював(ла) дослідження.</TimeResearching.description>
-
-	<TimeCleaning.label>час прибирання</TimeCleaning.label>
-	<TimeCleaning.description>Загальний час, витрачений мною на прибирання.</TimeCleaning.description>
-
-	<TimeRepairing.label>час ремонту</TimeRepairing.label>
-	<TimeRepairing.description>Загальний час, витрачений мною на ремонт.</TimeRepairing.description>
-
-	<TimeMining.label>час розкопок</TimeMining.label>
-	<TimeMining.description>Загальний час, впродовж якого я копав(ла) гірську породу.</TimeMining.description>
-
-	<TimeSowingAndHarvesting.label>час садівництва</TimeSowingAndHarvesting.label>
-	<TimeSowingAndHarvesting.description>Загальний час, витрачений мною на скопування грядок, збір врожаю та зрізання рослин.</TimeSowingAndHarvesting.description>
-
+  
+  <!-- EN: time as a colonist -->
+  <TimeAsColonistOrColonyAnimal.label>часу як колоніст</TimeAsColonistOrColonyAnimal.label>
+  <!-- EN: Total time spent loyal to your community. -->
+  <TimeAsColonistOrColonyAnimal.description>Загальний час, який я пробув(ла) колоністом.</TimeAsColonistOrColonyAnimal.description>
+  
+  <!-- EN: time as a prisoner -->
+  <TimeAsPrisoner.label>часу як в'язень</TimeAsPrisoner.label>
+  <!-- EN: Total time spent as a prisoner. -->
+  <TimeAsPrisoner.description>Загальний час, який я пробув(ла) в'язнем.</TimeAsPrisoner.description>
+  
+  <!-- EN: time cleaning -->
+  <TimeCleaning.label>час прибирання</TimeCleaning.label>
+  <!-- EN: Total time spent cleaning. -->
+  <TimeCleaning.description>Загальний час, витрачений мною на прибирання.</TimeCleaning.description>
+  
+  <!-- EN: time constructing -->
+  <TimeConstructing.label>час будівництва</TimeConstructing.label>
+  <!-- EN: Total time spent constructing and deconstructing buildings. -->
+  <TimeConstructing.description>Загальний час, витрачений мною на будівництво або розбір.</TimeConstructing.description>
+  
+  <!-- EN: time downed -->
+  <TimeDowned.label>часу в нокауті</TimeDowned.label>
+  <!-- EN: Total time spent downed. -->
+  <TimeDowned.description>Загальний час, впродовж якого я був(ла) без свідомості.</TimeDowned.description>
+  
+  <!-- EN: time drafted -->
+  <TimeDrafted.label>часу в режимі бою</TimeDrafted.label>
+  <!-- EN: Total time spent drafted. -->
+  <TimeDrafted.description>Загальний час, проведений мною в режимі бою.</TimeDrafted.description>
+  
+  <!-- EN: time firefighting -->
+  <TimeFirefighting.label>час гасіння пожеж</TimeFirefighting.label>
+  <!-- EN: Total time spent firefighting. -->
+  <TimeFirefighting.description>Загальний час, витрачений мною на боротьбу з вогнем.</TimeFirefighting.description>
+  
+  <!-- EN: time finding food and eating -->
+  <TimeGettingFood.label>час пошуку їжі та її споживання</TimeGettingFood.label>
+  <!-- EN: Total time spent on finding food and eating. -->
+  <TimeGettingFood.description>Загальний час, витрачений мною на пошук та споживання їжі.</TimeGettingFood.description>
+  
+  <!-- EN: time spent on entertainment -->
+  <TimeGettingJoy.label>час, витрачений на розваги</TimeGettingJoy.label>
+  <!-- EN: Total time spent on entertainment. -->
+  <TimeGettingJoy.description>Загальний час, витрачений мною на розваги.</TimeGettingJoy.description>
+  
+  <!-- EN: time handling animals -->
+  <TimeHandlingAnimals.label>час дресування тварин</TimeHandlingAnimals.label>
+  <!-- EN: Total time spent handling animals. -->
+  <TimeHandlingAnimals.description>Загальний час, витрачений мною на роботу із тваринами.</TimeHandlingAnimals.description>
+  
+  <!-- EN: time hauling -->
+  <TimeHauling.label>часу на перенесення</TimeHauling.label>
+  <!-- EN: Total time spent hauling things. -->
+  <TimeHauling.description>Загальний час, витрачений на перенесення мною речей.</TimeHauling.description>
+  
+  <!-- EN: time hunting -->
+  <TimeHunting.label>час полювання</TimeHunting.label>
+  <!-- EN: Total time spent hunting. -->
+  <TimeHunting.description>Загальний час, витрачений мною на полювання.</TimeHunting.description>
+  
+  <!-- EN: time in a bed -->
+  <TimeInBed.label>часу в ліжку</TimeInBed.label>
+  <!-- EN: Total time spent in bed. -->
+  <TimeInBed.description>Загальний час, проведений мною у ліжку.</TimeInBed.description>
+  
+  <!-- EN: time in a bed for medical reasons -->
+  <TimeInBedForMedicalReasons.label>часу в ліжку у зв'язку з лікуванням</TimeInBedForMedicalReasons.label>
+  <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
+  <TimeInBedForMedicalReasons.description>Час, проведений мною у ліжку у зв'язку з лікуванням: очікування лікування, відновлення після поранень або здійснення операцій.</TimeInBedForMedicalReasons.description>
+  
+  <!-- EN: time in mental state -->
+  <TimeInMentalState.label>часу в стані псих. зриву</TimeInMentalState.label>
+  <!-- EN: Total time spent in an abnormal mental state. -->
+  <TimeInMentalState.description>Загальний час, впродовж якого я був(ла) у стані психічного зриву.</TimeInMentalState.description>
+  
+  <!-- EN: time mining -->
+  <TimeMining.label>час розкопок</TimeMining.label>
+  <!-- EN: Total time spent mining. -->
+  <TimeMining.description>Загальний час, впродовж якого я копав(ла) гірську породу.</TimeMining.description>
+  
+  <!-- EN: time on fire -->
+  <TimeOnFire.label>часу у вогні</TimeOnFire.label>
+  <!-- EN: Total time spent on fire. -->
+  <TimeOnFire.description>Загальний час, впродовж якого я перебував(ла) у вогні.</TimeOnFire.description>
+  
+  <!-- EN: time repairing -->
+  <TimeRepairing.label>час ремонту</TimeRepairing.label>
+  <!-- EN: Total time spent repairing. -->
+  <TimeRepairing.description>Загальний час, витрачений мною на ремонт.</TimeRepairing.description>
+  
+  <!-- EN: time researching -->
+  <TimeResearching.label>час дослідження</TimeResearching.label>
+  <!-- EN: Total time spent researching. -->
+  <TimeResearching.description>Загальний час, впродовж якого я здійснював(ла) дослідження.</TimeResearching.description>
+  
+  <!-- EN: time sowing and harvesting -->
+  <TimeSowingAndHarvesting.label>час садівництва</TimeSowingAndHarvesting.label>
+  <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
+  <TimeSowingAndHarvesting.description>Загальний час, витрачений мною на скопування грядок, збір врожаю та зрізання рослин.</TimeSowingAndHarvesting.description>
+  
+  <!-- EN: time treating and feeding -->
+  <TimeTreatingAndFeeding.label>час догляду</TimeTreatingAndFeeding.label>
+  <!-- EN: Total time spent treating and feeding patients. -->
+  <TimeTreatingAndFeeding.description>Загальний час, витрачений мною для догляду за хворими.</TimeTreatingAndFeeding.description>
+  
+  <!-- EN: time under a roof -->
+  <TimeUnderRoof.label>часу під дахом</TimeUnderRoof.label>
+  <!-- EN: Total time spent under a roof. -->
+  <TimeUnderRoof.description>Загальний час мого перебування під дахом.</TimeUnderRoof.description>
+  
+  <!-- EN: time wardening -->
+  <TimeWardening.label>часу як наглядач</TimeWardening.label>
+  <!-- EN: Total time spent wardening. -->
+  <TimeWardening.description>Загальний час, який я провів(ела), виконуючи роботу наглядача.</TimeWardening.description>
+  
 </LanguageData>

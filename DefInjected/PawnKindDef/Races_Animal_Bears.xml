@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>грізлі</Bear_Grizzly.label>
+  <Bear_Grizzly.labelPlural>грізлі</Bear_Grizzly.labelPlural>
+  <Bear_Grizzly.lifeStages.0.label>ведмежа грізлі</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.1.label>молодий грізлі</Bear_Grizzly.lifeStages.1.label>
+  <Bear_Grizzly.lifeStages.2.label>грізлі</Bear_Grizzly.lifeStages.2.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>полярний ведмідь</Bear_Polar.label>
+  <Bear_Polar.labelPlural>полярні ведмеді</Bear_Polar.labelPlural>
+  <Bear_Polar.lifeStages.0.label>полярне ведмежа</Bear_Polar.lifeStages.0.label>
+  <Bear_Polar.lifeStages.1.label>молодий полярний ведмідь</Bear_Polar.lifeStages.1.label>
+  <Bear_Polar.lifeStages.2.label>полярний ведмідь</Bear_Polar.lifeStages.2.label>
+  
+</LanguageData>

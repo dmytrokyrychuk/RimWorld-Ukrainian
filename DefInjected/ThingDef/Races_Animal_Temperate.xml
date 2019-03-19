@@ -1,61 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Cold weather animals -->
-
-	<Deer.label>олень</Deer.label>
-	<Deer.description>Стадна травоїдна тварина середнього розміру. Безпечні, якщо не турбувати.</Deer.description>
-	<Deer_Leather.label>шкіра оленя</Deer_Leather.label>
-	<Deer_Leather.description>Шкіра, здерта з оленя.</Deer_Leather.description>
-	<Deer_Leather.stuffProps.stuffAdjective>шкіри оленя</Deer_Leather.stuffProps.stuffAdjective>
-	<Deer_Meat.label>оленина</Deer_Meat.label>
-	<Deer_Meat.description>Сира оленина.</Deer_Meat.description>
-	<Deer_Corpse.label>туша оленя</Deer_Corpse.label>
-	<Deer_Corpse.description>Мертвий олень.</Deer_Corpse.description>
-
-	<Ibex.label>козеріг</Ibex.label>
-	<Ibex.description>Витривалі предки одомашнених козлів. Козероги живуть на лінї снігів, там, де більшість антилоп не виживає. Вони харчуюються лишайниками та поодинокими гірськими рослинами. Вони вміло стрибають серед голих скель, але яка різниця що на тій стороні - скеля чи голова ворога?</Ibex.description>
-	<Ibex_Leather.label>шкіра козерога</Ibex_Leather.label>
-	<Ibex_Leather.description>Шкіра, здерта з козерога.</Ibex_Leather.description>
-	<Ibex_Leather.stuffProps.stuffAdjective>шкіри козерога</Ibex_Leather.stuffProps.stuffAdjective>
-	<Ibex_Meat.label>м'ясо козерога</Ibex_Meat.label>
-	<Ibex_Meat.description>Сире м'ясо козерога.</Ibex_Meat.description>
-	<Ibex_Corpse.label>туша козерога</Ibex_Corpse.label>
-	<Ibex_Corpse.description>Мертвий козеріг.</Ibex_Corpse.description>
-
-	<Elk.label>лось</Elk.label>
-	<Elk.description>Великий представник родини оленевих, гарно пристосований до життя у холодному середовищі.</Elk.description>
-	<Elk_Leather.label>лосина</Elk_Leather.label>
-	<Elk_Leather.description>Шкіра, здерта з лося.</Elk_Leather.description>
-	<Elk_Leather.stuffProps.stuffAdjective>лосини</Elk_Leather.stuffProps.stuffAdjective>
-	<Elk_Meat.label>лосина</Elk_Meat.label>
-	<Elk_Meat.description>Сире м'ясо лося.</Elk_Meat.description>
-	<Elk_Corpse.label>туша лося</Elk_Corpse.label>
-	<Elk_Corpse.description>Мертвий лось.</Elk_Corpse.description>
-
-	<Caribou.label>північний олень</Caribou.label>
-	<Caribou.description>Великий представник родини оленевих, гарно пристосований до життя у холодному середовищі.</Caribou.description>
-	<Caribou_Leather.label>шкіра півічного оленя</Caribou_Leather.label>
-	<Caribou_Leather.description>Щкіра, здерта з північного оленя</Caribou_Leather.description>
-	<Caribou_Leather.stuffProps.stuffAdjective>шкіри північного оленя</Caribou_Leather.stuffProps.stuffAdjective>
-	<Caribou_Meat.label>м'ясо північного оленя</Caribou_Meat.label>
-	<Caribou_Meat.description>Сире м'ясо північного оленя.</Caribou_Meat.description>
-	<Caribou_Corpse.label>туша північного оленя</Caribou_Corpse.label>
-	<Caribou_Corpse.description>Мертвий північний олень.</Caribou_Corpse.description>
-
-	<WildBoar.label>вепр</WildBoar.label>
-	<WildBoar.description>Цей волохатий пращур домашніх свиней цінується за духмяний запах його м'яса, хоча й вважається нечистим в деяких культурах.</WildBoar.description>
-	<WildBoar_Corpse.label>туша вепра</WildBoar_Corpse.label>
-	<WildBoar_Corpse.description>Мертвий кабан.</WildBoar_Corpse.description>
-
-	<Tortoise.label>черепаха</Tortoise.label>
-	<Tortoise.description>Ця броньована сухопутна рептилія відома через свою повільність пересування та несподівано болючі укуси.</Tortoise.description>
-	<Tortoise_Leather.label>панцир</Tortoise_Leather.label>
-	<Tortoise_Leather.description>Панцир, здертий з черепахи.</Tortoise_Leather.description>
-	<Tortoise_Leather.stuffProps.stuffAdjective>панциру черепахи</Tortoise_Leather.stuffProps.stuffAdjective>
-	<Tortoise_Meat.label>м'ясо черепахи</Tortoise_Meat.label>
-	<Tortoise_Meat.description>Сире м'ясо черепахи.</Tortoise_Meat.description>
-	<Tortoise_Corpse.label>тушка черепахи</Tortoise_Corpse.label>
-	<Tortoise_Corpse.description>Мертва черепаха.</Tortoise_Corpse.description>
-
+  
+  <!-- EN: caribou -->
+  <Caribou.label>північний олень</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>Великий представник родини оленевих, гарно пристосований до життя у холодному середовищі.</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>TODO</Caribou.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>TODO</Caribou.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>TODO</Caribou.tools.head.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>олень</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>Стадна травоїдна тварина середнього розміру. Безпечні, якщо не турбувати.</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>TODO</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>TODO</Deer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>TODO</Deer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>TODO</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>TODO</Deer.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>лось</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>Великий представник родини оленевих, гарно пристосований до життя у холодному середовищі.</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>TODO</Elk.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>TODO</Elk.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Elk.tools.head.label>TODO</Elk.tools.head.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>козеріг</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>Витривалі предки одомашнених козлів. Козероги живуть на лінї снігів, там, де більшість антилоп не виживає. Вони харчуюються лишайниками та поодинокими гірськими рослинами. Вони вміло стрибають серед голих скель, але яка різниця що на тій стороні - скеля чи голова ворога?</Ibex.description>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>TODO</Ibex.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>TODO</Ibex.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>TODO</Ibex.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>черепаха</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>Ця броньована сухопутна рептилія відома через свою повільність пересування та несподівано болючі укуси.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>TODO</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>TODO</Tortoise.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>вепр</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>Цей волохатий пращур домашніх свиней цінується за духмяний запах його м'яса, хоча й вважається нечистим в деяких культурах.</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>TODO</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>TODO</WildBoar.tools.head.label>
+  
 </LanguageData>

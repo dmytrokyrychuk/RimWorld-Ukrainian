@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Beer -->
-
-	<Beer.label>пиво</Beer.label>
-	<Beer.description>Перший напій, не враховуючи воду, що споконвіку вживала людина. Пиво смачне, але, що більш важливо, воно спричиняє інтоксикацію. Зловживання може призвести до алкогольної залежності.</Beer.description>
-
-  <!-- Luxury -->
-
-	<Chocolate.label>шоколад</Chocolate.label>
-	<Chocolate.description>Смачна комбінація товчених какао бобів змішаних з цукром та ваніллю. Дуже смачно, але не дуже поживно.</Chocolate.description>
-
+  
+  <!-- EN: chocolate -->
+  <Chocolate.label>шоколад</Chocolate.label>
+  <!-- EN: A delicious preparation of cocoa seeds ground together with sugar and vanilla. It fulfills the need for recreation, but it is not very nutritious. -->
+  <Chocolate.description>Смачна комбінація товчених какао бобів змішаних з цукром та ваніллю. Дуже смачно, але не дуже поживно.</Chocolate.description>
+  
 </LanguageData>

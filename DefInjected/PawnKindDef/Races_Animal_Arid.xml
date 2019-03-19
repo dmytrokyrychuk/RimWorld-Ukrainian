@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>верблюд</Dromedary.label>
+  <!-- EN: dromedaries -->
+  <Dromedary.labelPlural>верблюди</Dromedary.labelPlural>
+  <!-- EN: dromedary calf -->
+  <Dromedary.lifeStages.dromedary_calf.label>маля верблюда</Dromedary.lifeStages.dromedary_calf.label>
+  <!-- EN: dromedary calves -->
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>TODO</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.1.label>молодий верблюд</Dromedary.lifeStages.1.label>
+  <Dromedary.lifeStages.2.label>верблюд</Dromedary.lifeStages.2.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>газель</Gazelle.label>
+  <Gazelle.labelPlural>газелі</Gazelle.labelPlural>
+  <Gazelle.lifeStages.0.label>маля газелі</Gazelle.lifeStages.0.label>
+  <Gazelle.lifeStages.1.label>молода газель</Gazelle.lifeStages.1.label>
+  <Gazelle.lifeStages.2.label>газель</Gazelle.lifeStages.2.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>ігуана</Iguana.label>
+  <Iguana.labelPlural>ігуани</Iguana.labelPlural>
+  <Iguana.lifeStages.0.label>маля ігуани</Iguana.lifeStages.0.label>
+  <Iguana.lifeStages.1.label>молода ігуана</Iguana.lifeStages.1.label>
+  <Iguana.lifeStages.2.label>ігуана</Iguana.lifeStages.2.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>муфало</Muffalo.label>
+  <Muffalo.labelPlural>муфало</Muffalo.labelPlural>
+  <!-- EN: muffalo calf -->
+  <Muffalo.lifeStages.muffalo_calf.label>маля муфало</Muffalo.lifeStages.muffalo_calf.label>
+  <!-- EN: muffalo calves -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>TODO</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.1.label>молоде муфало</Muffalo.lifeStages.1.label>
+  <Muffalo.lifeStages.2.label>муфало</Muffalo.lifeStages.2.label>
+  
+</LanguageData>

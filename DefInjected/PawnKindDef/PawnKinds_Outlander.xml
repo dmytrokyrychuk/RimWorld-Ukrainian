@@ -1,16 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Villager.label>житель</Villager.label>
-	<Villager.labelPlural>жителі</Villager.labelPlural>
-
-	<TownCouncilman.label>член міськради</TownCouncilman.label>
-	<TownCouncilman.labelPlural>члени міськради</TownCouncilman.labelPlural>
-
-	<TownTrader.label>міський торговець</TownTrader.label>
-	<TownTrader.labelPlural>міські торговці</TownTrader.labelPlural>
-
-	<TownGuard.label>охоронник міста</TownGuard.label>
-	<TownGuard.labelPlural>охоронники міста</TownGuard.labelPlural>
-
+  
+  <!-- EN: town councilman -->
+  <Town_Councilman.label>член міськради</Town_Councilman.label>
+  <!-- EN: town councilmen -->
+  <Town_Councilman.labelPlural>члени міськради</Town_Councilman.labelPlural>
+  
+  <!-- EN: town guard -->
+  <Town_Guard.label>охоронник міста</Town_Guard.label>
+  <Town_Guard.labelPlural>охоронники міста</Town_Guard.labelPlural>
+  
+  <!-- EN: town trader -->
+  <Town_Trader.label>міський торговець</Town_Trader.label>
+  <Town_Trader.labelPlural>міські торговці</Town_Trader.labelPlural>
+  
+  <!-- EN: villager -->
+  <Villager.label>житель</Villager.label>
+  <Villager.labelPlural>жителі</Villager.labelPlural>
+  
 </LanguageData>

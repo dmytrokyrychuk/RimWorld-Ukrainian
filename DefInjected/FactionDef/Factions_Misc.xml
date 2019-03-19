@@ -1,22 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Normal humanlike factions -->
-
-	<Outlander.label>фракція чужинців</Outlander.label>
-	<Outlander.description>Невелике товариство врятувавшихся.\n\nЦі люди живуть тут впродовж декількох десятиріч. Вони загубили більшу частину технологій, що привела їх сюди. В роботі, зазвичай, використовують прості механічні конструкції та інструменти. Захищаються модифікованою зброєю вогнепальних часів.\n\nЗа своєю природою, вони не агресивні та не слабкі, вони зацікавлені в торгівлі, довірі та порятунку.</Outlander.description>
-	<Outlander.pawnsPlural>чужинці</Outlander.pawnsPlural>
-	<Outlander.leaderTitle>мер</Outlander.leaderTitle>
-
-	<Pirate.label>піратська братія</Pirate.label>
-	<Pirate.description>Зграя бандитів.\n\nПірати не займаються землеробством або будівництвом, крім того, майже не торгують. Головним чином, вони збагачуються за рахунок рейдів і пограбування більш продуктивних груп регіону.\n\nРівень їх технологій звичайно залежить від того, що, і в кого, їм нещодавно вдалось вкрасти. Зазвичай вони екіпіровані вогнепальною зброєю, хоча більш удачливі можуть мати новітню енергетичну зброю, але й завжди знайдуться декілька прихильників зарізати ворога в ближньому бою.</Pirate.description>
-	<Pirate.pawnsPlural>пірати</Pirate.pawnsPlural>
-	<Pirate.leaderTitle>атаман</Pirate.leaderTitle>
-
-	<Tribe.label>плем'я</Tribe.label>
-	<Tribe.description>Ці люди живуть тут дуже-дуже давно. Можливо так сталося, що їх предки розбились в цьому місці тисячу, а може й більше років тому. Можливо, вони пережили катаклізм, який зруйнував місцеву технологічну цивілізацію. У будь-якому випадку, більшість аборигенів - кочівники, існуючі за рахунок землі, використовуючи примітивні інструменти та зброю.\n\nДеякі племена більш агресивні ніж інші. Багато хто з них відкритий для торгівлі та альянсів, навіть з дуже дивними людьми як ви. Близьке співробітництво та найм буде дуже важким через колосальну різницю рівней соціотехнологічного розвитку та мовний бар'єр між аборигенами та вами.\n\nНезважаючи на їх очевидну технологічну відсталість, дикуни можуть бути як небезпечними ворогами, так і цінними друзями, дякуючи їх майстерному володінню низькотехнологічною зброєю, кількості та витривалості.</Tribe.description>
-	<Tribe.pawnsPlural>аборигени</Tribe.pawnsPlural>
-	<Tribe.leaderTitle>ватажок</Tribe.leaderTitle>
-
+  
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>фракція чужинців</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>Невелике товариство врятувавшихся.\n\nЦі люди живуть тут впродовж декількох десятиріч. Вони загубили більшу частину технологій, що привела їх сюди. В роботі, зазвичай, використовують прості механічні конструкції та інструменти. Захищаються модифікованою зброєю вогнепальних часів.\n\nЗа своєю природою, вони не агресивні та не слабкі, вони зацікавлені в торгівлі, довірі та порятунку.</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>мер</OutlanderCivil.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>TODO</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>чужинці</OutlanderCivil.pawnsPlural>
+  
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>TODO</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>TODO</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>TODO</OutlanderRough.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>TODO</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>TODO</OutlanderRough.pawnsPlural>
+  
+  <!-- EN: pirate band -->
+  <Pirate.label>піратська братія</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>Зграя бандитів.\n\nПірати не займаються землеробством або будівництвом, крім того, майже не торгують. Головним чином, вони збагачуються за рахунок рейдів і пограбування більш продуктивних груп регіону.\n\nРівень їх технологій звичайно залежить від того, що, і в кого, їм нещодавно вдалось вкрасти. Зазвичай вони екіпіровані вогнепальною зброєю, хоча більш удачливі можуть мати новітню енергетичну зброю, але й завжди знайдуться декілька прихильників зарізати ворога в ближньому бою.</Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>атаман</Pirate.leaderTitle>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>TODO</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>пірати</Pirate.pawnsPlural>
+  
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>плем'я</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>Ці люди живуть тут дуже-дуже давно. Можливо так сталося, що їх предки розбились в цьому місці тисячу, а може й більше років тому. Можливо, вони пережили катаклізм, який зруйнував місцеву технологічну цивілізацію. У будь-якому випадку, більшість аборигенів - кочівники, існуючі за рахунок землі, використовуючи примітивні інструменти та зброю.\n\nДеякі племена більш агресивні ніж інші. Багато хто з них відкритий для торгівлі та альянсів, навіть з дуже дивними людьми як ви. Близьке співробітництво та найм буде дуже важким через колосальну різницю рівней соціотехнологічного розвитку та мовний бар'єр між аборигенами та вами.\n\nНезважаючи на їх очевидну технологічну відсталість, дикуни можуть бути як небезпечними ворогами, так і цінними друзями, дякуючи їх майстерному володінню низькотехнологічною зброєю, кількості та витривалості.</TribeCivil.description>
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>ватажок</TribeCivil.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>TODO</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>аборигени</TribeCivil.pawnsPlural>
+  
+  <!-- EN: savage tribe -->
+  <TribeRough.label>TODO</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>TODO</TribeRough.description>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>TODO</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>TODO</TribeRough.pawnsPlural>
   
 </LanguageData>

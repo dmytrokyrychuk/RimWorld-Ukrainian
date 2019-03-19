@@ -1,13 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Wealth.label>Багатство</Wealth.label>
-	<Wealth.graphLabelY>Величина</Wealth.graphLabelY>
-
-	<Population.label>Населення</Population.label>
-	<Population.graphLabelY>Колоністів</Population.graphLabelY>
-
-	<ColonistMood.label>Настрій колоністів</ColonistMood.label>
-	<ColonistMood.graphLabelY>% настрою колоністів</ColonistMood.graphLabelY>
-
+  
+  <!-- EN: colonist mood -->
+  <ColonistMood.label>Настрій колоністів</ColonistMood.label>
+  
+  <!-- UNUSED -->
+  <ColonistMood.graphLabelY>% настрою колоністів</ColonistMood.graphLabelY>
+  
+  <!-- EN: debug -->
+  <Debug.label>TODO</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>Населення</Population.label>
+  
+  <!-- UNUSED -->
+  <Population.graphLabelY>Колоністів</Population.graphLabelY>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>Багатство</Wealth.label>
+  
+  <!-- UNUSED -->
+  <Wealth.graphLabelY>Величина</Wealth.graphLabelY>
+  
 </LanguageData>

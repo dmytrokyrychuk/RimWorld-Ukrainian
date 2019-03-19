@@ -1,45 +1,114 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<LowExpectations.stages.0.label>Стримані очікування</LowExpectations.stages.0.label>
-	<LowExpectations.stages.0.description>Це не дуже багате місце. Марно сподіватися, що мене хтось тут буде балувати.</LowExpectations.stages.0.description>
-	<LowExpectations.stages.1.label>Низькі очікування</LowExpectations.stages.1.label>
-	<LowExpectations.stages.1.description>Тут ніхто не може дозволити собі зайвої розкоші. Маю тримати себе в руках.</LowExpectations.stages.1.description>
-	<LowExpectations.stages.2.label>Дуже низькі очікування</LowExpectations.stages.2.label>
-	<LowExpectations.stages.2.description>Це місце смердить біднотою. Годі й сподіватися на який-небудь комфорт тут; Тримаймося!</LowExpectations.stages.2.description>
-	<LowExpectations.stages.3.label>Наднизькі очікування</LowExpectations.stages.3.label>
-	<LowExpectations.stages.3.description>Тут ледве можна знайти притулок від стихії. Маю кріпитися - прорвемося!</LowExpectations.stages.3.description>
-
-	<EnvironmentDark.stages.0.label>в темряві</EnvironmentDark.stages.0.label>
-	<EnvironmentDark.stages.0.description>Я був у темряві деякий час. Мені це не подобається.</EnvironmentDark.stages.0.description>
-
-	<CabinFever.stages.0.label>клаустрофобія (легка)</CabinFever.stages.0.label>
-	<CabinFever.stages.0.description>Я не був назовні вже декілька днів. Меня потрібно провітритися.</CabinFever.stages.0.description>
-	<CabinFever.stages.1.label>клаустрофобія (серйозна)</CabinFever.stages.1.label>
-	<CabinFever.stages.1.description>Я в пастці, як щур в мишоловці, уже дуже довго. Мені потрібно негайно вийти на вулицю або я збожеволію!</CabinFever.stages.1.description>
-
-	<ApparelDamaged.stages.0.label>поношений одяг</ApparelDamaged.stages.0.label>
-	<ApparelDamaged.stages.0.description>Мій одяг місцями продірявився. Невже в нас немає нічого кращого?</ApparelDamaged.stages.0.description>
-	<ApparelDamaged.stages.1.label>затасканий одяг</ApparelDamaged.stages.1.label>
-	<ApparelDamaged.stages.1.description>Це не одяг, а сором якийсь. Невже в нас немає нічого кращого за ці ганчірки?</ApparelDamaged.stages.1.description>
-
-	<Sick.stages.0.label>хворий</Sick.stages.0.label>
-	<Sick.stages.0.description>Я не дуже добре себе почуваю, я захворів.</Sick.stages.0.description>
-
-	<EnvironmentCold.stages.0.label>холодно</EnvironmentCold.stages.0.label>
-	<EnvironmentCold.stages.0.description>Я змерз.</EnvironmentCold.stages.0.description>
-	<EnvironmentCold.stages.1.label>дуже холодно</EnvironmentCold.stages.1.label>
-	<EnvironmentCold.stages.1.description>Як же холодно! *Бррр* Весь тремчу й ніяк не зігріюся.</EnvironmentCold.stages.1.description>
-	<EnvironmentCold.stages.2.label>холодрига</EnvironmentCold.stages.2.label>
-	<EnvironmentCold.stages.2.description>Від морозу зуб на зуб не попадає. Я не відчуваю ні рук ні ніг, здається вони вже синіють. Потрібно негайно зігрітися.</EnvironmentCold.stages.2.description>
-
-	<EnvironmentHot.stages.0.label>досить гаряче</EnvironmentHot.stages.0.label>
-	<EnvironmentHot.stages.0.description>Тут неприємно жарко, я спітнів.</EnvironmentHot.stages.0.description>
-	<EnvironmentHot.stages.1.label>спекотно</EnvironmentHot.stages.1.label>
-	<EnvironmentHot.stages.1.description>Від спеки голова чумна якась. Дуже жарко</EnvironmentHot.stages.1.description>
-	<EnvironmentHot.stages.2.label>дуже спекотно</EnvironmentHot.stages.2.label>
-	<EnvironmentHot.stages.2.description>Тут як у пічці! Я не знаю як довго я витримаю цю спеку.</EnvironmentHot.stages.2.description>
-	<EnvironmentHot.stages.3.label>пекло</EnvironmentHot.stages.3.label>
-	<EnvironmentHot.stages.3.description>З мене вже йде пара. А може це дим? Я тут спечусь, як пиріжок</EnvironmentHot.stages.3.description>
-
+  
+  <!-- EN: ratty apparel -->
+  <ApparelDamaged.stages.ratty_apparel.label>поношений одяг</ApparelDamaged.stages.ratty_apparel.label>
+  <!-- EN: The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
+  <ApparelDamaged.stages.ratty_apparel.description>Мій одяг місцями продірявився. Невже в нас немає нічого кращого?</ApparelDamaged.stages.ratty_apparel.description>
+  <!-- EN: tattered apparel -->
+  <ApparelDamaged.stages.tattered_apparel.label>затасканий одяг</ApparelDamaged.stages.tattered_apparel.label>
+  <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
+  <ApparelDamaged.stages.tattered_apparel.description>Це не одяг, а сором якийсь. Невже в нас немає нічого кращого за ці ганчірки?</ApparelDamaged.stages.tattered_apparel.description>
+  
+  <!-- UNUSED -->
+  <CabinFever.stages.0.label>клаустрофобія (легка)</CabinFever.stages.0.label>
+  <CabinFever.stages.0.description>Я не був назовні вже декілька днів. Меня потрібно провітритися.</CabinFever.stages.0.description>
+  <CabinFever.stages.1.label>клаустрофобія (серйозна)</CabinFever.stages.1.label>
+  <CabinFever.stages.1.description>Я в пастці, як щур в мишоловці, уже дуже довго. Мені потрібно негайно вийти на вулицю або я збожеволію!</CabinFever.stages.1.description>
+  
+  <!-- EN: tainted {0} -->
+  <DeadMansApparel.stages.tainted.label>TODO</DeadMansApparel.stages.tainted.label>
+  <!-- EN: I am wearing a piece of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted.description>TODO</DeadMansApparel.stages.tainted.description>
+  <!-- EN: tainted {0} (+1) -->
+  <DeadMansApparel.stages.tainted_1.label>TODO</DeadMansApparel.stages.tainted_1.label>
+  <!-- EN: I am wearing two pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_1.description>TODO</DeadMansApparel.stages.tainted_1.description>
+  <!-- EN: tainted {0} (+2) -->
+  <DeadMansApparel.stages.tainted_2.label>TODO</DeadMansApparel.stages.tainted_2.label>
+  <!-- EN: I am wearing three pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_2.description>TODO</DeadMansApparel.stages.tainted_2.description>
+  <!-- EN: tainted {0} etc -->
+  <DeadMansApparel.stages.tainted_etc.label>TODO</DeadMansApparel.stages.tainted_etc.label>
+  <!-- EN: I am wearing four or more pieces of apparel that someone died in. It creeps me out and feels dirty. -->
+  <DeadMansApparel.stages.tainted_etc.description>TODO</DeadMansApparel.stages.tainted_etc.description>
+  
+  <!-- EN: chilly -->
+  <EnvironmentCold.stages.chilly.label>холодно</EnvironmentCold.stages.chilly.label>
+  <!-- EN: I'm uncomfortably cold. -->
+  <EnvironmentCold.stages.chilly.description>Я змерз.</EnvironmentCold.stages.chilly.description>
+  <!-- EN: cold -->
+  <EnvironmentCold.stages.cold.label>дуже холодно</EnvironmentCold.stages.cold.label>
+  <!-- EN: I'm so cold, I'm shivering. -->
+  <EnvironmentCold.stages.cold.description>Як же холодно! *Бррр* Весь тремчу й ніяк не зігріюся.</EnvironmentCold.stages.cold.description>
+  <!-- EN: numbing cold -->
+  <EnvironmentCold.stages.numbing_cold.label>холодрига</EnvironmentCold.stages.numbing_cold.label>
+  <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
+  <EnvironmentCold.stages.numbing_cold.description>Від морозу зуб на зуб не попадає. Я не відчуваю ні рук ні ніг, здається вони вже синіють. Потрібно негайно зігрітися.</EnvironmentCold.stages.numbing_cold.description>
+  <!-- EN: absolutely freezing -->
+  <EnvironmentCold.stages.absolutely_freezing.label>TODO</EnvironmentCold.stages.absolutely_freezing.label>
+  <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
+  <EnvironmentCold.stages.absolutely_freezing.description>TODO</EnvironmentCold.stages.absolutely_freezing.description>
+  
+  <!-- EN: darkness -->
+  <EnvironmentDark.stages.darkness.label>в темряві</EnvironmentDark.stages.darkness.label>
+  <!-- EN: I've been in the dark for a while. I don't like it. -->
+  <EnvironmentDark.stages.darkness.description>Я був у темряві деякий час. Мені це не подобається.</EnvironmentDark.stages.darkness.description>
+  
+  <!-- EN: sweaty -->
+  <EnvironmentHot.stages.sweaty.label>досить гаряче</EnvironmentHot.stages.sweaty.label>
+  <!-- EN: It's too hot here. I'm sweating. -->
+  <EnvironmentHot.stages.sweaty.description>Тут неприємно жарко, я спітнів.</EnvironmentHot.stages.sweaty.description>
+  <!-- EN: hot -->
+  <EnvironmentHot.stages.hot.label>спекотно</EnvironmentHot.stages.hot.label>
+  <!-- EN: It's way too hot here. If I could just have a breath of cool air... -->
+  <EnvironmentHot.stages.hot.description>Від спеки голова чумна якась. Дуже жарко</EnvironmentHot.stages.hot.description>
+  <!-- EN: sweltering hot -->
+  <EnvironmentHot.stages.sweltering_hot.label>дуже спекотно</EnvironmentHot.stages.sweltering_hot.label>
+  <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
+  <EnvironmentHot.stages.sweltering_hot.description>Тут як у пічці! Я не знаю як довго я витримаю цю спеку.</EnvironmentHot.stages.sweltering_hot.description>
+  <!-- EN: blistering hot -->
+  <EnvironmentHot.stages.blistering_hot.label>пекло</EnvironmentHot.stages.blistering_hot.label>
+  <!-- EN: This place is searing hot. I think I could die from this heat! -->
+  <EnvironmentHot.stages.blistering_hot.description>З мене вже йде пара. А може це дим? Я тут спечусь, як пиріжок</EnvironmentHot.stages.blistering_hot.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelHappy.stages.human_leather.label>TODO</HumanLeatherApparelHappy.stages.human_leather.label>
+  <!-- EN: I enjoy wearing the suffering of others. -->
+  <HumanLeatherApparelHappy.stages.human_leather.description>TODO</HumanLeatherApparelHappy.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.label>TODO</HumanLeatherApparelHappy.stages.human_leather_1.label>
+  <!-- EN: This will scare them. All will know my power. -->
+  <HumanLeatherApparelHappy.stages.human_leather_1.description>TODO</HumanLeatherApparelHappy.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.label>TODO</HumanLeatherApparelHappy.stages.human_leather_2.label>
+  <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparelHappy.stages.human_leather_2.description>TODO</HumanLeatherApparelHappy.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.label>TODO</HumanLeatherApparelHappy.stages.human_leather_etc.label>
+  <!-- EN: The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparelHappy.stages.human_leather_etc.description>TODO</HumanLeatherApparelHappy.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparelSad.stages.human_leather.label>TODO</HumanLeatherApparelSad.stages.human_leather.label>
+  <!-- EN: Wearing human leather is disturbing. Who could do this? -->
+  <HumanLeatherApparelSad.stages.human_leather.description>TODO</HumanLeatherApparelSad.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparelSad.stages.human_leather_1.label>TODO</HumanLeatherApparelSad.stages.human_leather_1.label>
+  <!-- EN: I'm dressed like an insane person. -->
+  <HumanLeatherApparelSad.stages.human_leather_1.description>TODO</HumanLeatherApparelSad.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparelSad.stages.human_leather_2.label>TODO</HumanLeatherApparelSad.stages.human_leather_2.label>
+  <!-- EN: I think there may be a face on my clothes. Oh, no... my clothes *are* a face. -->
+  <HumanLeatherApparelSad.stages.human_leather_2.description>TODO</HumanLeatherApparelSad.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.label>TODO</HumanLeatherApparelSad.stages.human_leather_etc.label>
+  <!-- EN: I look like a freak from a horror show, and I feel like I'm in a horror show. -->
+  <HumanLeatherApparelSad.stages.human_leather_etc.description>TODO</HumanLeatherApparelSad.stages.human_leather_etc.description>
+  
+  <!-- EN: sick -->
+  <Sick.stages.sick.label>хворий</Sick.stages.sick.label>
+  <!-- EN: I don't feel very well. -->
+  <Sick.stages.sick.description>Я не дуже добре себе почуваю, я захворів.</Sick.stages.sick.description>
+  
 </LanguageData>

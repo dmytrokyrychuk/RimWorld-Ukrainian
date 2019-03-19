@@ -1,17 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Deterioration.label>зістарити (знос речей)</Deterioration.label>
-	<Mining.label>видобути (робота шахтаря)</Mining.label>
-	<Rotting.label>почати гниття</Rotting.label>
-	<Extinguish.label>гасити</Extinguish.label>
-
-  <!-- Stun -->
-
-	<Stun.label>оглушити</Stun.label>
-	<Stun.deathMessage>{0} був оглушений та помер.</Stun.deathMessage>
-
-	<EMP.label>зробити ЕМІ вибух</EMP.label>
-	<EMP.deathMessage>{0} загинув від ЕМІ.</EMP.deathMessage>
-
+  
+  <!-- EN: bomb -->
+  <Bomb.label>підірвати</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb.deathMessage>{0} загинув від вибуху.</Bomb.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombSuper.label>TODO</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
+  
+  <!-- EN: deterioration -->
+  <Deterioration.label>зістарити (знос речей)</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>TODO</Deterioration.deathMessage>
+  
+  <!-- EN: extinguish -->
+  <Extinguish.label>гасити</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>TODO</Extinguish.deathMessage>
+  
+  <!-- EN: mining -->
+  <Mining.label>видобути (робота шахтаря)</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>TODO</Mining.deathMessage>
+  
+  <!-- EN: rotting -->
+  <Rotting.label>почати гниття</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>TODO</Rotting.deathMessage>
+  
+  <!-- EN: smoke -->
+  <Smoke.label>TODO</Smoke.label>
+  <!-- EN: {0} has been killed. -->
+  <Smoke.deathMessage>TODO</Smoke.deathMessage>
+  
 </LanguageData>

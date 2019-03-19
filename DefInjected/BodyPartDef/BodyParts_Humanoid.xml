@@ -1,49 +1,154 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- base -->
-
-	<Torso.label>торс</Torso.label>
-	<LeftShoulder.label>ліве плече</LeftShoulder.label>
-	<LeftArm.label>ліва рука</LeftArm.label>
-	<LeftHand.label>ліва кисть</LeftHand.label>
-	<LeftHandPinky.label>мізинець лівої руки</LeftHandPinky.label>
-	<LeftHandRingFinger.label>підмізинний палець лівої руки</LeftHandRingFinger.label>
-	<LeftHandMiddleFinger.label>середній палець лівої руки</LeftHandMiddleFinger.label>
-	<LeftHandIndexFinger.label>указівний палець лівої руки</LeftHandIndexFinger.label>
-	<LeftHandThumb.label>великий палець лівої руки</LeftHandThumb.label>
-	<RightShoulder.label>праве плече</RightShoulder.label>
-	<RightArm.label>права рука</RightArm.label>
-	<RightHand.label>права кисть</RightHand.label>
-	<RightHandPinky.label>мізинець правої руки</RightHandPinky.label>
-	<RightHandRingFinger.label>підмізинний палець правої руки</RightHandRingFinger.label>
-	<RightHandMiddleFinger.label>середній палець правої руки</RightHandMiddleFinger.label>
-	<RightHandIndexFinger.label>указівний палець правої руки</RightHandIndexFinger.label>
-	<RightHandThumb.label>великий палець правої руки</RightHandThumb.label>
-	<LeftFootLittleToe.label>мізинець лівої ноги</LeftFootLittleToe.label>
-	<LeftFootFourthToe.label>підмізинний палець лівої ноги</LeftFootFourthToe.label>
-	<LeftFootMiddleToe.label>середній палець лівої ноги</LeftFootMiddleToe.label>
-	<LeftFootSecondToe.label>указівний палець лівої ноги</LeftFootSecondToe.label>
-	<LeftFootBigToe.label>великий палець лівої ноги</LeftFootBigToe.label>
-	<RightFootLittleToe.label>мізинець правої ноги</RightFootLittleToe.label>
-	<RightFootFourthToe.label>підмізинний палець правої ноги</RightFootFourthToe.label>
-	<RightFootMiddleToe.label>середній палець правої ноги</RightFootMiddleToe.label>
-	<RightFootSecondToe.label>указівний палець правої ноги</RightFootSecondToe.label>
-	<RightFootBigToe.label>великий палець правої ноги</RightFootBigToe.label>
-
-  <!-- Bones -->
-
-	<LeftClavicle.label>ліва ключиця</LeftClavicle.label>
-	<RightClavicle.label>права ключиця</RightClavicle.label>
-	<Sternum.label>грудина</Sternum.label>
-	<LeftHumerus.label>ліве плече</LeftHumerus.label>
-	<RightHumerus.label>праве плече</RightHumerus.label>
-	<LeftRadius.label>ліве передпліччя</LeftRadius.label>
-	<RightRadius.label>праве передпліччя</RightRadius.label>
-	<Pelvis.label>таз</Pelvis.label>
-	<LeftFemur.label>ліве стегно</LeftFemur.label>
-	<RightFemur.label>праве стегно</RightFemur.label>
-	<LeftTibia.label>ліва гомілка</LeftTibia.label>
-	<RightTibia.label>права гомілка</RightTibia.label>
-
+  
+  <!-- EN: arm -->
+  <Arm.label>TODO</Arm.label>
+  
+  <!-- EN: clavicle -->
+  <Clavicle.label>TODO</Clavicle.label>
+  
+  <!-- EN: femur -->
+  <Femur.label>TODO</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>TODO</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>TODO</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>TODO</Humerus.label>
+  
+  <!-- UNUSED -->
+  <LeftArm.label>ліва рука</LeftArm.label>
+  
+  <!-- UNUSED -->
+  <LeftClavicle.label>ліва ключиця</LeftClavicle.label>
+  
+  <!-- UNUSED -->
+  <LeftFemur.label>ліве стегно</LeftFemur.label>
+  
+  <!-- UNUSED -->
+  <LeftFootBigToe.label>великий палець лівої ноги</LeftFootBigToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootFourthToe.label>підмізинний палець лівої ноги</LeftFootFourthToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootLittleToe.label>мізинець лівої ноги</LeftFootLittleToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootMiddleToe.label>середній палець лівої ноги</LeftFootMiddleToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootSecondToe.label>указівний палець лівої ноги</LeftFootSecondToe.label>
+  
+  <!-- UNUSED -->
+  <LeftHand.label>ліва кисть</LeftHand.label>
+  
+  <!-- UNUSED -->
+  <LeftHandIndexFinger.label>указівний палець лівої руки</LeftHandIndexFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandMiddleFinger.label>середній палець лівої руки</LeftHandMiddleFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandPinky.label>мізинець лівої руки</LeftHandPinky.label>
+  
+  <!-- UNUSED -->
+  <LeftHandRingFinger.label>підмізинний палець лівої руки</LeftHandRingFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandThumb.label>великий палець лівої руки</LeftHandThumb.label>
+  
+  <!-- UNUSED -->
+  <LeftHumerus.label>ліве плече</LeftHumerus.label>
+  
+  <!-- UNUSED -->
+  <LeftRadius.label>ліве передпліччя</LeftRadius.label>
+  
+  <!-- UNUSED -->
+  <LeftShoulder.label>ліве плече</LeftShoulder.label>
+  
+  <!-- UNUSED -->
+  <LeftTibia.label>ліва гомілка</LeftTibia.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>таз</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>TODO</Radius.label>
+  
+  <!-- UNUSED -->
+  <RightArm.label>права рука</RightArm.label>
+  
+  <!-- UNUSED -->
+  <RightClavicle.label>права ключиця</RightClavicle.label>
+  
+  <!-- UNUSED -->
+  <RightFemur.label>праве стегно</RightFemur.label>
+  
+  <!-- UNUSED -->
+  <RightFootBigToe.label>великий палець правої ноги</RightFootBigToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootFourthToe.label>підмізинний палець правої ноги</RightFootFourthToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootLittleToe.label>мізинець правої ноги</RightFootLittleToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootMiddleToe.label>середній палець правої ноги</RightFootMiddleToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootSecondToe.label>указівний палець правої ноги</RightFootSecondToe.label>
+  
+  <!-- UNUSED -->
+  <RightHand.label>права кисть</RightHand.label>
+  
+  <!-- UNUSED -->
+  <RightHandIndexFinger.label>указівний палець правої руки</RightHandIndexFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandMiddleFinger.label>середній палець правої руки</RightHandMiddleFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandPinky.label>мізинець правої руки</RightHandPinky.label>
+  
+  <!-- UNUSED -->
+  <RightHandRingFinger.label>підмізинний палець правої руки</RightHandRingFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandThumb.label>великий палець правої руки</RightHandThumb.label>
+  
+  <!-- UNUSED -->
+  <RightHumerus.label>праве плече</RightHumerus.label>
+  
+  <!-- UNUSED -->
+  <RightRadius.label>праве передпліччя</RightRadius.label>
+  
+  <!-- UNUSED -->
+  <RightShoulder.label>праве плече</RightShoulder.label>
+  
+  <!-- UNUSED -->
+  <RightTibia.label>права гомілка</RightTibia.label>
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>TODO</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>грудина</Sternum.label>
+  
+  <!-- EN: tibia -->
+  <Tibia.label>TODO</Tibia.label>
+  
+  <!-- EN: toe -->
+  <Toe.label>TODO</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>торс</Torso.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>TODO</Waist.label>
+  
 </LanguageData>

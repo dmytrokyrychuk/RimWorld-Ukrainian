@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede -->
+  <Mech_Centipede.label>гусениця</Mech_Centipede.label>
+  <Mech_Centipede.labelPlural>гусениці</Mech_Centipede.labelPlural>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>TODO</Mech_Lancer.label>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>косар</Mech_Scyther.label>
+  <Mech_Scyther.labelPlural>косарі</Mech_Scyther.labelPlural>
+  
+</LanguageData>

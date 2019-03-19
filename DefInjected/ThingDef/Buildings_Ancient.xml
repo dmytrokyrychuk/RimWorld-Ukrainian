@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: ancient concrete barrier -->
   <AncientConcreteBarrier.label>Стародавня бетонна огорожа</AncientConcreteBarrier.label>
+  <!-- EN: A traffic management solution from long ago. -->
   <AncientConcreteBarrier.description>Стародавній засіб для регулювання трафіку.</AncientConcreteBarrier.description>
-
+  
+  <!-- EN: ancient lamppost -->
   <AncientLamppost.label>Стародавній ліхтарний стовп</AncientLamppost.label>
+  <!-- EN: Road lighting from long ago. No longer functional. -->
   <AncientLamppost.description>Стародавній придорожній ліхтар. Більше не функціонує.</AncientLamppost.description>
-
+  
 </LanguageData>

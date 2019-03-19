@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Love -->
-
-	<GotMarried.stages.0.label>вступив(ла) у шлюб</GotMarried.stages.0.label>
-	<GotMarried.stages.0.description>Я вступив(ла) у шлюб! Життя повне можливостей!</GotMarried.stages.0.description>
-
-  <!-- Misc -->
-
-	<AttendedWedding.stages.0.label>був(ла) на весіллі</AttendedWedding.stages.0.label>
-	<AttendedWedding.stages.0.description>Як же чудово, бачити як двоє людей поєднують своє життя задля того, щоб побудувати краще майбутнє.</AttendedWedding.stages.0.description>
-
-	<AttendedParty.stages.0.label>був(ла) на вечірці</AttendedParty.stages.0.label>
-	<AttendedParty.stages.0.description>Я добре провів(вела) час на цій вечірці</AttendedParty.stages.0.description>
-
+  
+  <!-- EN: attended party -->
+  <AttendedParty.stages.attended_party.label>був(ла) на вечірці</AttendedParty.stages.attended_party.label>
+  <!-- EN: I had a good time at that party. -->
+  <AttendedParty.stages.attended_party.description>Я добре провів(вела) час на цій вечірці</AttendedParty.stages.attended_party.description>
+  
+  <!-- EN: attended wedding -->
+  <AttendedWedding.stages.attended_wedding.label>був(ла) на весіллі</AttendedWedding.stages.attended_wedding.label>
+  <!-- EN: It was great to see two people come together to build a future like that. -->
+  <AttendedWedding.stages.attended_wedding.description>Як же чудово, бачити як двоє людей поєднують своє життя задля того, щоб побудувати краще майбутнє.</AttendedWedding.stages.attended_wedding.description>
+  
+  <!-- EN: got married to {0} -->
+  <GotMarried.stages.got_married_to.label>вступив(ла) у шлюб</GotMarried.stages.got_married_to.label>
+  <!-- EN: I got married! It's so wonderful to be starting a new life together! -->
+  <GotMarried.stages.got_married_to.description>Я вступив(ла) у шлюб! Життя повне можливостей!</GotMarried.stages.got_married_to.description>
+  
 </LanguageData>

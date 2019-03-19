@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<CrashedPsychicEmanatorShipPart.label>Частина корабля, що розбився</CrashedPsychicEmanatorShipPart.label>
-	<CrashedPsychicEmanatorShipPart.description>Таємничий уламок космічного корабля, що розбився. Він може містити екзотичні матеріали, комп'ютери і, навіть, свій власний штучний інтелект. Ця технологія може бути небезпечною.</CrashedPsychicEmanatorShipPart.description>
-
-	<CrashedPoisonShipPart.label>Уламок корабля з отрутою</CrashedPoisonShipPart.label>
-	<CrashedPoisonShipPart.description>Таємничий уламок космічного корабля, що розбився. Він може містити екзотичні матеріали, комп'ютери і, навіть, свій власний штучний інтелект. Будьте обережними - здається, він отруює землю навколо себе.</CrashedPoisonShipPart.description>
-
-	<ShipChunk.label>Уламок корабля</ShipChunk.label>
-	<ShipChunk.description>Уламок космічного корабля. Можна розібрати, щоб отримати корисні сталь та компоненти.</ShipChunk.description>
-
+  
+  <!-- EN: ship part (poison) -->
+  <CrashedPoisonShipPart.label>Уламок корабля з отрутою</CrashedPoisonShipPart.label>
+  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be killing plant life around it. -->
+  <CrashedPoisonShipPart.description>Таємничий уламок космічного корабля, що розбився. Він може містити екзотичні матеріали, комп'ютери і, навіть, свій власний штучний інтелект. Будьте обережними - здається, він отруює землю навколо себе.</CrashedPoisonShipPart.description>
+  
+  <!-- EN: ship part (psychic) -->
+  <CrashedPsychicEmanatorShipPart.label>Частина корабля, що розбився</CrashedPsychicEmanatorShipPart.label>
+  <!-- EN: A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves. -->
+  <CrashedPsychicEmanatorShipPart.description>Таємничий уламок космічного корабля, що розбився. Він може містити екзотичні матеріали, комп'ютери і, навіть, свій власний штучний інтелект. Ця технологія може бути небезпечною.</CrashedPsychicEmanatorShipPart.description>
+  
+  <!-- EN: ship chunk -->
+  <ShipChunk.label>Уламок корабля</ShipChunk.label>
+  <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
+  <ShipChunk.description>Уламок космічного корабля. Можна розібрати, щоб отримати корисні сталь та компоненти.</ShipChunk.description>
+  
 </LanguageData>

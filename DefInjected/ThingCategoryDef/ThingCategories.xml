@@ -1,69 +1,151 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Root.label>Корінь</Root.label>
-
-	<!-- Foods -->
-
-	<Foods.label>Продукти</Foods.label>
-	<FoodMeals.label>Готова їжа</FoodMeals.label>
-	<FoodRaw.label>Сира їжа</FoodRaw.label>
-	<MeatRaw.label>М’ясо</MeatRaw.label>
-	<PlantFoodRaw.label>Овочі та фрукти</PlantFoodRaw.label>
-	<AnimalProductRaw.label>Тваринного походження</AnimalProductRaw.label>
-	<EggsUnfertilized.label>Яйця (незапл.)</EggsUnfertilized.label>
-	<EggsFertilized.label>Яйця (запл.)</EggsFertilized.label>
-
-	<!-- Manufactured -->
-
-	<Manufactured.label>Пром. вироби</Manufactured.label>
-	<Textiles.label>Тканини</Textiles.label>
-	<Leathers.label>Шкіри</Leathers.label>
-	<Medicine.label>Ліки</Medicine.label>
-	<Drugs.label>Наркотики</Drugs.label>
-
-	<!-- Raw resources -->
-
-	<ResourcesRaw.label>Матеріали</ResourcesRaw.label>
-	<PlantMatter.label>Рослинна сировина</PlantMatter.label>
-	<StoneBlocks.label>Кам’яні блоки</StoneBlocks.label>
-
-	<!--==================== Non-resource readout categories =====================-->
-
-	<!-- Items -->
-
-	<Items.label>Речі</Items.label>
-	<Art.label>Витвори мистецтва</Art.label>
-	<Furniture.label>Меблі</Furniture.label>
-	<Unfinished.label>Незавершене</Unfinished.label>
-	<Artifacts.label>Артефакти</Artifacts.label>
-	<BodyParts.label>Частини тіл</BodyParts.label>
-	<BodyPartsNatural.label>Натуральні</BodyPartsNatural.label>
-	<BodyPartsArtificial.label>Штучні</BodyPartsArtificial.label>
-
-	<!-- Weapons -->
-
-	<Weapons.label>Зброя</Weapons.label>
-	<WeaponsMelee.label>Холодна зброя</WeaponsMelee.label>
-	<WeaponsRanged.label>Зброя дального бою</WeaponsRanged.label>
-	<Grenades.label>Гранати</Grenades.label>
-
-	<!-- Apparel -->
-
-	<Apparel.label>Одяг</Apparel.label>
-	<Headgear.label>Головні убори</Headgear.label>
-
-	<!-- Chunks -->
-
-	<Chunks.label>Вторсировина</Chunks.label>
-	<StoneChunks.label>Кам’яні уламки</StoneChunks.label>
-
-	<!-- Corpses -->
-
-	<Corpses.label>Трупи</Corpses.label>
-	<CorpsesHumanlike.label>Трупи людей</CorpsesHumanlike.label>
-	<CorpsesAnimal.label>Трупи тварин</CorpsesAnimal.label>
-	<CorpsesInsect.label>Трупи комах</CorpsesInsect.label>
-	<CorpsesMechanoid.label>Рештки механоїдів</CorpsesMechanoid.label>
-
+  
+  <!-- EN: animal products -->
+  <AnimalProductRaw.label>Тваринного походження</AnimalProductRaw.label>
+  
+  <!-- EN: apparel -->
+  <Apparel.label>Одяг</Apparel.label>
+  
+  <!-- UNUSED -->
+  <Art.label>Витвори мистецтва</Art.label>
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>Артефакти</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>Частини тіл</BodyParts.label>
+  
+  <!-- EN: artificial -->
+  <BodyPartsArtificial.label>Штучні</BodyPartsArtificial.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>Натуральні</BodyPartsNatural.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>TODO</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>TODO</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>TODO</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
+  <Chunks.label>Вторсировина</Chunks.label>
+  
+  <!-- EN: corpses -->
+  <Corpses.label>Трупи</Corpses.label>
+  
+  <!-- EN: animal corpses -->
+  <CorpsesAnimal.label>Трупи тварин</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>Трупи людей</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
+  <CorpsesInsect.label>Трупи комах</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
+  <CorpsesMechanoid.label>Рештки механоїдів</CorpsesMechanoid.label>
+  
+  <!-- EN: drugs -->
+  <Drugs.label>Наркотики</Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>Яйця (запл.)</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>Яйця (незапл.)</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>Готова їжа</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>Сира їжа</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>Продукти</Foods.label>
+  
+  <!-- UNUSED -->
+  <Furniture.label>Меблі</Furniture.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>Гранати</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>Головні убори</Headgear.label>
+  
+  <!-- EN: items -->
+  <Items.label>Речі</Items.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>Шкіри</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>Пром. вироби</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>М’ясо</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>Ліки</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>TODO</MortarShells.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>Овочі та фрукти</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>Рослинна сировина</PlantMatter.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>Матеріали</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>Корінь</Root.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>Кам’яні блоки</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>Кам’яні уламки</StoneChunks.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>Тканини</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>Незавершене</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>Зброя</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>Холодна зброя</WeaponsMelee.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>Зброя дального бою</WeaponsRanged.label>
+  
 </LanguageData>

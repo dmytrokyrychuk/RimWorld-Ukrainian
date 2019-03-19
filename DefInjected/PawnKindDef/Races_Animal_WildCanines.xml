@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>арктичний лис</Fox_Arctic.label>
+  <!-- EN: arctic foxes -->
+  <Fox_Arctic.labelPlural>арктичні лиси</Fox_Arctic.labelPlural>
+  <!-- EN: arctic fox puppy -->
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>лисеня</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <!-- EN: arctic fox puppies -->
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>TODO</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
+  <Fox_Arctic.lifeStages.1.label>молодий лис</Fox_Arctic.lifeStages.1.label>
+  <Fox_Arctic.lifeStages.2.label>арктичний лис</Fox_Arctic.lifeStages.2.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>пустельний лис</Fox_Fennec.label>
+  <!-- EN: fennec foxes -->
+  <Fox_Fennec.labelPlural>пустельні лиси</Fox_Fennec.labelPlural>
+  <!-- EN: fennec fox puppy -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>лисеня</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <!-- EN: fennec fox puppies -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>TODO</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
+  <Fox_Fennec.lifeStages.1.label>молодий лис</Fox_Fennec.lifeStages.1.label>
+  <Fox_Fennec.lifeStages.2.label>пустельний лис</Fox_Fennec.lifeStages.2.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>рудий лис</Fox_Red.label>
+  <!-- EN: red foxes -->
+  <Fox_Red.labelPlural>руді лиси</Fox_Red.labelPlural>
+  <!-- EN: red fox puppy -->
+  <Fox_Red.lifeStages.red_fox_puppy.label>лисеня</Fox_Red.lifeStages.red_fox_puppy.label>
+  <!-- EN: red fox puppies -->
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>TODO</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
+  <Fox_Red.lifeStages.1.label>молодий лис</Fox_Red.lifeStages.1.label>
+  <Fox_Red.lifeStages.2.label>рудий лис</Fox_Red.lifeStages.2.label>
+  
+  <!-- EN: warg -->
+  <Warg.label>варг</Warg.label>
+  <Warg.labelPlural>варги</Warg.labelPlural>
+  <!-- EN: warg puppy -->
+  <Warg.lifeStages.warg_puppy.label>варженя</Warg.lifeStages.warg_puppy.label>
+  <!-- EN: warg puppies -->
+  <Warg.lifeStages.warg_puppy.labelPlural>TODO</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.1.label>молодий варг</Warg.lifeStages.1.label>
+  <Warg.lifeStages.2.label>варг</Warg.lifeStages.2.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>арктичний вовк</Wolf_Arctic.label>
+  <!-- EN: arctic wolves -->
+  <Wolf_Arctic.labelPlural>арктичні вовки</Wolf_Arctic.labelPlural>
+  <!-- EN: arctic wolf puppy -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>вовченя</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  <!-- EN: arctic wolf puppies -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>TODO</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
+  <Wolf_Arctic.lifeStages.1.label>молодий вовк</Wolf_Arctic.lifeStages.1.label>
+  <Wolf_Arctic.lifeStages.2.label>арктичний вовк</Wolf_Arctic.lifeStages.2.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>вовк</Wolf_Timber.label>
+  <!-- EN: timber wolves -->
+  <Wolf_Timber.labelPlural>вовки</Wolf_Timber.labelPlural>
+  <!-- EN: timber wolf puppy -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>вовченя</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <!-- EN: timber wolf puppies -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>TODO</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Timber.lifeStages.1.label>молодий вовк</Wolf_Timber.lifeStages.1.label>
+  <Wolf_Timber.lifeStages.2.label>вовк</Wolf_Timber.lifeStages.2.label>
+  
+</LanguageData>

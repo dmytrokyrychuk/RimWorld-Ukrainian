@@ -1,24 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<MealSurvivalPack.label>Рятувальний пайок</MealSurvivalPack.label>
-	<MealSurvivalPack.description>Високоякісна упакована їжа, виготовлена  для використання в надзвичайних ситуаціях.</MealSurvivalPack.description>
-
-	<MealNutrientPaste.label>Живильна паста</MealNutrientPaste.label>
-	<MealNutrientPaste.description>Синтетична суміш із білків, вуглеводів, вітамінів, амінокислот і мінералів. Містить все, що потрібно організму, але, втім, абсолютно огидна.</MealNutrientPaste.description>
-
-	<MealSimple.label>Звичайне блюдо</MealSimple.label>
-	<MealSimple.description>Звичайна їжа, швидко готується з одиничних інгредієнтів.</MealSimple.description>
-
-	<MealFine.label>Смачне блюдо</MealFine.label>
-	<MealFine.description>Комплексне блюдо з декількох інгредієнтів.</MealFine.description>
-
-	<MealLavish.label>Делікатес</MealLavish.label>
-	<MealLavish.description>Шедевр кулінарного мистецтва, ця їжа живить як тіло, так і розум і душу.</MealLavish.description>
-
-	<Kibble.label>Комбікорм</Kibble.label>
-	<Kibble.description>Корм для тварин, створений із суміші м'яса та рослин</Kibble.description>
-
-	<Pemmican.label>Пеммікан</Pemmican.label>
-	<Pemmican.description>Суміш із м'яса та рослинної їжі. На смак це, звісно, не делікатес, але можна майже не турбуватися про те, що ця їжа зіпсується.</Pemmican.description>
+  
+  <!-- EN: kibble -->
+  <Kibble.label>Комбікорм</Kibble.label>
+  <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
+  <Kibble.description>Корм для тварин, створений із суміші м'яса та рослин</Kibble.description>
+  
+  <!-- EN: fine meal -->
+  <MealFine.label>Смачне блюдо</MealFine.label>
+  <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
+  <MealFine.description>Комплексне блюдо з декількох інгредієнтів.</MealFine.description>
+  
+  <!-- EN: lavish meal -->
+  <MealLavish.label>Делікатес</MealLavish.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish.description>Шедевр кулінарного мистецтва, ця їжа живить як тіло, так і розум і душу.</MealLavish.description>
+  
+  <!-- EN: nutrient paste meal -->
+  <MealNutrientPaste.label>Живильна паста</MealNutrientPaste.label>
+  <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
+  <MealNutrientPaste.description>Синтетична суміш із білків, вуглеводів, вітамінів, амінокислот і мінералів. Містить все, що потрібно організму, але, втім, абсолютно огидна.</MealNutrientPaste.description>
+  
+  <!-- EN: simple meal -->
+  <MealSimple.label>Звичайне блюдо</MealSimple.label>
+  <!-- EN: A simple meal quickly cooked from one main ingredient. -->
+  <MealSimple.description>Звичайна їжа, швидко готується з одиничних інгредієнтів.</MealSimple.description>
+  
+  <!-- EN: packaged survival meal -->
+  <MealSurvivalPack.label>Рятувальний пайок</MealSurvivalPack.label>
+  <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
+  <MealSurvivalPack.description>Високоякісна упакована їжа, виготовлена  для використання в надзвичайних ситуаціях.</MealSurvivalPack.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>Пеммікан</Pemmican.label>
+  <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
+  <Pemmican.description>Суміш із м'яса та рослинної їжі. На смак це, звісно, не делікатес, але можна майже не турбуватися про те, що ця їжа зіпсується.</Pemmican.description>
+  
 </LanguageData>

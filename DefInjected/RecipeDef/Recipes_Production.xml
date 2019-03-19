@@ -1,36 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<MakeStoneBlocksAny.label>Зробити кам’яні блоки</MakeStoneBlocksAny.label>
-	<MakeStoneBlocksAny.description>Зробити кам'яні блоки з уламків скель.</MakeStoneBlocksAny.description>
-	<MakeStoneBlocksAny.jobString>Оброблює каміння.</MakeStoneBlocksAny.jobString>
-
-	<ExtractMetalFromSlag.label>Видобути метал з шлаку</ExtractMetalFromSlag.label>
-	<ExtractMetalFromSlag.description>Використати високу температуру й потужні електромагніти щоб видобути метал із шматків шлаку.</ExtractMetalFromSlag.description>
-	<ExtractMetalFromSlag.jobString>Добуває метал з шлаку.</ExtractMetalFromSlag.jobString>
-
-	<SmeltWeapon.label>Видобути метал зі зброї</SmeltWeapon.label>
-	<SmeltWeapon.description>Використати високу температуру й потужні електромагніти щоб переплавити металеву зброю.</SmeltWeapon.description>
-	<SmeltWeapon.jobString>Добуває метал зі зброї.</SmeltWeapon.jobString>
-	
-	<DestroyWeapon.label>Знищити зброю</DestroyWeapon.label>
-	<DestroyWeapon.description>Знищити непотрібну зброю за допомогою високих температур. Здійснюється швидше, ніж переплавка. Таким чином також можна знищити неплавку зброю. Ви не отримуєте за це ніяких ресурсів.</DestroyWeapon.description>
-	<DestroyWeapon.jobString>Знищує зброю.</DestroyWeapon.jobString>
-
-	<MakeArtilleryShell.label>Створити артилерійський снаряд</MakeArtilleryShell.label>
-	<MakeArtilleryShell.description>Виготовити боєприпаси для мінометів.</MakeArtilleryShell.description>
-	<MakeArtilleryShell.jobString>Створює снаряд.</MakeArtilleryShell.jobString>
-
-	<MakeComponent.label>Створити компонент</MakeComponent.label>
-	<MakeComponent.description>Створити компонент.</MakeComponent.description>
-	<MakeComponent.jobString>Створює компонент.</MakeComponent.jobString>
-	
-	<MakeChemfuelFromWood.label>Зробити хімічне пальне із деревини</MakeChemfuelFromWood.label>
-	<MakeChemfuelFromWood.description>Зробити партію хімічного пального шляхом газифікації деревини.</MakeChemfuelFromWood.description>
-	<MakeChemfuelFromWood.jobString>Робить хімічне пальне із деревини.</MakeChemfuelFromWood.jobString>
-
-	<MakeChemfuelFromOrganics.label>Зробити хімічне пальне із органіки</MakeChemfuelFromOrganics.label>
-	<MakeChemfuelFromOrganics.description>Зробити партію хімічного пального шляхом видобутку біоактивних компонентів із органічної сировини.</MakeChemfuelFromOrganics.description>
-	<MakeChemfuelFromOrganics.jobString>Робить хімічне пальне із органіки.</MakeChemfuelFromOrganics.jobString>
-
+  
+  <!-- EN: destroy weapon -->
+  <DestroyWeapon.label>Знищити зброю</DestroyWeapon.label>
+  <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyWeapon.description>Знищити непотрібну зброю за допомогою високих температур. Здійснюється швидше, ніж переплавка. Таким чином також можна знищити неплавку зброю. Ви не отримуєте за це ніяких ресурсів.</DestroyWeapon.description>
+  <!-- EN: Destroying weapon. -->
+  <DestroyWeapon.jobString>Знищує зброю.</DestroyWeapon.jobString>
+  
+  <!-- EN: smelt metal from slag -->
+  <ExtractMetalFromSlag.label>Видобути метал з шлаку</ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <ExtractMetalFromSlag.description>Використати високу температуру й потужні електромагніти щоб видобути метал із шматків шлаку.</ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from slag. -->
+  <ExtractMetalFromSlag.jobString>Добуває метал з шлаку.</ExtractMetalFromSlag.jobString>
+  
+  <!-- EN: make chemfuel from organics -->
+  <Make_ChemfuelFromOrganics.label>Зробити хімічне пальне із органіки</Make_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <Make_ChemfuelFromOrganics.description>Зробити партію хімічного пального шляхом видобутку біоактивних компонентів із органічної сировини.</Make_ChemfuelFromOrganics.description>
+  <!-- EN: Refining chemfuel from organics. -->
+  <Make_ChemfuelFromOrganics.jobString>Робить хімічне пальне із органіки.</Make_ChemfuelFromOrganics.jobString>
+  
+  <!-- EN: make chemfuel from wood -->
+  <Make_ChemfuelFromWood.label>Зробити хімічне пальне із деревини</Make_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <Make_ChemfuelFromWood.description>Зробити партію хімічного пального шляхом газифікації деревини.</Make_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <Make_ChemfuelFromWood.jobString>Робить хімічне пальне із деревини.</Make_ChemfuelFromWood.jobString>
+  
+  <!-- EN: make component -->
+  <Make_ComponentIndustrial.label>Створити компонент</Make_ComponentIndustrial.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrial.description>Створити компонент.</Make_ComponentIndustrial.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrial.jobString>Створює компонент.</Make_ComponentIndustrial.jobString>
+  
+  <!-- EN: make advanced component -->
+  <Make_ComponentSpacer.label>TODO</Make_ComponentSpacer.label>
+  <!-- EN: Make an advanced component. -->
+  <Make_ComponentSpacer.description>TODO</Make_ComponentSpacer.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacer.jobString>TODO</Make_ComponentSpacer.jobString>
+  
+  <!-- EN: make patchleather -->
+  <Make_Patchleather.label>TODO</Make_Patchleather.label>
+  <!-- EN: Combine various types of leather to create weak patchleather. -->
+  <Make_Patchleather.description>TODO</Make_Patchleather.description>
+  <!-- EN: Making patchleather. -->
+  <Make_Patchleather.jobString>TODO</Make_Patchleather.jobString>
+  
+  <!-- EN: make any stone blocks -->
+  <Make_StoneBlocksAny.label>Зробити кам’яні блоки</Make_StoneBlocksAny.label>
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <Make_StoneBlocksAny.description>Зробити кам'яні блоки з уламків скель.</Make_StoneBlocksAny.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksAny.jobString>Оброблює каміння.</Make_StoneBlocksAny.jobString>
+  
+  <!-- UNUSED -->
+  <MakeArtilleryShell.label>Створити артилерійський снаряд</MakeArtilleryShell.label>
+  <MakeArtilleryShell.description>Виготовити боєприпаси для мінометів.</MakeArtilleryShell.description>
+  <MakeArtilleryShell.jobString>Створює снаряд.</MakeArtilleryShell.jobString>
+  
+  <!-- EN: smelt weapon -->
+  <SmeltWeapon.label>Видобути метал зі зброї</SmeltWeapon.label>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
+  <SmeltWeapon.description>Використати високу температуру й потужні електромагніти щоб переплавити металеву зброю.</SmeltWeapon.description>
+  <!-- EN: Smelting weapon. -->
+  <SmeltWeapon.jobString>Добуває метал зі зброї.</SmeltWeapon.jobString>
+  
 </LanguageData>

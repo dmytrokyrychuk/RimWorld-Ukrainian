@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>Кондиціювання</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>Дозволяє створювати кондиціонери, за допомогою яких можна охолоджувати кімнати.</AirConditioning.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoors.label>Автодвері</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>Дозволяє будувати автоматичні двері, які відкриваються самостійно і не сповільнюють поселенців.</Autodoors.description>
+  
+  <!-- EN: battery -->
+  <Batteries.label>Акумулятори</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>Дозволяє будувати акумулятори, які можна використовувати для запасання електроенергії.</Batteries.description>
+  
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>Переробка пального</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>Дозволяє створювати перегонні апарати, що використовуються для перетворення дерева та органіки на хімічне пальне.</BiofuelRefining.description>
+  
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>TODO</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>TODO</BlowbackOperation.description>
+  
+  <!-- EN: electricity -->
+  <Electricity.label>Електроживлення</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>Генерація та використання електроенергії для приготування їжі та інших простих завдань.</Electricity.description>
+  
+  <!-- EN: firefoam -->
+  <Firefoam.label>Пожежна піна</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>Дозволяє створювати розприскувачі протипожежної піни - протипожежні споруди, які при наближенні вогню викидають довкола себе піну, яка захищає від вогню.</Firefoam.description>
+  
+  <!-- EN: flak armor -->
+  <FlakArmor.label>TODO</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>TODO</FlakArmor.description>
+  
+  <!-- EN: gas operation -->
+  <GasOperation.label>TODO</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>TODO</GasOperation.description>
+  
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>Геотермальний генератор</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>Дозволяє будувати геотермальні генератори поверх парових гейзерів, щоб забезпечити колонію безперервним, надійним джерелом електроенергії.</GeothermalPower.description>
+  
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>TODO</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>TODO</Gunsmithing.description>
+  
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>Кулеметні турелі</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>Дозволяє конструювати автоматизовані кулеметні турелі.</GunTurrets.description>
+  
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>Гідропоніка</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>Дозволяє будувати резервуари для гідропоніки щоб швидко вирощувати рослини у приміщенні.</Hydroponics.description>
+  
+  <!-- EN: IEDs -->
+  <IEDs.label>Саморобні міни</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>Дозволяє колоністам створювати імпровізовані вибухові пристрої з артилерійських боєприпасів.</IEDs.description>
+  
+  <!-- EN: machining -->
+  <Machining.label>Механізми</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
+  <Machining.description>Дозволяє будувати верстаки, на яких з мертвих механоЇдів можно зняти корисні металеві частини.</Machining.description>
+  
+  <!-- EN: mortars -->
+  <Mortars.label>Міномети</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>Навчіться будувати міномети, які можуть пускати снаряди на велику відстань за стіни.</Mortars.description>
+  
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>Поживна паста</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>Дозволяє створити автомат поживної пасти, який може синтезувати іжу з поживної сировини.</NutrientPaste.description>
+  
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>Сухі пайки</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>Дозволяє виготовляти сухі пайки, які, будучи консервованими та герметично запакованими, не псуються та ідеально підходять для подорожей.</PackagedSurvivalMeal.description>
+  
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>TODO</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>TODO</Prosthetics.description>
+  
+  <!-- EN: smokepop belts -->
+  <SmokepopBelt.label>Пояс-димзавіса</SmokepopBelt.label>
+  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <SmokepopBelt.description>Дозволяє створювати пояс із приєднаними до нього димовими шашками, що активуються, коли носій потрапляє під обстріл.</SmokepopBelt.description>
+  
+  <!-- EN: solar panel -->
+  <SolarPanels.label>Сонячні панелі</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>Дозволяє створювати сонячні панелі, які генерують електроенергію.</SolarPanels.description>
+  
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>TODO</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>TODO</SterileMaterials.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>ЕПТ телевізор</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>Дозволяє створювати телевізори, засновані на електронно-променевих трубках.</TubeTelevision.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>TODO</WatermillGenerator.description>
+  
+</LanguageData>

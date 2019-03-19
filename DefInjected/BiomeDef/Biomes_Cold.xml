@@ -1,16 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<BorealForest.label>Тайга</BorealForest.label>
-	<BorealForest.description>Хвойні північні ліси. Незважаючи на суворі зими, північні ліси підтримують популяції різноманітних маленьких та великих тварин. Взимку товстий шар снігу значно сповільнує переміщення цією місцевістю.</BorealForest.description>
-
-	<Tundra.label>Тундра</Tundra.label>
-	<Tundra.description>Ці майже замерзлі рівнини практично не мають дерев або інших рослин. Місцеві тваринки невеликі, де-не-де можна побачити великі стада скоту, що мігрують, та хижаків, які на них полюють. Взимку сніг сильно сповільнує переміщення.</Tundra.description>
-
-	<IceSheet.label>Льодовик</IceSheet.label>
-	<IceSheet.description>Поверхня вкрита шарами льоду, товщиною до кілометра. Тут немає доступу до ґрунту або каміння, тому і рослинності тут також немає. Єдині тварини, яких можна побачити - мігрують куди-небудь ще, або безнадійно заблукали. Сніг сповільнює переміщення, але трапляються і дільянки рівного льоду.</IceSheet.description>
-
-	<SeaIce.label>Морська крига</SeaIce.label>
-	<SeaIce.description>Постійний шар льоду, що покриває водну поверхню. Тут немає ані ґрунту, ані рослин, ані корисних копалин та вкрай мало тварин. Переміщення цією місцевістю значно сповільнюють глибокий сніг та тріщини у кризі.</SeaIce.description>
-
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>Тайга</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>Хвойні північні ліси. Незважаючи на суворі зими, північні ліси підтримують популяції різноманітних маленьких та великих тварин. Взимку товстий шар снігу значно сповільнує переміщення цією місцевістю.</BorealForest.description>
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>TODO</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>TODO</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
+  <IceSheet.label>Льодовик</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>Поверхня вкрита шарами льоду, товщиною до кілометра. Тут немає доступу до ґрунту або каміння, тому і рослинності тут також немає. Єдині тварини, яких можна побачити - мігрують куди-небудь ще, або безнадійно заблукали. Сніг сповільнює переміщення, але трапляються і дільянки рівного льоду.</IceSheet.description>
+  
+  <!-- EN: sea ice -->
+  <SeaIce.label>Морська крига</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>Постійний шар льоду, що покриває водну поверхню. Тут немає ані ґрунту, ані рослин, ані корисних копалин та вкрай мало тварин. Переміщення цією місцевістю значно сповільнюють глибокий сніг та тріщини у кризі.</SeaIce.description>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>Тундра</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>Ці майже замерзлі рівнини практично не мають дерев або інших рослин. Місцеві тваринки невеликі, де-не-де можна побачити великі стада скоту, що мігрують, та хижаків, які на них полюють. Взимку сніг сильно сповільнує переміщення.</Tundra.description>
+  
 </LanguageData>

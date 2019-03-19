@@ -1,62 +1,121 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- affecting opinion -->
-
-	<Affair.stages.0.label>відносини</Affair.stages.0.label>
-
-	<Incestuous.stages.0.label>кровозмішення</Incestuous.stages.0.label>
-
-	<Disfigured.stages.0.label>понівечений(а)</Disfigured.stages.0.label>
-
-	<HardWorkerVsLazy.stages.0.label>працьовитий vs. ледачого</HardWorkerVsLazy.stages.0.label>
-
-	<TeetotalerVsChemicalInterest.stages.0.label>непитущий vs. пияки</TeetotalerVsChemicalInterest.stages.0.label>
-
-	<ChemicalInterestVsTeetotaler.stages.0.label>пияка vs. непитущого</ChemicalInterestVsTeetotaler.stages.0.label>
-
-	<Drunk.stages.0.label>п'яний(а)</Drunk.stages.0.label>
-
-	<Pretty.stages.0.label>красивий(а)</Pretty.stages.0.label>
-	<Pretty.stages.1.label>прекрасний(а)</Pretty.stages.1.label>
-
-	<Ugly.stages.0.label>некрасивий(а)</Ugly.stages.0.label>
-	<Ugly.stages.1.label>потворний(а)</Ugly.stages.1.label>
-
-	<AnnoyingVoice.stages.0.label>дратівливий голос</AnnoyingVoice.stages.0.label>
-
-	<CreepyBreathing.stages.0.label>моторошне дихання</CreepyBreathing.stages.0.label>
-
-	<Man.stages.0.label>чоловік</Man.stages.0.label>
-
-	<Woman.stages.0.label>жінка</Woman.stages.0.label>
-
-	<ButcheredHumanlikeCorpseOpinion.stages.0.label>розрізане тіло людини</ButcheredHumanlikeCorpseOpinion.stages.0.label>
-
-	<AteRawHumanlikeMeat.stages.0.label>їв м'ясо людини</AteRawHumanlikeMeat.stages.0.label>
-
-	<SoldPrisoner.stages.0.label>в'язня продано работорговцю</SoldPrisoner.stages.0.label>
-
-	<ExecutedPrisoner.stages.0.label>в'язня вбито</ExecutedPrisoner.stages.0.label>
-
-	<KilledColonist.stages.0.label>колоніст загинув</KilledColonist.stages.0.label>
-
-	<KilledColonyAnimal.stages.0.label>тварину колоністів убито</KilledColonyAnimal.stages.0.label>
-
-	<KilledMajorColonyEnemy.stages.0.label>головного ворога вбито</KilledMajorColonyEnemy.stages.0.label>
-
-  <!-- affecting mood -->
-
-	<OpinionOfMyLover.stages.0.label>думка мого(єї) {0} {1}</OpinionOfMyLover.stages.0.label>
-	<OpinionOfMyLover.stages.0.description>Перебування разом зі своєю половинкою робить моє життя простішим.</OpinionOfMyLover.stages.0.description>
-
-	<BondedAnimalMaster.stages.0.label>господар тварини</BondedAnimalMaster.stages.0.label>
-	<BondedAnimalMaster.stages.0.description>Перебування разом із моїм улюбленцем робить моє життя кращим.</BondedAnimalMaster.stages.0.description>
-
-	<NotBondedAnimalMaster.stages.0.label>господар не своєї тварини</NotBondedAnimalMaster.stages.0.label>
-	<NotBondedAnimalMaster.stages.0.description>Я повинен бути разом зі своїм улюбленцем.</NotBondedAnimalMaster.stages.0.description>
-
-	<WantToSleepWithSpouseOrLover.stages.0.label>я хочу спати разом із {0}</WantToSleepWithSpouseOrLover.stages.0.label>
-	<WantToSleepWithSpouseOrLover.stages.0.description>Я не хочу спати на віддалі від мого партнера.</WantToSleepWithSpouseOrLover.stages.0.description>
-
+  
+  <!-- EN: affair -->
+  <Affair.stages.affair.label>відносини</Affair.stages.affair.label>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.stages.annoying_voice.label>дратівливий голос</AnnoyingVoice.stages.annoying_voice.label>
+  
+  <!-- EN: ate raw humanlike meat -->
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>їв м'ясо людини</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  
+  <!-- EN: {0}'s master -->
+  <BondedAnimalMaster.stages.s_master.label>господар тварини</BondedAnimalMaster.stages.s_master.label>
+  <!-- EN: Being together with my bonded animal makes me feel better. -->
+  <BondedAnimalMaster.stages.s_master.description>Перебування разом із моїм улюбленцем робить моє життя кращим.</BondedAnimalMaster.stages.s_master.description>
+  <!-- EN: master of {0} -->
+  <BondedAnimalMaster.stages.master_of.label>TODO</BondedAnimalMaster.stages.master_of.label>
+  <!-- EN: Being together with my bonded animals makes me feel better. -->
+  <BondedAnimalMaster.stages.master_of.description>TODO</BondedAnimalMaster.stages.master_of.description>
+  
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>розрізане тіло людини</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
+  <!-- EN: chemical interest vs teetotaler -->
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>пияка vs. непитущого</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.stages.creepy_breathing.label>моторошне дихання</CreepyBreathing.stages.creepy_breathing.label>
+  
+  <!-- EN: disfigured -->
+  <Disfigured.stages.disfigured.label>понівечений(а)</Disfigured.stages.disfigured.label>
+  
+  <!-- EN: drunk -->
+  <Drunk.stages.drunk.label>п'яний(а)</Drunk.stages.drunk.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.stages.executed_prisoner.label>в'язня вбито</ExecutedPrisoner.stages.executed_prisoner.label>
+  
+  <!-- EN: hard worker vs lazy -->
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>працьовитий vs. ледачого</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+  
+  <!-- EN: incestuous -->
+  <Incestuous.stages.incestuous.label>кровозмішення</Incestuous.stages.incestuous.label>
+  
+  <!-- EN: killed colonist -->
+  <KilledColonist.stages.killed_colonist.label>колоніст загинув</KilledColonist.stages.killed_colonist.label>
+  
+  <!-- EN: killed colony animal -->
+  <KilledColonyAnimal.stages.killed_colony_animal.label>тварину колоністів убито</KilledColonyAnimal.stages.killed_colony_animal.label>
+  
+  <!-- UNUSED -->
+  <KilledMajorColonyEnemy.stages.0.label>головного ворога вбито</KilledMajorColonyEnemy.stages.0.label>
+  
+  <!-- EN: man -->
+  <Man.stages.man.label>чоловік</Man.stages.man.label>
+  
+  <!-- EN: not {0}'s master -->
+  <NotBondedAnimalMaster.stages.not_s_master.label>господар не своєї тварини</NotBondedAnimalMaster.stages.not_s_master.label>
+  <!-- EN: I should be together with my bonded animal. -->
+  <NotBondedAnimalMaster.stages.not_s_master.description>Я повинен бути разом зі своїм улюбленцем.</NotBondedAnimalMaster.stages.not_s_master.description>
+  <!-- EN: not master of {0} -->
+  <NotBondedAnimalMaster.stages.not_master_of.label>TODO</NotBondedAnimalMaster.stages.not_master_of.label>
+  <!-- EN: I should be together with my bonded animals. -->
+  <NotBondedAnimalMaster.stages.not_master_of.description>TODO</NotBondedAnimalMaster.stages.not_master_of.description>
+  
+  <!-- EN: opinion of my {0} {1} -->
+  <OpinionOfMyLover.stages.opinion_of_my.label>думка мого(єї) {0} {1}</OpinionOfMyLover.stages.opinion_of_my.label>
+  <!-- EN: Being with my lover makes me feel this way. -->
+  <OpinionOfMyLover.stages.opinion_of_my.description>Перебування разом зі своєю половинкою робить моє життя простішим.</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  <!-- EN: pretty -->
+  <Pretty.stages.pretty.label>красивий(а)</Pretty.stages.pretty.label>
+  <!-- EN: beautiful -->
+  <Pretty.stages.beautiful.label>прекрасний(а)</Pretty.stages.beautiful.label>
+  
+  <!-- EN: sold prisoner to slavery -->
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>в'язня продано работорговцю</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  
+  <!-- EN: teetotaler vs addict -->
+  <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>TODO</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+  
+  <!-- EN: teetotaler vs chemical interest -->
+  <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>непитущий vs. пияки</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+  
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>TODO</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
+  
+  <!-- EN: ugly -->
+  <Ugly.stages.ugly.label>некрасивий(а)</Ugly.stages.ugly.label>
+  <!-- EN: staggeringly ugly -->
+  <Ugly.stages.staggeringly_ugly.label>потворний(а)</Ugly.stages.staggeringly_ugly.label>
+  
+  <!-- EN: want to sleep with {0} -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>я хочу спати разом із {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
+  <!-- EN: I don't like sleeping apart from my partner. -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>Я не хочу спати на віддалі від мого партнера.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
+  
+  <!-- EN: woman -->
+  <Woman.stages.woman.label>жінка</Woman.stages.woman.label>
+  
 </LanguageData>

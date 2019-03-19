@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administer healer mech serum -->
+  <AdministerMechSerumHealer.label>TODO</AdministerMechSerumHealer.label>
+  <!-- EN: Administer a healer mech serum. -->
+  <AdministerMechSerumHealer.description>TODO</AdministerMechSerumHealer.description>
+  <!-- EN: Administering healer mech serum. -->
+  <AdministerMechSerumHealer.jobString>TODO</AdministerMechSerumHealer.jobString>
+  
+  <!-- EN: anesthetize -->
+  <Anesthetize.label>Анестезувати</Anesthetize.label>
+  <!-- EN: Render a creature unconscious by administering general anesthetic. -->
+  <Anesthetize.description>Анестезувати шляхом уведення анестетика.</Anesthetize.description>
+  <!-- EN: Anesthetizing. -->
+  <Anesthetize.jobString>Застосовує анестетик.</Anesthetize.jobString>
+  
+  <!-- EN: euthanize by cut -->
+  <Euthanize.label>Евтаназізувати</Euthanize.label>
+  <!-- EN: Euthanize a creature by cutting. -->
+  <Euthanize.description>Здійснити евтанаію.</Euthanize.description>
+  <!-- EN: Euthanizing by cutting. -->
+  <Euthanize.jobString>Здійснює евтаназію.</Euthanize.jobString>
+  
+  <!-- EN: excise carcinoma -->
+  <ExciseCarcinoma.label>Видалити ракову пухлину</ExciseCarcinoma.label>
+  <!-- EN: Excise a carcinoma. -->
+  <ExciseCarcinoma.description>Видалити ракову пухлину.</ExciseCarcinoma.description>
+  <!-- EN: Excising carcinoma. -->
+  <ExciseCarcinoma.jobString>Видаляє ракову пухлину.</ExciseCarcinoma.jobString>
+  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} успішно видалив(ла) у {1} пухлину.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  
+  <!-- EN: remove part -->
+  <RemoveBodyPart.label>Ампутувати частину тіла</RemoveBodyPart.label>
+  <!-- EN: Remove a body part. -->
+  <RemoveBodyPart.description>Видалити частину тіла.</RemoveBodyPart.description>
+  <!-- EN: Removing body part. -->
+  <RemoveBodyPart.jobString>Ампутує частину тіла.</RemoveBodyPart.jobString>
+  
+</LanguageData>

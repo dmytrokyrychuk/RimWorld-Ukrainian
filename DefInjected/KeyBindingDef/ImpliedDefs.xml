@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Toggle animals tab -->
+  <MainTab_Animals.label>Перемкнути вкладку «Тварини»</MainTab_Animals.label>
+  
+  <!-- EN: Toggle architect tab -->
+  <MainTab_Architect.label>Перемкнути вкладку «Меню»</MainTab_Architect.label>
+  
+  <!-- EN: Toggle assign tab -->
+  <MainTab_Assign.label>Перемкнути вкладку «Призначення»</MainTab_Assign.label>
+  
+  <!-- EN: Toggle factions tab -->
+  <MainTab_Factions.label>Перемкнути вкладку «Сусіди»</MainTab_Factions.label>
+  
+  <!-- EN: Toggle history tab -->
+  <MainTab_History.label>Перемкнути вкладку «Історія»</MainTab_History.label>
+  
+  <!-- EN: Toggle restrict tab -->
+  <MainTab_Restrict.label>Перемкнути вкладку «Обмеження»</MainTab_Restrict.label>
+  
+  <!-- EN: Toggle work tab -->
+  <MainTab_Work.label>Перемкнути вкладку «Праця»</MainTab_Work.label>
+  
+  <!-- EN: Toggle world tab -->
+  <MainTab_World.label>Перемкнути вкладку «Світ»</MainTab_World.label>
+  
+</LanguageData>

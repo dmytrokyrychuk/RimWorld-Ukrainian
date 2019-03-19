@@ -1,27 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Meditative -->
-
-	<Skygaze.reportString>милується небом.</Skygaze.reportString>
-	<Meditate.reportString>медитує.</Meditate.reportString>
-	<Pray.reportString>молиться.</Pray.reportString>
-	<GoForWalk.reportString>прогулюється.</GoForWalk.reportString>
-	<BuildSnowman.reportString>створює снігову бабу.</BuildSnowman.reportString>
-	<VisitGrave.reportString>відвідує могилу.</VisitGrave.reportString>
-	<ViewArt.reportString>милується витвором мистецтва.</ViewArt.reportString>
-
-  <!-- Social -->
-
-	<SocialRelax.reportString>відпочиває в компанії.</SocialRelax.reportString>
-	<VisitSickPawn.reportString>підбадьорює TargetA.</VisitSickPawn.reportString>
-
-  <!-- Building interaction -->
-
-	<PlayHorseshoes.reportString>грає в підкови та штир.</PlayHorseshoes.reportString>
-	<PlayChess.reportString>грає в шахи.</PlayChess.reportString>
-	<PlayBilliards.reportString>грає в більярд.</PlayBilliards.reportString>
-	<WatchTelevision.reportString>дивиться телевізор.</WatchTelevision.reportString>
-	<UseTelescope.reportString>дивиться в телескоп.</UseTelescope.reportString>
-
+  
+  <!-- EN: building snowman. -->
+  <BuildSnowman.reportString>створює снігову бабу.</BuildSnowman.reportString>
+  
+  <!-- EN: going for a walk. -->
+  <GoForWalk.reportString>прогулюється.</GoForWalk.reportString>
+  
+  <!-- EN: meditating. -->
+  <Meditate.reportString>медитує.</Meditate.reportString>
+  
+  <!-- EN: playing billiards. -->
+  <Play_Billiards.reportString>грає в більярд.</Play_Billiards.reportString>
+  
+  <!-- EN: playing chess. -->
+  <Play_Chess.reportString>грає в шахи.</Play_Chess.reportString>
+  
+  <!-- EN: playing the game of Ur. -->
+  <Play_GameOfUr.reportString>TODO</Play_GameOfUr.reportString>
+  
+  <!-- EN: playing hoopstone. -->
+  <Play_Hoopstone.reportString>TODO</Play_Hoopstone.reportString>
+  
+  <!-- EN: playing horseshoes. -->
+  <Play_Horseshoes.reportString>грає в підкови та штир.</Play_Horseshoes.reportString>
+  
+  <!-- EN: playing poker. -->
+  <Play_Poker.reportString>TODO</Play_Poker.reportString>
+  
+  <!-- EN: praying. -->
+  <Pray.reportString>молиться.</Pray.reportString>
+  
+  <!-- EN: skygazing. -->
+  <Skygaze.reportString>милується небом.</Skygaze.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <SocialRelax.reportString>відпочиває в компанії.</SocialRelax.reportString>
+  
+  <!-- EN: using telescope. -->
+  <UseTelescope.reportString>дивиться в телескоп.</UseTelescope.reportString>
+  
+  <!-- EN: viewing art. -->
+  <ViewArt.reportString>милується витвором мистецтва.</ViewArt.reportString>
+  
+  <!-- EN: visiting grave. -->
+  <VisitGrave.reportString>відвідує могилу.</VisitGrave.reportString>
+  
+  <!-- EN: cheering up patient TargetA. -->
+  <VisitSickPawn.reportString>підбадьорює TargetA.</VisitSickPawn.reportString>
+  
+  <!-- EN: watching television. -->
+  <WatchTelevision.reportString>дивиться телевізор.</WatchTelevision.reportString>
+  
 </LanguageData>

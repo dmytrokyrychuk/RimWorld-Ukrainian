@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer brewing -->
+  <Brewing.label>Самогоноваріння</Brewing.label>
+  <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
+  <Brewing.description>Дозволяє збирати перегонні куби, щоб перегоняти брагу на горілку та інші міцні напої.</Brewing.description>
+  
+  <!-- EN: carpet making -->
+  <CarpetMaking.label>Пошив ковдр</CarpetMaking.label>
+  <!-- EN: Weave beautiful carpets from cloth. -->
+  <CarpetMaking.description>Дозволяє колоністам стелити ковдри, покращуючи якість приміщень.</CarpetMaking.description>
+  
+  <!-- EN: cocoa -->
+  <Cocoa.label>TODO</Cocoa.label>
+  <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
+  <Cocoa.description>TODO</Cocoa.description>
+  
+  <!-- EN: complex clothing -->
+  <ComplexClothing.label>Пошив одягу</ComplexClothing.label>
+  <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
+  <ComplexClothing.description>Дозволяє шити складний одяг, як то штани, пильовики та ковбойські капелюхи.</ComplexClothing.description>
+  
+  <!-- EN: complex furniture -->
+  <ComplexFurniture.label>TODO</ComplexFurniture.label>
+  <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
+  <ComplexFurniture.description>TODO</ComplexFurniture.description>
+  
+  <!-- EN: devilstrand -->
+  <Devilstrand.label>Гриб-дияволик</Devilstrand.label>
+  <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
+  <Devilstrand.description>Дозволяє колоністам вирощувати повільно зростаючий гриб-дияволик, з якого можна отримати цінні рослинні волокна - дияволокніт.</Devilstrand.description>
+  
+  <!-- EN: drug production -->
+  <DrugProduction.label>Виробництво хімічних речовин</DrugProduction.label>
+  <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
+  <DrugProduction.description>Основи виробництва різноманітних препаратів та наркотиків. Дозволяє створювати хімічні лабораторії. Для виготовлення конкретних речовин необхідні додаткові дослідження.</DrugProduction.description>
+  
+  <!-- EN: go-juice production -->
+  <GoJuiceProduction.label>Виробництво підйом-соку</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>Вивчення процесу виробництва підйом-соку, який використовується для підвищення бойових навичок.</GoJuiceProduction.description>
+  
+  <!-- EN: greatbow -->
+  <Greatbow.label>TODO</Greatbow.label>
+  <!-- EN: Craft greatbows for killing enemies at great range. -->
+  <Greatbow.description>TODO</Greatbow.description>
+  
+  <!-- EN: long blades -->
+  <LongBlades.label>TODO</LongBlades.label>
+  <!-- EN: Craft longswords and spears. -->
+  <LongBlades.description>TODO</LongBlades.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>Випарний охолоджувач</PassiveCooler.label>
+  <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
+  <PassiveCooler.description>Дозволяє будувати випарні охолоджувачі — пристрої, що створені для охолодження приміщень без використання електроенергії.</PassiveCooler.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>Пеммікан</Pemmican.label>
+  <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
+  <Pemmican.description>Дозволяє готувати пеммікан - суміш м'яса та рослинної їжі, яка не псується впродовж довгого проміжку часу. Незамінна річ у подорожі.</Pemmican.description>
+  
+  <!-- EN: penoxycyline production -->
+  <PenoxycylineProduction.label>Виробництво пеніксициліна</PenoxycylineProduction.label>
+  <!-- EN: Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <PenoxycylineProduction.description>Вивчення процесу виробництва пеніксициліну, який застосовується при лікуванні різноманітних хвороб.</PenoxycylineProduction.description>
+  
+  <!-- EN: plate armor -->
+  <PlateArmor.label>TODO</PlateArmor.label>
+  <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
+  <PlateArmor.description>TODO</PlateArmor.description>
+  
+  <!-- EN: psychite refining -->
+  <PsychiteRefining.label>Переробка психіна</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>Вивчення процесів виготовлення наркотика психіна (у вигляді пластівців або порошку) із однойменних листів.</PsychiteRefining.description>
+  
+  <!-- EN: psychoid brewing -->
+  <PsychoidBrewing.label>TODO</PsychoidBrewing.label>
+  <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
+  <PsychoidBrewing.description>TODO</PsychoidBrewing.description>
+  
+  <!-- EN: recurve bow -->
+  <RecurveBow.label>TODO</RecurveBow.label>
+  <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
+  <RecurveBow.description>TODO</RecurveBow.description>
+  
+  <!-- EN: smithing -->
+  <Smithing.label>Ковальство</Smithing.label>
+  <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
+  <Smithing.description>Ковалі виготовляють зброю та інструменти із сировини</Smithing.description>
+  
+  <!-- EN: stonecutting -->
+  <Stonecutting.label>Обробка каміння</Stonecutting.label>
+  <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
+  <Stonecutting.description>Дозволяє будувати столи каменотесів, на яких можно зробити кам'яні цегли з уламків скал, і використовувати їх в будівництві.</Stonecutting.description>
+  
+  <!-- EN: tree sowing -->
+  <TreeSowing.label>TODO</TreeSowing.label>
+  <!-- EN: Sow the local biome's natural trees in your fields. -->
+  <TreeSowing.description>TODO</TreeSowing.description>
+  
+  <!-- EN: wake-up production -->
+  <WakeUpProduction.label>Виготовлення бадьорина</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>Ваші хіміки вивчають формули та процеси виготовлення бадьорина — наркотика, що підвищує працездатність та загальну виносливість організму.</WakeUpProduction.description>
+  
+</LanguageData>

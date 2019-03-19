@@ -1,82 +1,133 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<CraftingSpot.label>Робоче місце</CraftingSpot.label>
-	<CraftingSpot.description>Місце, де поселенці можуть створити такі прості речі, як, наприклад, заточки або луки.</CraftingSpot.description>
-
-  <!-- ========================= Work tables ==========================-->
-
-	<TableSculpting.label>Стіл скульптора</TableSculpting.label>
-	<TableSculpting.description>Робоче місце, споряджене для ліплення та карбування.</TableSculpting.description>
   
-	<TableButcher.label>Стіл м’ясника</TableButcher.label>
-	<TableButcher.description>Важкий стіл для обробки туш тварин на куски сирого м’яса.</TableButcher.description>
-
-	<HandTailoringBench.label>Стіл кравця</HandTailoringBench.label>
-	<HandTailoringBench.description>Стіл для ручного пошиву одягу. Працює з ефективністю 40% у порівнянні з електричним.</HandTailoringBench.description>
-
-	<ElectricTailoringBench.label>Швейний верстат</ElectricTailoringBench.label>
-	<ElectricTailoringBench.description>Верстат зі швейною машинкою для швидкого пошиву одягу. Може використовуватися без електроенергії з ефективністю 40% від номінальної.</ElectricTailoringBench.description>
-
-	<FueledSmithy.label>Кузня</FueledSmithy.label>
-	<FueledSmithy.description>Кузня, обладнана для виробництва немеханічної зброї та інструментів. У якості пального використовується дерево.</FueledSmithy.description>
-
-	<ElectricSmithy.label>Електрокузня</ElectricSmithy.label>
-	<ElectricSmithy.description>Кузня, що працює на електроенергії, обладнана для виробництва немеханічної зброї та інструментів.</ElectricSmithy.description>
-
-	<TableMachining.label>Верстак</TableMachining.label>
-	<TableMachining.description>Стіл з приладами для збирання и розбирання металічних предметів, як-то зброя чи рештки механоїдів.</TableMachining.description>
-
-	<ElectricStove.label>Електроплита</ElectricStove.label>
-	<ElectricStove.description>Плита, що працює на електроенергії та обладнана стільницею для зручного приготування страв.</ElectricStove.description>
-
-	<FueledStove.label>Плита</FueledStove.label>
-	<FueledStove.description>Плита, що обладнана стільницею для зручного приготування страв. У якості пального використовує дерево.</FueledStove.description>
-
-	<TableStonecutter.label>Стіл каменяра</TableStonecutter.label>
-	<TableStonecutter.description>Робочий стіл, оснащений для виробництва корисної бруківки з каміння.</TableStonecutter.description>
-
-	<Brewery.label>Броварня</Brewery.label>
-	<Brewery.description>Робочий стіл, оснащений усім необхідним для варки пива.</Brewery.description>
-
-	<DrugLab.label>Хімлабораторія</DrugLab.label>
-	<DrugLab.description>Робочий стіл, обладнаний різноманітними ємностями, нагрівачами, вимірювальними прладами, що використовуються при виготовленні ліків та наркотиків.</DrugLab.description>
-
-	<ElectricSmelter.label>Електрична плавильня</ElectricSmelter.label>
-	<ElectricSmelter.description>Дозволяє видобувати метал із шматків шлаку та металовмісних предметів. Споживає багато енергії.</ElectricSmelter.description>
-
-	<Refinery.label>Переробний завод</Refinery.label>
-	<Refinery.description>Хімічний переробний завод. Використовується для перетворення дерева на хімічне пальне.</Refinery.description>
-
-	<ComponentAssemblyBench.label>Верстат для створення компонентів</ComponentAssemblyBench.label>
-	<ComponentAssemblyBench.description>Верстат, обладнаний покращеними інструментами для створення компонентів із простіших матеріалів.</ComponentAssemblyBench.description>
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>Переробний завод</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>Хімічний переробний завод. Використовується для перетворення дерева на хімічне пальне.</BiofuelRefinery.description>
   
-  <!-- ========== Non-standard work buildings ==============-->
+  <!-- EN: brewery -->
+  <Brewery.label>Броварня</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>Робочий стіл, оснащений усім необхідним для варки пива.</Brewery.description>
   
-	<SimpleResearchBench.label>Простий дослідницький стіл</SimpleResearchBench.label>
-	<SimpleResearchBench.description>Простий стіл з канцелярським приладдям та низькотехнологічними науковими приладами. Дослідники працюють тут, щоб відкривати нові технології.</SimpleResearchBench.description>
-
-	<HiTechResearchBench.label>Високотехнологічний дослідницький стіл</HiTechResearchBench.label>
-	<HiTechResearchBench.description>Високотехнологічний стіл з комп'ютерами та електричними вимірювальними приладами. Дослідження пришвидшені завдяки новітньому обладнанню. Працює на електроенергії.</HiTechResearchBench.description>
-
-	<ElectricCrematorium.label>Електрокрематорій</ElectricCrematorium.label>
-	<ElectricCrematorium.description>Спалює трупи. Працює на електроенергії.</ElectricCrematorium.description>
-
-	<HydroponicsBasin.label>Резервуар гідропоніки</HydroponicsBasin.label>
-	<HydroponicsBasin.description>Для вирощування їстівних рослин. Дозволяє швидко вирощувати декілька рослин. Працює на електроенергії. Увага: рослини загинуть у випадку відсутності живлення!</HydroponicsBasin.description>
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>TODO</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>TODO</ButcherSpot.description>
   
-	<FermentingBarrel.label>Бочка для бродіння</FermentingBarrel.label>
-	<FermentingBarrel.description>Бочка для отримання пива із сусла шляхом бродіння.</FermentingBarrel.description>
+  <!-- UNUSED -->
+  <ComponentAssemblyBench.label>Верстат для створення компонентів</ComponentAssemblyBench.label>
+  <ComponentAssemblyBench.description>Верстат, обладнаний покращеними інструментами для створення компонентів із простіших матеріалів.</ComponentAssemblyBench.description>
   
-	<DeepDrill.label>Бурова установка</DeepDrill.label>
-	<DeepDrill.description>Комплекс бурового обладнання, створений для видобутку корисних копалин із надр планети. Для знаходження родовищ скористайтеся глибинним сканером</DeepDrill.description>
-
-  <!--======================== Nutrient dispenser ==============================-->
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>Робоче місце</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>Місце, де поселенці можуть створити такі прості речі, як, наприклад, заточки або луки.</CraftingSpot.description>
   
-	<NutrientPasteDispenser.label>Автомат поживної пасти</NutrientPasteDispenser.label>
-	<NutrientPasteDispenser.description>Синтезує поживну пасту з органічної сировини. На виготовлення затрачається менше інгредієнтів та часів аніж при готуванні їжу іншим методом, але всі ненавидять поживну пасту. Може бути заповнений сирою їжею, але не рослинною сированиою (наприклад, сіном).</NutrientPasteDispenser.description>
-
-	<Hopper.label>Контейнер з подавальним механізмом</Hopper.label>
-	<Hopper.description>Зберігає ресурси, що потрібні для інших машин, наприклад, для автоматів поживної пасти.</Hopper.description>
-
+  <!-- EN: deep drill -->
+  <DeepDrill.label>Бурова установка</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>Комплекс бурового обладнання, створений для видобутку корисних копалин із надр планети. Для знаходження родовищ скористайтеся глибинним сканером</DeepDrill.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>Хімлабораторія</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>Робочий стіл, обладнаний різноманітними ємностями, нагрівачами, вимірювальними прладами, що використовуються при виготовленні ліків та наркотиків.</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>Електрокрематорій</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>Спалює трупи. Працює на електроенергії.</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>Електрична плавильня</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>Дозволяє видобувати метал із шматків шлаку та металовмісних предметів. Споживає багато енергії.</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>Електрокузня</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>Кузня, що працює на електроенергії, обладнана для виробництва немеханічної зброї та інструментів.</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>Електроплита</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>Плита, що працює на електроенергії та обладнана стільницею для зручного приготування страв.</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>Швейний верстат</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>Верстат зі швейною машинкою для швидкого пошиву одягу. Може використовуватися без електроенергії з ефективністю 40% від номінальної.</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>TODO</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>TODO</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>Бочка для бродіння</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>Бочка для отримання пива із сусла шляхом бродіння.</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>Кузня</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>Кузня, обладнана для виробництва немеханічної зброї та інструментів. У якості пального використовується дерево.</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>Плита</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>Плита, що обладнана стільницею для зручного приготування страв. У якості пального використовує дерево.</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>Стіл кравця</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>Стіл для ручного пошиву одягу. Працює з ефективністю 40% у порівнянні з електричним.</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>Високотехнологічний дослідницький стіл</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>Високотехнологічний стіл з комп'ютерами та електричними вимірювальними приладами. Дослідження пришвидшені завдяки новітньому обладнанню. Працює на електроенергії.</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
+  <Hopper.label>Контейнер з подавальним механізмом</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>Зберігає ресурси, що потрібні для інших машин, наприклад, для автоматів поживної пасти.</Hopper.description>
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>Резервуар гідропоніки</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>Для вирощування їстівних рослин. Дозволяє швидко вирощувати декілька рослин. Працює на електроенергії. Увага: рослини загинуть у випадку відсутності живлення!</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>Автомат поживної пасти</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>Синтезує поживну пасту з органічної сировини. На виготовлення затрачається менше інгредієнтів та часів аніж при готуванні їжу іншим методом, але всі ненавидять поживну пасту. Може бути заповнений сирою їжею, але не рослинною сированиою (наприклад, сіном).</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>Простий дослідницький стіл</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>Простий стіл з канцелярським приладдям та низькотехнологічними науковими приладами. Дослідники працюють тут, щоб відкривати нові технології.</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>Стіл м’ясника</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <TableButcher.description>Важкий стіл для обробки туш тварин на куски сирого м’яса.</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>Верстак</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>Стіл з приладами для збирання и розбирання металічних предметів, як-то зброя чи рештки механоїдів.</TableMachining.description>
+  
+  <!-- EN: sculptor's table -->
+  <TableSculpting.label>Стіл скульптора</TableSculpting.label>
+  <!-- EN: A workbench equipped for artistic sculpting. -->
+  <TableSculpting.description>Робоче місце, споряджене для ліплення та карбування.</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>Стіл каменяра</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>Робочий стіл, оснащений для виробництва корисної бруківки з каміння.</TableStonecutter.description>
+  
 </LanguageData>

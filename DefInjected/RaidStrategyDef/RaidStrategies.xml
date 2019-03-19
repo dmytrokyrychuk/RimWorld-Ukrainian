@@ -1,27 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<ImmediateAttack.letterLabelEnemy>Напад</ImmediateAttack.letterLabelEnemy>
-	<ImmediateAttack.arrivalTextEnemy>Вони нападають негайно.</ImmediateAttack.arrivalTextEnemy>
-	<ImmediateAttack.letterLabelFriendly>Підкріплення</ImmediateAttack.letterLabelFriendly>
-	<ImmediateAttack.arrivalTextFriendly>Вони негайно вирушають на допомогу.</ImmediateAttack.arrivalTextFriendly>
-
-	<ImmediateAttackSmart.letterLabelEnemy>Напад</ImmediateAttackSmart.letterLabelEnemy>
-	<ImmediateAttackSmart.arrivalTextEnemy>Вони нападають негайно.\n\nСхоже, що вони непогано знаються на тактиці.</ImmediateAttackSmart.arrivalTextEnemy>
-	<ImmediateAttackSmart.letterLabelFriendly>Підкріплення</ImmediateAttackSmart.letterLabelFriendly>
-	<ImmediateAttackSmart.arrivalTextFriendly>Вони негайно вирушають на допомогу.\n\nСхоже, що вони непогано знаються на тактиці.</ImmediateAttackSmart.arrivalTextFriendly>
-
-	<StageThenAttack.letterLabelEnemy>Напад</StageThenAttack.letterLabelEnemy>
-	<StageThenAttack.arrivalTextEnemy>Підготовка до наступу займе в них деякий час.\n\nПриготуйтесь до оборони або зробіть упереджувальний удар.</StageThenAttack.arrivalTextEnemy>
-	<StageThenAttack.letterLabelFriendly>Підкріплення</StageThenAttack.letterLabelFriendly>
-	<StageThenAttack.arrivalTextFriendly>Підготовка до допомоги займе в них деякий час.</StageThenAttack.arrivalTextFriendly>
-
-	<ImmediateAttackSappers.letterLabelEnemy>Напад</ImmediateAttackSappers.letterLabelEnemy>
-	<ImmediateAttackSappers.arrivalTextEnemy>Здається, вони хочуть використати підривників щоб обійти ваш захист.</ImmediateAttackSappers.arrivalTextEnemy>
   
-	<Siege.letterLabelEnemy>Облога</Siege.letterLabelEnemy>
-	<Siege.arrivalTextEnemy>Схоже, що вони збираються влаштувати облогу колонії та обстріляти вас із мінометів. Ви можете спробувати перечекати облогу або здійснити контратаку.</Siege.arrivalTextEnemy>
-	<Siege.letterLabelFriendly>Підкріплення</Siege.letterLabelFriendly>
-	<Siege.arrivalTextFriendly>Схоже, що вони хочуть використовувати позиційну тактику щоб допомогти вам.</Siege.arrivalTextFriendly>
-
+  <!-- EN: They are attacking immediately. -->
+  <ImmediateAttack.arrivalTextEnemy>Вони нападають негайно.</ImmediateAttack.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttack.arrivalTextFriendly>Вони негайно вирушають на допомогу.</ImmediateAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttack.letterLabelEnemy>Напад</ImmediateAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttack.letterLabelFriendly>Підкріплення</ImmediateAttack.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to use sappers to tunnel around your defenses. -->
+  <ImmediateAttackSappers.arrivalTextEnemy>Здається, вони хочуть використати підривників щоб обійти ваш захист.</ImmediateAttackSappers.arrivalTextEnemy>
+  <!-- EN: Raid -->
+  <ImmediateAttackSappers.letterLabelEnemy>Напад</ImmediateAttackSappers.letterLabelEnemy>
+  
+  <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackSmart.arrivalTextEnemy>Вони нападають негайно.\n\nСхоже, що вони непогано знаються на тактиці.</ImmediateAttackSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackSmart.arrivalTextFriendly>Вони негайно вирушають на допомогу.\n\nСхоже, що вони непогано знаються на тактиці.</ImmediateAttackSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackSmart.letterLabelEnemy>Напад</ImmediateAttackSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackSmart.letterLabelFriendly>Підкріплення</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
+  <Siege.arrivalTextEnemy>Схоже, що вони збираються влаштувати облогу колонії та обстріляти вас із мінометів. Ви можете спробувати перечекати облогу або здійснити контратаку.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>Схоже, що вони хочуть використовувати позиційну тактику щоб допомогти вам.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>Облога</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>Підкріплення</Siege.letterLabelFriendly>
+  
+  <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
+  <StageThenAttack.arrivalTextEnemy>Підготовка до наступу займе в них деякий час.\n\nПриготуйтесь до оборони або зробіть упереджувальний удар.</StageThenAttack.arrivalTextEnemy>
+  <!-- EN: They will prepare for a while before moving in to help you. -->
+  <StageThenAttack.arrivalTextFriendly>Підготовка до допомоги займе в них деякий час.</StageThenAttack.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <StageThenAttack.letterLabelEnemy>Напад</StageThenAttack.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <StageThenAttack.letterLabelFriendly>Підкріплення</StageThenAttack.letterLabelFriendly>
+  
 </LanguageData>

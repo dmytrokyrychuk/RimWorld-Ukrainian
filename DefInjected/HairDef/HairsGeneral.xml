@@ -1,29 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Afro.label>Афро</Afro.label>
-	<Bob.label>Пучок</Bob.label>
-	<Burgundy.label>Бургундія</Burgundy.label>
-	<Flowy.label>Плавні</Flowy.label>
-	<Long.label>Довгі</Long.label>
-	<Mohawk.label>Ірокез</Mohawk.label>
-	<Mop.label>Патли</Mop.label>
-	<Pigtails.label>Косички</Pigtails.label>
-	<Shaved.label>Поголений</Shaved.label>
-	<Spikes.label>Шипи</Spikes.label>
-	<Tuft.label>Чуб</Tuft.label>
-	<Wavy.label>Хвилясті</Wavy.label>
-	<BraidedKnot.label>Вузлики</BraidedKnot.label>
-	<Topdog.label>Бос</Topdog.label>
-	<Senorita.label>Сеньйорита</Senorita.label>
-	<ScorpionTail.label>Хвіст скорпіона</ScorpionTail.label>
-	<BriefPonytail.label>Короткий хваостик</BriefPonytail.label>
-	<Troubadour.label>Менестрель</Troubadour.label>
-	<Messy.label>Безладні</Messy.label>
-	<Princess.label>Принцеса</Princess.label>
-	<Firestarter.label>Підпалювач</Firestarter.label>
-	<GreasySwoop.label>Жирні пасма</GreasySwoop.label>
-	<Curly.label>Кучері</Curly.label>
-	<Scatman.label>Скетмен</Scatman.label>
-
+  
+  <!-- EN: afro -->
+  <Afro.label>Афро</Afro.label>
+  
+  <!-- EN: bob -->
+  <Bob.label>Пучок</Bob.label>
+  
+  <!-- EN: braided knot -->
+  <BraidedKnot.label>Вузлики</BraidedKnot.label>
+  
+  <!-- EN: brief ponytail -->
+  <BriefPonytail.label>Короткий хваостик</BriefPonytail.label>
+  
+  <!-- EN: burgundy -->
+  <Burgundy.label>Бургундія</Burgundy.label>
+  
+  <!-- EN: curly -->
+  <Curly.label>Кучері</Curly.label>
+  
+  <!-- EN: firestarter -->
+  <Firestarter.label>Підпалювач</Firestarter.label>
+  
+  <!-- EN: flowy -->
+  <Flowy.label>Плавні</Flowy.label>
+  
+  <!-- EN: greasy swoop -->
+  <GreasySwoop.label>Жирні пасма</GreasySwoop.label>
+  
+  <!-- EN: long -->
+  <Long.label>Довгі</Long.label>
+  
+  <!-- EN: messy -->
+  <Messy.label>Безладні</Messy.label>
+  
+  <!-- EN: mohawk -->
+  <Mohawk.label>Ірокез</Mohawk.label>
+  
+  <!-- EN: mop -->
+  <Mop.label>Патли</Mop.label>
+  
+  <!-- EN: pigtails -->
+  <Pigtails.label>Косички</Pigtails.label>
+  
+  <!-- EN: princess -->
+  <Princess.label>Принцеса</Princess.label>
+  
+  <!-- EN: scatman -->
+  <Scatman.label>Скетмен</Scatman.label>
+  
+  <!-- EN: scorpion tail -->
+  <ScorpionTail.label>Хвіст скорпіона</ScorpionTail.label>
+  
+  <!-- EN: senorita -->
+  <Senorita.label>Сеньйорита</Senorita.label>
+  
+  <!-- EN: shaved -->
+  <Shaved.label>Поголений</Shaved.label>
+  
+  <!-- EN: spikes -->
+  <Spikes.label>Шипи</Spikes.label>
+  
+  <!-- EN: topdog -->
+  <Topdog.label>Бос</Topdog.label>
+  
+  <!-- EN: troubadour -->
+  <Troubadour.label>Менестрель</Troubadour.label>
+  
+  <!-- EN: tuft -->
+  <Tuft.label>Чуб</Tuft.label>
+  
+  <!-- EN: wavy -->
+  <Wavy.label>Хвилясті</Wavy.label>
+  
 </LanguageData>

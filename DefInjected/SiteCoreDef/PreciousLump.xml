@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lump of precious resources -->
+  <PreciousLump.label>Скупчення корисних копалин</PreciousLump.label>
+  <!-- EN: A mineable lump of precious resources. -->
+  <PreciousLump.description>Місцевість із корисними копалинами, придатними для видобутку.</PreciousLump.description>
+  
+</LanguageData>

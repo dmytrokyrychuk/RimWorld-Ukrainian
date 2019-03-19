@@ -1,14 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<DropPodIncoming.label>десантна капсула (падає)</DropPodIncoming.label>
-
-	<DropPod.label>десантна капсула</DropPod.label>
-
-	<Fire.label>вогонь</Fire.label>
-
-	<Spark.label>іскра</Spark.label>
-
-	<TemporaryRegionBarrier.label>тимчасовий бар'єр між областями</TemporaryRegionBarrier.label>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPod.label>TODO</ActiveDropPod.label>
+  
+  <!-- UNUSED -->
+  <DropPod.label>десантна капсула</DropPod.label>
+  
+  <!-- EN: fire -->
+  <Fire.label>вогонь</Fire.label>
+  
+  <!-- EN: spark -->
+  <Spark.label>іскра</Spark.label>
+  
+  <!-- UNUSED -->
+  <TemporaryRegionBarrier.label>тимчасовий бар'єр між областями</TemporaryRegionBarrier.label>
   
 </LanguageData>

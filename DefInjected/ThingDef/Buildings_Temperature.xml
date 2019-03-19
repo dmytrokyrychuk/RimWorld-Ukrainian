@@ -1,19 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Campfire.label>Вогнище</Campfire.label>
-	<Campfire.description>Це тимчасове джерело тепла, що вигорає за декілька днів. Як і всі інші засоби обігріву, вогнище теж має знаходитися у приміщенні для його обігріву.</Campfire.description>
-
-	<Heater.label>Обігрівач</Heater.label>
-	<Heater.description>Електричний пристрій, що перетворює електроенергію на енергію тепла. Автоматично вмикається та вимикається щоб досягти заданої температури обігріву.</Heater.description>
-
-	<Cooler.label>Охолоджувач</Cooler.label>
-	<Cooler.description>Настінний електропристрій, що нагнітає холодне повітря всередину, водночас викидаючи значну кількість гарячого повітря назовні. Використовується як кондиціонер влітку, або для створення морозильних камер.</Cooler.description>
-
-	<Vent.label>Вентиляція</Vent.label>
-	<Vent.description>Звичайна вентиляційна решітка, створена для вирівнювання температури у двох суміжних кімнатах, не створюючи проходу між ними.</Vent.description>
-
-	<PassiveCooler.label>Випарний охолоджувач</PassiveCooler.label>
-	<PassiveCooler.description>Традиційна система охолодження, що не потребує електроенергії та працює за рахунок випаровування води. Вийде з ладу за декілька днів.</PassiveCooler.description>
-
+  
+  <!-- EN: campfire -->
+  <Campfire.label>Вогнище</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>Це тимчасове джерело тепла, що вигорає за декілька днів. Як і всі інші засоби обігріву, вогнище теж має знаходитися у приміщенні для його обігріву.</Campfire.description>
+  
+  <!-- EN: cooler -->
+  <Cooler.label>Охолоджувач</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>Настінний електропристрій, що нагнітає холодне повітря всередину, водночас викидаючи значну кількість гарячого повітря назовні. Використовується як кондиціонер влітку, або для створення морозильних камер.</Cooler.description>
+  
+  <!-- EN: heater -->
+  <Heater.label>Обігрівач</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>Електричний пристрій, що перетворює електроенергію на енергію тепла. Автоматично вмикається та вимикається щоб досягти заданої температури обігріву.</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>Випарний охолоджувач</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>Традиційна система охолодження, що не потребує електроенергії та працює за рахунок випаровування води. Вийде з ладу за декілька днів.</PassiveCooler.description>
+  
+  <!-- EN: vent -->
+  <Vent.label>Вентиляція</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>Звичайна вентиляційна решітка, створена для вирівнювання температури у двох суміжних кімнатах, не створюючи проходу між ними.</Vent.description>
+  
 </LanguageData>

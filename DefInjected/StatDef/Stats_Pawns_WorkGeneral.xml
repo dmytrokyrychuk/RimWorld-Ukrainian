@@ -1,40 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<WorkSpeedGlobal.label>Загальна швидкість роботи</WorkSpeedGlobal.label>
-	<WorkSpeedGlobal.description>Множник швидкості роботи персонажа для виконання будь-якого завдання.</WorkSpeedGlobal.description>
-
-	<MiningSpeed.label>Швидкість виконання гірських робіт</MiningSpeed.label>
-	<MiningSpeed.description>Множник швидкості, з якою цей персонаж розроблює гірські породи.</MiningSpeed.description>
-	
-	<MiningYield.label>Ефективність видобутку</MiningYield.label>
-	<MiningYield.description>Відсоток корисних копалин, які зможе видобути персонаж вручну або за допомогою бурової установки. Не має впливу на породу, що не містить корисних копалин.</MiningYield.description>
-
-	<SmoothingSpeed.label>Швидкість згладжування</SmoothingSpeed.label>
-	<SmoothingSpeed.description>Множник швидкості згладжування підлоги персонажем.</SmoothingSpeed.description>
-
-	<ResearchSpeed.label>Швидкість дослідження</ResearchSpeed.label>
-	<ResearchSpeed.description>Ця людина робить дослідження з такою швидкістю.</ResearchSpeed.description>
-	
-	<AnimalGatherSpeed.label>Швидкість роботи із тваринами</AnimalGatherSpeed.label>
-	<AnimalGatherSpeed.description>Швидкість, з якою ця людина доїть, зістригає вовну або будь-яким іншим способом отримує від тварин ресурси.</AnimalGatherSpeed.description>
-
-	<AnimalGatherYield.label>Ефективність роботи із тваринами</AnimalGatherYield.label>
-	<AnimalGatherYield.description>Відсоток ресурсів, який ця людина може надоїти, зістригти чи будь-яким іншим способом отримати від тварин ресурси. Високий відсоток зменшує імовірність втрати ресурсів.</AnimalGatherYield.description>
-	
-	<PlantWorkSpeed.label>Швидкість роботи з рослинами</PlantWorkSpeed.label>
-	<PlantWorkSpeed.description>Швидкість, з якою ця людина сіє та збирає рослини.</PlantWorkSpeed.description>
-
-	<PlantHarvestYield.label>Ефективність збору врожаю</PlantHarvestYield.label>
-	<PlantHarvestYield.description>Ефективність, з якою ця людина збирає врожай. Низьке значення збільшує імовірність того, шо поселенець під час збору врожаю випадково його знищить.</PlantHarvestYield.description>
-
-	<ConstructionSpeed.label>Швидкість будівництва</ConstructionSpeed.label>
-	<ConstructionSpeed.description>Швидкість, з якою ця людина будує та ремонтує.</ConstructionSpeed.description>
-
-	<ConstructSuccessChance.label>Шанс вдалого будівництва</ConstructSuccessChance.label>
-	<ConstructSuccessChance.description>Імовірність, з якою ця особа успішно закінчить будівництво. Невдача призведе до втрати часу та ресурсів.</ConstructSuccessChance.description>
-
-	<FixBrokenDownBuildingSuccessChance.label>Шанс вдалого ремонту</FixBrokenDownBuildingSuccessChance.label>
-	<FixBrokenDownBuildingSuccessChance.description>Імовірність, з якою персонаж успішно здійснить ремонт. Ця величина має вплив лише на пристрої, що вийшли з ладу і не впливає на ремонт пошкоджених будівель.</FixBrokenDownBuildingSuccessChance.description>
-
+  
+  <!-- EN: animal gather speed -->
+  <AnimalGatherSpeed.label>Швидкість роботи із тваринами</AnimalGatherSpeed.label>
+  <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
+  <AnimalGatherSpeed.description>Швидкість, з якою ця людина доїть, зістригає вовну або будь-яким іншим способом отримує від тварин ресурси.</AnimalGatherSpeed.description>
+  
+  <!-- EN: animal gather yield -->
+  <AnimalGatherYield.label>Ефективність роботи із тваринами</AnimalGatherYield.label>
+  <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product. -->
+  <AnimalGatherYield.description>Відсоток ресурсів, який ця людина може надоїти, зістригти чи будь-яким іншим способом отримати від тварин ресурси. Високий відсоток зменшує імовірність втрати ресурсів.</AnimalGatherYield.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeed.label>Швидкість будівництва</ConstructionSpeed.label>
+  <!-- EN: The speed at which this person constructs and repairs buildings. -->
+  <ConstructionSpeed.description>Швидкість, з якою ця людина будує та ремонтує.</ConstructionSpeed.description>
+  
+  <!-- EN: construct success chance -->
+  <ConstructSuccessChance.label>Шанс вдалого будівництва</ConstructSuccessChance.label>
+  <!-- EN: The chance that this person will succeed in constructing something. Failing means wasting time and resources. -->
+  <ConstructSuccessChance.description>Імовірність, з якою ця особа успішно закінчить будівництво. Невдача призведе до втрати часу та ресурсів.</ConstructSuccessChance.description>
+  
+  <!-- EN: repair success chance -->
+  <FixBrokenDownBuildingSuccessChance.label>Шанс вдалого ремонту</FixBrokenDownBuildingSuccessChance.label>
+  <!-- EN: The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage. -->
+  <FixBrokenDownBuildingSuccessChance.description>Імовірність, з якою персонаж успішно здійснить ремонт. Ця величина має вплив лише на пристрої, що вийшли з ладу і не впливає на ремонт пошкоджених будівель.</FixBrokenDownBuildingSuccessChance.description>
+  
+  <!-- EN: hunting stealth -->
+  <HuntingStealth.label>TODO</HuntingStealth.label>
+  <!-- EN: This stat reduces the chance of hunted animals attacking the hunter. A 0% score means no reduction. A 100% score means animals never attack. -->
+  <HuntingStealth.description>TODO</HuntingStealth.description>
+  
+  <!-- EN: mining speed -->
+  <MiningSpeed.label>Швидкість виконання гірських робіт</MiningSpeed.label>
+  <!-- EN: A speed at which this person digs at walls and drills for deep resources. -->
+  <MiningSpeed.description>Множник швидкості, з якою цей персонаж розроблює гірські породи.</MiningSpeed.description>
+  
+  <!-- EN: mining yield -->
+  <MiningYield.label>Ефективність видобутку</MiningYield.label>
+  <!-- EN: The percentage of mined resources a miner will produce. This applies to both wall mining and deep drill mining. This doesn't affect the production rate of rock chunks. -->
+  <MiningYield.description>Відсоток корисних копалин, які зможе видобути персонаж вручну або за допомогою бурової установки. Не має впливу на породу, що не містить корисних копалин.</MiningYield.description>
+  
+  <!-- EN: plant harvest yield -->
+  <PlantHarvestYield.label>Ефективність збору врожаю</PlantHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest. -->
+  <PlantHarvestYield.description>Ефективність, з якою ця людина збирає врожай. Низьке значення збільшує імовірність того, шо поселенець під час збору врожаю випадково його знищить.</PlantHarvestYield.description>
+  
+  <!-- EN: plant work speed -->
+  <PlantWorkSpeed.label>Швидкість роботи з рослинами</PlantWorkSpeed.label>
+  <!-- EN: The speed at which this person sows and harvests plants. -->
+  <PlantWorkSpeed.description>Швидкість, з якою ця людина сіє та збирає рослини.</PlantWorkSpeed.description>
+  
+  <!-- EN: research speed -->
+  <ResearchSpeed.label>Швидкість дослідження</ResearchSpeed.label>
+  <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
+  <ResearchSpeed.description>Ця людина робить дослідження з такою швидкістю.</ResearchSpeed.description>
+  
+  <!-- EN: smoothing speed -->
+  <SmoothingSpeed.label>Швидкість згладжування</SmoothingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
+  <SmoothingSpeed.description>Множник швидкості згладжування підлоги персонажем.</SmoothingSpeed.description>
+  
+  <!-- EN: global work speed -->
+  <WorkSpeedGlobal.label>Загальна швидкість роботи</WorkSpeedGlobal.label>
+  <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
+  <WorkSpeedGlobal.description>Множник швидкості роботи персонажа для виконання будь-якого завдання.</WorkSpeedGlobal.description>
+  
 </LanguageData>

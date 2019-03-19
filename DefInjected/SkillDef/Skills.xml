@@ -1,52 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Shooting.label>Стрільба</Shooting.label>
-	<Shooting.skillLabel>Стрільба</Shooting.skillLabel>
-	<Shooting.description>Використання всіх можливих видів стрілецької зброї.</Shooting.description>
-
-	<Melee.label>Ближній бій</Melee.label>
-	<Melee.skillLabel>Ближній бій</Melee.skillLabel>
-	<Melee.description>Використання всіх можливих видів зброї  ближнього бою та боротьба без зброї.</Melee.description>
-
-	<Social.label>Спілкування</Social.label>
-	<Social.skillLabel>Спілкування</Social.skillLabel>
-	<Social.description>Переконування, ведення перемовин, маніпулювання та все інше, пов'язане зі спілкуванням.</Social.description>
-
-	<Animals.label>Тваринництво</Animals.label>
-	<Animals.skillLabel>Тваринництво</Animals.skillLabel>
-	<Animals.description>Приручення, тренування та контроль тварин.</Animals.description>
-
-	<Medicine.label>Медицина</Medicine.label>
-	<Medicine.skillLabel>Медицина</Medicine.skillLabel>
-	<Medicine.description>Лікарі використовують цей ресурс, щоб лікувати поранених.</Medicine.description>
-
-	<Cooking.label>Кулінарія</Cooking.label>
-	<Cooking.skillLabel>Кулінарія</Cooking.skillLabel>
-	<Cooking.description>Кухарі наповнюють автомати живильної пасти, та готують їжу.</Cooking.description>
-
-	<Construction.label>Будівництво</Construction.label>
-	<Construction.skillLabel>Будівництво</Construction.skillLabel>
-	<Construction.description>Будівельники будують ті конструкції, які ви намітили.</Construction.description>
-
-	<Growing.label>Садівництво</Growing.label>
-	<Growing.skillLabel>Садівництво</Growing.skillLabel>
-	<Growing.description>Садівник саджає насіння та саджанці рослин, щоб згодом отримати врожай.</Growing.description>
-
-	<Mining.label>Гірська справа</Mining.label>
-	<Mining.skillLabel>Гірська справа</Mining.skillLabel>
-	<Mining.description>Шахтарі розроблюють сектори, позначені для розкопок. Якщо, в них маються якісь запаси, то шахтарі добудуть корисний метал.</Mining.description>
-
-	<Artistic.label>Мистецтво</Artistic.label>
-	<Artistic.skillLabel>Мистецтво</Artistic.skillLabel>
-	<Artistic.description>Створення творів мистецтва.</Artistic.description>
-
-	<Crafting.label>Ремесло</Crafting.label>
-	<Crafting.skillLabel>Ремесло</Crafting.skillLabel>
-	<Crafting.description>Майстри роблять речі з необроблених матеріалів.</Crafting.description>
-
-	<Intellectual.label>Розумова праця</Intellectual.label>
-	<Intellectual.skillLabel>Розумова праця</Intellectual.skillLabel>
-	<Intellectual.description>Вивчення даних, встановлення зв’язків, виконання обчислень та логічне мислення.</Intellectual.description>
-
+  
+  <!-- EN: animals -->
+  <Animals.label>Тваринництво</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>Приручення, тренування та контроль тварин.</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>Тваринництво</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>Мистецтво</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>Створення творів мистецтва.</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>Мистецтво</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>Будівництво</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Будівельники будують ті конструкції, які ви намітили.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>Будівництво</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>Кулінарія</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Кухарі наповнюють автомати живильної пасти, та готують їжу.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>Кулінарія</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>Ремесло</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Майстри роблять речі з необроблених матеріалів.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>Ремесло</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>Розумова праця</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>Вивчення даних, встановлення зв’язків, виконання обчислень та логічне мислення.</Intellectual.description>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>Розумова праця</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>Медицина</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Лікарі використовують цей ресурс, щоб лікувати поранених.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>Медицина</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>Ближній бій</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Використання всіх можливих видів зброї  ближнього бою та боротьба без зброї.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>Ближній бій</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>Гірська справа</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Шахтарі розроблюють сектори, позначені для розкопок. Якщо, в них маються якісь запаси, то шахтарі добудуть корисний метал.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>Гірська справа</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>Садівництво</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Садівник саджає насіння та саджанці рослин, щоб згодом отримати врожай.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>Садівництво</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>Стрільба</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Використання всіх можливих видів стрілецької зброї.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>Стрільба</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>Спілкування</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Переконування, ведення перемовин, маніпулювання та все інше, пов'язане зі спілкуванням.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>Спілкування</Social.skillLabel>
+  
 </LanguageData>

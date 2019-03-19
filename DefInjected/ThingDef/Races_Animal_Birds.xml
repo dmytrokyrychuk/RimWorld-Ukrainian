@@ -1,47 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Cassowary.label>казуар</Cassowary.label>
-	<Cassowary.description>Великий, не здатний літати птах з яскравим барвистим пір'ям. Він виглядає красивом, та стережіться його дзьобу.</Cassowary.description>
-	<Cassowary_Leather.label>шкіра казуара</Cassowary_Leather.label>
-	<Cassowary_Leather.description>Шкіра казуара.</Cassowary_Leather.description>
-	<Cassowary_Leather.stuffProps.stuffAdjective>шкіри казуара</Cassowary_Leather.stuffProps.stuffAdjective>
-	<Cassowary_Meat.label>м'ясо казуара</Cassowary_Meat.label>
-	<Cassowary_Meat.description>Сире м'ясо казуара.</Cassowary_Meat.description>
-	<Cassowary_Corpse.label>туша казуара</Cassowary_Corpse.label>
-	<Cassowary_Corpse.description>Мертвий казуар.</Cassowary_Corpse.description>
-
-	<Emu.label>ему</Emu.label>
-	<Emu.description>Великий, не здатний літати птах з очами-намистинками на потворному обличчі. Зі своїм поганим ставленням до всього, що його оточує, він - ніби виродок тваринного світу.</Emu.description>
-	<Emu_Leather.label>шкіра ему</Emu_Leather.label>
-	<Emu_Leather.description>Шкіра ему.</Emu_Leather.description>
-	<Emu_Leather.stuffProps.stuffAdjective>шкіри ему</Emu_Leather.stuffProps.stuffAdjective>
-	<Emu_Meat.label>м'ясо ему</Emu_Meat.label>
-	<Emu_Meat.description>Сире м'ясо ему.</Emu_Meat.description>
-	<Emu_Corpse.label>туша ему</Emu_Corpse.label>
-	<Emu_Corpse.description>Мертвий ему.</Emu_Corpse.description>
-
-	<Ostrich.label>страус</Ostrich.label>
-	<Ostrich.description>Найбільші серед нелітаючих птахів старої Землі, страуси відомі за свій швидкий біг, великі яйця та потужний дзьоб.</Ostrich.description>
-	<Ostrich_Leather.label>шкіра страуса</Ostrich_Leather.label>
-	<Ostrich_Leather.description>Шкіра страуса.</Ostrich_Leather.description>
-	<Ostrich_Leather.stuffProps.stuffAdjective>шкіри страуса</Ostrich_Leather.stuffProps.stuffAdjective>
-	<Ostrich_Meat.label>м'ясо страуса</Ostrich_Meat.label>
-	<Ostrich_Meat.description>Сире м'ясо страуса.</Ostrich_Meat.description>
-	<Ostrich_Corpse.label>туша страуса</Ostrich_Corpse.label>
-	<Ostrich_Corpse.description>Мертвий страус.</Ostrich_Corpse.description>
-
-	<Turkey.label>індичка</Turkey.label>
-	<Turkey.description>Низька, товста і не знадтна літати птиця, яка відома своїм веселим шлюбним співом. Хоча вони вже давно одомашнені, та деякі екземпляри все ще зустрічаються в дикій природі.</Turkey.description>
-	<Turkey_Leather.label>шкіра індички</Turkey_Leather.label>
-	<Turkey_Leather.description>Шкіра індички.</Turkey_Leather.description>
-	<Turkey_Leather.stuffProps.stuffAdjective>шкіра індички</Turkey_Leather.stuffProps.stuffAdjective>
-	<Turkey_Meat.label>м'ясо індички</Turkey_Meat.label>
-	<Turkey_Meat.description>Сире м'ясо індички.</Turkey_Meat.description>
-	<Turkey_Corpse.label>тушка індички</Turkey_Corpse.label>
-	<Turkey_Corpse.description>Мертва індичка.</Turkey_Corpse.description>
-
   
+  <!-- EN: cassowary -->
+  <Cassowary.label>казуар</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>Великий, не здатний літати птах з яскравим барвистим пір'ям. Він виглядає красивом, та стережіться його дзьобу.</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>TODO</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>TODO</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>TODO</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>TODO</Cassowary.tools.head.label>
   
-
+  <!-- EN: emu -->
+  <Emu.label>ему</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>Великий, не здатний літати птах з очами-намистинками на потворному обличчі. Зі своїм поганим ставленням до всього, що його оточує, він - ніби виродок тваринного світу.</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>TODO</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>TODO</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>TODO</Emu.tools.head.label>
+  
+  <!-- UNUSED -->
+  <Meat_Emu.label>м'ясо ему</Meat_Emu.label>
+  <Meat_Emu.description>Сире м'ясо ему.</Meat_Emu.description>
+  
+  <!-- UNUSED -->
+  <Meat_Ostrich.label>м'ясо страуса</Meat_Ostrich.label>
+  <Meat_Ostrich.description>Сире м'ясо страуса.</Meat_Ostrich.description>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>страус</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>Найбільші серед нелітаючих птахів старої Землі, страуси відомі за свій швидкий біг, великі яйця та потужний дзьоб.</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>TODO</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>TODO</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>TODO</Ostrich.tools.head.label>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>індичка</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>Низька, товста і не знадтна літати птиця, яка відома своїм веселим шлюбним співом. Хоча вони вже давно одомашнені, та деякі екземпляри все ще зустрічаються в дикій природі.</Turkey.description>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>TODO</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>TODO</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>TODO</Turkey.tools.head.label>
+  
 </LanguageData>

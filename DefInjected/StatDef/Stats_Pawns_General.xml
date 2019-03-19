@@ -1,44 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<MoveSpeed.label>Швидкість руху</MoveSpeed.label>
-	<MoveSpeed.description>Швидкість, з якою цей персонаж переміщується, клітинок у секунду.</MoveSpeed.description>
-	<MoveSpeed.formatString>{0} кл/с</MoveSpeed.formatString>
-ь
-	<MentalBreakThreshold.label>Поріг нервового зриву</MentalBreakThreshold.label>
-	<MentalBreakThreshold.description>Доки настрій цього персонажу нижче даного рівня, він буде знаходитися в небезпечно близькому до нервового зриву стані.</MentalBreakThreshold.description>
-
-	<PsychicSensitivity.label>Психічна чутливість</PsychicSensitivity.label>
-	<PsychicSensitivity.description>Множник сили психічних явищ, що впливають на цього персонажу.</PsychicSensitivity.description>
-
-	<ToxicSensitivity.label>Токсична чутливість</ToxicSensitivity.label>
-	<ToxicSensitivity.description>Множник сили отруєння, якого зазнає цей персонаж.</ToxicSensitivity.description>
-
-	<GlobalLearningFactor.label>Загальний фактор навчання</GlobalLearningFactor.label>
-	<GlobalLearningFactor.description>Загальна ефективність навчання для всіх навичок.</GlobalLearningFactor.description>
-
-	<EatingSpeed.label>Швидкість поглинання їжі</EatingSpeed.label>
-	<EatingSpeed.description>Множник швидкості харчування.</EatingSpeed.description>
-
-	<ComfyTemperatureMin.label>Найнижча комфортна температура</ComfyTemperatureMin.label>
-	<ComfyTemperatureMin.description>Якщо температура опуститься нижче цього значення, то персонаж буде страждати. Якщо температура буде значно нижче цього покажчика, то персонаж може захворіти, отримати гіпотермію, обмороження та, згодом, загинути.</ComfyTemperatureMin.description>
-
-	<ComfyTemperatureMax.label>Найвища комфортна температура</ComfyTemperatureMax.label>
-	<ComfyTemperatureMax.description>Якщо температура перевищить це значення, то персонаж будет страждати. Якщо температура буде значно вище цього покажчика, то з персонажом може перегрітися, отримати тепловий удар та, згодом, загинути.</ComfyTemperatureMax.description>
-
-	<ImmunityGainSpeed.label>Сила імунної системи</ImmunityGainSpeed.label>
-	<ImmunityGainSpeed.description>Швидкість, з якою організм персонажа виробляє імунітет до хвороби. (надто низькі значення можуть призвести до смерті навіть від грипу)</ImmunityGainSpeed.description>
-
-	<CarryingCapacity.label>Вантажопідйомність</CarryingCapacity.label>
-	<CarryingCapacity.description>Кількість предметів, які істота може транспортувати одночасно.</CarryingCapacity.description>
-
-	<MeatAmount.label>Кількість м’яса</MeatAmount.label>
-	<MeatAmount.description>Кількість м’яса, яку можна отримати, забивши цю істоту.</MeatAmount.description>
-
-	<LeatherAmount.label>Кількість шкіри</LeatherAmount.label>
-	<LeatherAmount.description>Кількість шкіри, яку можна отримати, забивши цю істоту.</LeatherAmount.description>
-
-	<MinimumHandlingSkill.label>Мінімальний навик тваринництва</MinimumHandlingSkill.label>
-	<MinimumHandlingSkill.description>Не можна приручати, тренувати чи наказувати тварині, коли навички тваринництва менше цього рівня.</MinimumHandlingSkill.description>
-
+  
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>Вантажопідйомність</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>Кількість предметів, які істота може транспортувати одночасно.</CarryingCapacity.description>
+  
+  <!-- EN: Maximum comfortable temperature -->
+  <ComfyTemperatureMax.label>Найвища комфортна температура</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Якщо температура перевищить це значення, то персонаж будет страждати. Якщо температура буде значно вище цього покажчика, то з персонажом може перегрітися, отримати тепловий удар та, згодом, загинути.</ComfyTemperatureMax.description>
+  
+  <!-- EN: Minimum comfortable temperature -->
+  <ComfyTemperatureMin.label>Найнижча комфортна температура</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>Якщо температура опуститься нижче цього значення, то персонаж буде страждати. Якщо температура буде значно нижче цього покажчика, то персонаж може захворіти, отримати гіпотермію, обмороження та, згодом, загинути.</ComfyTemperatureMin.description>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>Швидкість поглинання їжі</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Множник швидкості харчування.</EatingSpeed.description>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>TODO</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>TODO</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>Загальний фактор навчання</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>Загальна ефективність навчання для всіх навичок.</GlobalLearningFactor.description>
+  
+  <!-- EN: hunger rate multiplier -->
+  <HungerRateMultiplier.label>TODO</HungerRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
+  <HungerRateMultiplier.description>TODO</HungerRateMultiplier.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>Сила імунної системи</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>Швидкість, з якою організм персонажа виробляє імунітет до хвороби. (надто низькі значення можуть призвести до смерті навіть від грипу)</ImmunityGainSpeed.description>
+  
+  <!-- EN: leather amount -->
+  <LeatherAmount.label>Кількість шкіри</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. -->
+  <LeatherAmount.description>Кількість шкіри, яку можна отримати, забивши цю істоту.</LeatherAmount.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>Кількість м’яса</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. -->
+  <MeatAmount.description>Кількість м’яса, яку можна отримати, забивши цю істоту.</MeatAmount.description>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>Поріг нервового зриву</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Доки настрій цього персонажу нижче даного рівня, він буде знаходитися в небезпечно близькому до нервового зриву стані.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
+  <MinimumHandlingSkill.label>Мінімальний навик тваринництва</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
+  <MinimumHandlingSkill.description>Не можна приручати, тренувати чи наказувати тварині, коли навички тваринництва менше цього рівня.</MinimumHandlingSkill.description>
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>Швидкість руху</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>Швидкість, з якою цей персонаж переміщується, клітинок у секунду.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} кл/с</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>TODO</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>TODO</PainShockThreshold.description>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>Психічна чутливість</PsychicSensitivity.label>
+  <!-- EN: Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones. -->
+  <PsychicSensitivity.description>Множник сили психічних явищ, що впливають на цього персонажу.</PsychicSensitivity.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>TODO</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>TODO</RestRateMultiplier.description>
+  
+  <!-- EN: toxic sensitivity -->
+  <ToxicSensitivity.label>Токсична чутливість</ToxicSensitivity.label>
+  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
+  <ToxicSensitivity.description>Множник сили отруєння, якого зазнає цей персонаж.</ToxicSensitivity.description>
+  
 </LanguageData>

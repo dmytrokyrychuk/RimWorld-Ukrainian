@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arid shrubland -->
+  <AridShrubland.label>Посушливий степ</AridShrubland.label>
+  <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
+  <AridShrubland.description>Сухий регіон, але не настільки, щоб вважатися справжньою пустелею. Відкриті рівнини з травою та чагарниками, подекуди вкриті невеликими гаями. Рослини витривалі, а кількість тварин невелика.</AridShrubland.description>
+  
+  <!-- EN: desert -->
+  <Desert.label>Пустеля</Desert.label>
+  <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
+  <Desert.description>Дуже сухий, жаркий регіон, що підтримує лише краплини життя. У цій місцеовсті може бути як спекотно, так і нестерпно холодно</Desert.description>
+  
+  <!-- EN: extreme desert -->
+  <ExtremeDesert.label>Абсолютна пустеля</ExtremeDesert.label>
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
+  <ExtremeDesert.description>Неймовірно засушлива місцевість з екстремально високими температурами, практично позбавлена форм життя. Непереносна спека і обмежена рослинність роблять цю місцевість вкрай складною для виживання навіть для добре пристосованих до таких умов тварин.</ExtremeDesert.description>
+  
+</LanguageData>

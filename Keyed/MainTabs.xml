@@ -1,73 +1,169 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Work tab -->
-
-	<ManualPriorities>Тонке налаштув.</ManualPriorities>
-	<HigherPriority>Високий пріоритет</HigherPriority>
-	<LowerPriority>Низький пріоритет</LowerPriority>
-	<RelevantSkills>Потрібні навички: {0}\nCереднє арифметичне потрібних навичок {1} з {2} максимально можливого.</RelevantSkills>
-	<ClickToJumpTo>Натисніть, щоб перейти до:</ClickToJumpTo>
-	<CannotDoThisWork>{0} не може виконувати роботу такого типу.</CannotDoThisWork>
-	<NoneBrackets>(відсутні)</NoneBrackets>
-	<IncapableOfWorkTypeBecauseOfCapacities>Через стан здоров'я не може виконувати будь-яку роботу такого типу.</IncapableOfWorkTypeBecauseOfCapacities>
-	<EmergencyWorkMarker>О</EmergencyWorkMarker>
+  <!-- EN: Manual priorities -->
+  <ManualPriorities>Тонке налаштув.</ManualPriorities>
+  <!-- EN: higher priority -->
+  <HigherPriority>Високий пріоритет</HigherPriority>
+  <!-- EN: lower priority -->
+  <LowerPriority>Низький пріоритет</LowerPriority>
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
+  <RelevantSkills>Потрібні навички: {0}\nCереднє арифметичне потрібних навичок {1} з {2} максимально можливого.</RelevantSkills>
+  <!-- EN: Click to jump to: -->
+  <ClickToJumpTo>Натисніть, щоб перейти до:</ClickToJumpTo>
+  <!-- EN: {1_labelShort} cannot do this kind of work. -->
+  <CannotDoThisWork>{0} не може виконувати роботу такого типу.</CannotDoThisWork>
+  <!-- EN: (none) -->
+  <NoneBrackets>(відсутні)</NoneBrackets>
+  <!-- EN: This colonist is not able to do any work of this type because of his health condition. -->
+  <IncapableOfWorkTypeBecauseOfCapacities>Через стан здоров'я не може виконувати будь-яку роботу такого типу.</IncapableOfWorkTypeBecauseOfCapacities>
+  <!-- EN: E -->
+  <EmergencyWorkMarker>О</EmergencyWorkMarker>
+  <!-- EN: Warning: The average of relevant skills is very low. -->
+  <SelectedWorkTypeWithVeryBadSkill>TODO</SelectedWorkTypeWithVeryBadSkill>
   
-  <!-- Outfits tab -->
-
-	<CurrentOutfit>Поточне спорядження</CurrentOutfit>
-	<ManageOutfits>Керув. спорядженням</ManageOutfits>
-	<ClearForcedApparel>Скин. обов'яз.</ClearForcedApparel>
-	<ApparelForcedLower>примусово одягнено</ApparelForcedLower>
-	<ForcedApparel>Одягнутий за наказом одяг</ForcedApparel>
-	<OutfitEdit>Змінити...</OutfitEdit>
-
+  <!-- Assign tab -->
+  <!-- EN: Manage outfits -->
+  <ManageOutfits>Керув. спорядженням</ManageOutfits>
+  <!-- EN: Clr. forced -->
+  <ClearForcedApparel>Скин. обов'яз.</ClearForcedApparel>
+  <!-- EN: forced -->
+  <ApparelForcedLower>примусово одягнено</ApparelForcedLower>
+  <!-- EN: Forced apparel -->
+  <ForcedApparel>Одягнутий за наказом одяг</ForcedApparel>
+  <!-- EN: Edit... -->
+  <AssignTabEdit>TODO</AssignTabEdit>
+  <!-- EN: Manage drug policies -->
+  <ManageDrugPolicies>TODO</ManageDrugPolicies>
+  <!-- EN: Manage food restrictions -->
+  <ManageFoodRestrictions>TODO</ManageFoodRestrictions>
+  
   <!-- Restrictions tab -->
-
-	<Copy>Копіювати</Copy>
-	<Paste>Вставити</Paste>
-	<AllowedArea>Дозволена зона</AllowedArea>
-
+  <!-- EN: Copy -->
+  <Copy>Копіювати</Copy>
+  <!-- EN: Paste -->
+  <Paste>Вставити</Paste>
+  <!-- EN: Allowed area -->
+  <AllowedArea>Дозволена зона</AllowedArea>
+  
   <!-- Animals tab -->
-
-	<Master>Господар</Master>
-	<PregnantIconDesc>Вагітна ({0} / {1})</PregnantIconDesc>
-
+  <!-- EN: Master -->
+  <Master>Господар</Master>
+  <!-- EN: Pregnant ({0} / {1}) -->
+  <PregnantIconDesc>Вагітна ({0} / {1})</PregnantIconDesc>
+  <!-- EN: Bonded to -->
+  <BondedTo>TODO</BondedTo>
+  
+  <!-- Wildlife tab -->
+  <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
+  <IsPredator>TODO</IsPredator>
+  
   <!-- Factions tab -->
+  <!-- EN: Hostile -->
+  <Hostile>Вороги</Hostile>
+  <!-- EN: Ally -->
+  <Ally>TODO</Ally>
+  <!-- EN: defeated -->
+  <DefeatedLower>TODO</DefeatedLower>
+  <!-- EN: Enemy of {0} -->
+  <HostileTo>Ненавидять {0}</HostileTo>
+  <!-- EN: Current goodwill and relations status with this faction. -->
+  <CurrentGoodwillTip>TODO</CurrentGoodwillTip>
+  <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
+  <CurrentGoodwillTip_PermanentEnemy>TODO</CurrentGoodwillTip_PermanentEnemy>
+  <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Ally>TODO</CurrentGoodwillTip_Ally>
+  <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
+  <CurrentGoodwillTip_Neutral>TODO</CurrentGoodwillTip_Neutral>
+  <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
+  <CurrentGoodwillTip_Hostile>TODO</CurrentGoodwillTip_Hostile>
+  <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
+  <CurrentGoodwillTip_NaturalGoodwill>TODO</CurrentGoodwillTip_NaturalGoodwill>
+  
+  <!-- Social tab -->
+  <!-- EN: Friend -->
+  <Friend>TODO</Friend>
+  <!-- EN: Rival -->
+  <Rival>TODO</Rival>
+  <!-- EN: Acquaintance -->
+  <Acquaintance>TODO</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <!-- EN: Graph -->
+  <Graph>TODO</Graph>
+  <!-- EN: Messages -->
+  <Messages>TODO</Messages>
+  <!-- EN: Statistics -->
+  <Statistics>TODO</Statistics>
+  
+  <!-- History tab - Graphs -->
+  <!-- EN: Select graph -->
+  <SelectGraph>Вибрати графік</SelectGraph>
+  <!-- EN: Last 30 days -->
+  <Last30Days>За 30 днів</Last30Days>
+  <!-- EN: Last 100 days -->
+  <Last100Days>За 100 днів</Last100Days>
+  <!-- EN: Last 300 days -->
+  <Last300Days>За 300 днів</Last300Days>
+  <!-- EN: All -->
+  <AllDays>За увесь час</AllDays>
+  <!-- EN: Value -->
+  <Value>значення</Value>
+  <!-- EN: External -->
+  <External>Інше</External>
 
-	<Hostile>Вороги</Hostile>
-	<HostileTo>Ненавидять {0}</HostileTo>
-	<CurrentGoodwill>Поточні стосунки з цією фракцією.</CurrentGoodwill>
+  <!-- History tab - Messages -->
+  <!-- EN: Show letters -->
+  <ShowLetters>TODO</ShowLetters>
+  <!-- EN: Show messages -->
+  <ShowMessages>TODO</ShowMessages>
+  <!-- EN: Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages. -->
+  <PinArchivableTip>TODO</PinArchivableTip>
+  <!-- EN: no messages -->
+  <NoMessages>TODO</NoMessages>
 
-  <!-- Statistics tab -->
-
-	<Playtime>Гра триває</Playtime>
-	<Storyteller>Оповідач</Storyteller>
-	<ColonyWealthTotal>Скарб колонії (загалом)</ColonyWealthTotal>
-	<ColonyWealthItems>Скарб (речі)</ColonyWealthItems>
-	<ColonyWealthBuildings>Скарб (споруди)</ColonyWealthBuildings>
-	<NumThreatBigs>Головні загрози</NumThreatBigs>
-	<NumEnemyRaids>Рейди ворогів</NumEnemyRaids>
-	<DamageTaken>Отримані ушкодження</DamageTaken>
-	<ColonistsKilled>Колоністів вбито</ColonistsKilled>
-	<ColonistsLaunched>Колоністів відправлено в космос</ColonistsLaunched>
-
-  <!-- History tab -->
-
-	<SelectGraph>Вибрати графік</SelectGraph>
-	<Last30Days>За 30 днів</Last30Days>
-	<Last100Days>За 100 днів</Last100Days>
-	<Last300Days>За 300 днів</Last300Days>
-	<AllDays>За увесь час</AllDays>
-	<Day>день</Day>
-	<Value>значення</Value>
-	<External>Інше</External>
+  <!-- History tab - Statistics -->
+  <!-- EN: Play time -->
+  <Playtime>Гра триває</Playtime>
+  <!-- EN: Storyteller -->
+  <Storyteller>Оповідач</Storyteller>
+  <!-- EN: Colony wealth (this map) -->
+  <ThisMapColonyWealthTotal>TODO</ThisMapColonyWealthTotal>
+  <!-- EN: Colony wealth (items) (this map) -->
+  <ThisMapColonyWealthItems>TODO</ThisMapColonyWealthItems>
+  <!-- EN: Colony wealth (buildings) (this map) -->
+  <ThisMapColonyWealthBuildings>TODO</ThisMapColonyWealthBuildings>
+  <!-- EN: Colony wealth (people and animals) (this map) -->
+  <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
+  <!-- EN: Major threats -->
+  <NumThreatBigs>Головні загрози</NumThreatBigs>
+  <!-- EN: Enemy raids -->
+  <NumEnemyRaids>Рейди ворогів</NumEnemyRaids>
+  <!-- EN: Damage taken (this map) -->
+  <ThisMapDamageTaken>TODO</ThisMapDamageTaken>
+  <!-- EN: Colonists killed -->
+  <ColonistsKilled>Колоністів вбито</ColonistsKilled>
+  <!-- EN: Colonists launched into space -->
+  <ColonistsLaunched>Колоністів відправлено в космос</ColonistsLaunched>
 
   <!-- Research tab -->
-	<ProjectTechLevel>науковий рівень проекту</ProjectTechLevel>
-	<YourTechLevel>ваш науковий рівнеь</YourTechLevel>
-	<ResearchCostMultiplier>множник вартості дослідження</ResearchCostMultiplier>
-	<ResearchCostComparison>Базова вартість дослідження {0} стає {1} через ваш науковий рівень.</ResearchCostComparison>
+  <!-- EN: project tech level -->
+  <ProjectTechLevel>науковий рівень проекту</ProjectTechLevel>
+  <!-- EN: your tech level -->
+  <YourTechLevel>ваш науковий рівнеь</YourTechLevel>
+  <!-- EN: cost multiplier -->
+  <ResearchCostMultiplier>множник вартості дослідження</ResearchCostMultiplier>
+  <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
+  <ResearchCostComparison>Базова вартість дослідження {0} стає {1} через ваш науковий рівень.</ResearchCostComparison>
   
-  
+  <!-- UNUSED -->
+  <CurrentOutfit>Поточне спорядження</CurrentOutfit>
+  <OutfitEdit>Змінити...</OutfitEdit>
+  <CurrentGoodwill>Поточні стосунки з цією фракцією.</CurrentGoodwill>
+  <ColonyWealthTotal>Скарб колонії (загалом)</ColonyWealthTotal>
+  <ColonyWealthItems>Скарб (речі)</ColonyWealthItems>
+  <ColonyWealthBuildings>Скарб (споруди)</ColonyWealthBuildings>
+  <DamageTaken>Отримані ушкодження</DamageTaken>
+
 </LanguageData>

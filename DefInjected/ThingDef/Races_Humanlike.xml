@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Humanoid -->
-
-	<Human.label>людина</Human.label>
-	<Human.description>Звичайна людина майже незазнавша впливу генної інженерії та без особливих змін через еволюціонні процеси на інших планетах.</Human.description>
-	<Human_Leather.label>шкіра людини</Human_Leather.label>
-	<Human_Leather.description>Шкіра, здерта з людини.</Human_Leather.description>
-	<Human_Leather.stuffProps.stuffAdjective>людської шкіри</Human_Leather.stuffProps.stuffAdjective>
-	<Human_Meat.label>м'ясо людини</Human_Meat.label>
-	<Human_Meat.description>Сире людське м'ясо.</Human_Meat.description>
-	<Human_Corpse.label>труп людини</Human_Corpse.label>
-	<Human_Corpse.description>Небіжчик.</Human_Corpse.description>
-
+  
+  <!-- EN: human -->
+  <Human.label>людина</Human.label>
+  <!-- EN: A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets. -->
+  <Human.description>Звичайна людина майже незазнавша впливу генної інженерії та без особливих змін через еволюціонні процеси на інших планетах.</Human.description>
+  <!-- EN: left fist -->
+  <Human.tools.left_fist.label>TODO</Human.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Human.tools.right_fist.label>TODO</Human.tools.right_fist.label>
+  <!-- EN: teeth -->
+  <Human.tools.teeth.label>TODO</Human.tools.teeth.label>
+  <!-- EN: head -->
+  <Human.tools.head.label>TODO</Human.tools.head.label>
+  
 </LanguageData>

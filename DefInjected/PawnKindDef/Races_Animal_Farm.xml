@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>альпака</Alpaca.label>
+  <Alpaca.labelPlural>альпаки</Alpaca.labelPlural>
+  <Alpaca.lifeStages.0.label>маля альпаки</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.1.label>молода альпака</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.2.label>альпака</Alpaca.lifeStages.2.label>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>курка</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>курка</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>півень</Chicken.labelMale>
+  <Chicken.labelPlural>кури</Chicken.labelPlural>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>курча</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelFemale>курочка</Chicken.lifeStages.cockerel.labelFemale>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>півник</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.2.labelFemale>курка</Chicken.lifeStages.2.labelFemale>
+  <Chicken.lifeStages.2.labelMale>півень</Chicken.lifeStages.2.labelMale>
+  
+  <!-- EN: cow -->
+  <Cow.label>корова</Cow.label>
+  <!-- EN: cow -->
+  <Cow.labelFemale>TODO</Cow.labelFemale>
+  <!-- EN: bull -->
+  <Cow.labelMale>TODO</Cow.labelMale>
+  <Cow.labelPlural>корови</Cow.labelPlural>
+  <!-- EN: calf -->
+  <Cow.lifeStages.calf.label>телятко</Cow.lifeStages.calf.label>
+  <!-- EN: calves -->
+  <Cow.lifeStages.calf.labelPlural>TODO</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.1.label>теля</Cow.lifeStages.1.label>
+  <Cow.lifeStages.1.labelFemale>молода корова</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.1.labelMale>бичок</Cow.lifeStages.1.labelMale>
+  <Cow.lifeStages.2.label>корова</Cow.lifeStages.2.label>
+  <Cow.lifeStages.2.labelFemale>корова</Cow.lifeStages.2.labelFemale>
+  <Cow.lifeStages.2.labelMale>бик</Cow.lifeStages.2.labelMale>
+  
+  <!-- EN: pig -->
+  <Pig.label>свиня</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>TODO</Pig.labelFemale>
+  <Pig.labelPlural>свині</Pig.labelPlural>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>порося</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.1.label>молода свиня</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelFemale>молода свиня</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelMale>молодий свин</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.2.label>свиня</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelFemale>свиня</Pig.lifeStages.2.labelFemale>
+  <Pig.lifeStages.2.labelMale>свин</Pig.lifeStages.2.labelMale>
+  
+</LanguageData>

@@ -1,32 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Torso.label>торс</Torso.label>
-	<UpperHead.label>верхня частина голови</UpperHead.label>
-	<FullHead.label>голова</FullHead.label>
-	<Eyes.label>очі</Eyes.label>
-	<Teeth.label>зуби</Teeth.label>
-	<Mouth.label>рот</Mouth.label>
-	<Arms.label>руки</Arms.label>
-	<Shoulders.label>плечі</Shoulders.label>
-	<Hands.label>долоні</Hands.label>
-	<LeftHand.label>ліва кисть</LeftHand.label>
-	<RightHand.label>права кисть</RightHand.label>
-	<Legs.label>ноги</Legs.label>
-	<Feet.label>ступні</Feet.label>
-	<FrontLeftPaw.label>передня ліва лапа</FrontLeftPaw.label>
-	<FrontRightPaw.label>передня права лапа</FrontRightPaw.label>
-	<HeadAttackTool.label>голова</HeadAttackTool.label>
-	<FrontLeftLeg.label>передня ліва нога</FrontLeftLeg.label>
-	<FrontRightLeg.label>передня права нога</FrontRightLeg.label>
-	<FrontLeftClaws.label>ліві передні кігті</FrontLeftClaws.label>
-	<FrontRightClaws.label>праві передні кігті</FrontRightClaws.label>
-	<LeftBlade.label>ліве лезо</LeftBlade.label>
-	<RightBlade.label>праве лезо</RightBlade.label>
-	<TuskAttackTool.label>ікла</TuskAttackTool.label>
-	<HornAttackTool.label>ріг</HornAttackTool.label>
-	<HeadClaw.label>голова-щелепи</HeadClaw.label>
-	<TurtleBeakAttackTool.label>дзьоб</TurtleBeakAttackTool.label>
-	<Beak.label>дзьоб</Beak.label>
-
+  
+  <!-- EN: arms -->
+  <Arms.label>руки</Arms.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>дзьоб</Beak.label>
+  
+  <!-- EN: eyes -->
+  <Eyes.label>очі</Eyes.label>
+  
+  <!-- EN: feet -->
+  <Feet.label>ступні</Feet.label>
+  
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>ліві передні кігті</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>передня ліва нога</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
+  
+  <!-- EN: front left paw -->
+  <FrontLeftPaw.label>передня ліва лапа</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
+  
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>праві передні кігті</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>передня права нога</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
+  
+  <!-- EN: front right paw -->
+  <FrontRightPaw.label>передня права лапа</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
+  
+  <!-- EN: full head -->
+  <FullHead.label>голова</FullHead.label>
+  
+  <!-- EN: hands -->
+  <Hands.label>долоні</Hands.label>
+  
+  <!-- EN: head -->
+  <HeadAttackTool.label>голова</HeadAttackTool.label>
+  
+  <!-- EN: claw -->
+  <HeadClaw.label>голова-щелепи</HeadClaw.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool.label>ріг</HornAttackTool.label>
+  
+  <!-- EN: left blade -->
+  <LeftBlade.label>ліве лезо</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
+  
+  <!-- EN: left fist -->
+  <LeftHand.label>ліва кисть</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>TODO</LeftHand.labelShort>
+  
+  <!-- EN: legs -->
+  <Legs.label>ноги</Legs.label>
+  
+  <!-- EN: mouth -->
+  <Mouth.label>рот</Mouth.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>TODO</Neck.label>
+  
+  <!-- EN: right blade -->
+  <RightBlade.label>праве лезо</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>TODO</RightBlade.labelShort>
+  
+  <!-- EN: right fist -->
+  <RightHand.label>права кисть</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>TODO</RightHand.labelShort>
+  
+  <!-- EN: shoulders -->
+  <Shoulders.label>плечі</Shoulders.label>
+  
+  <!-- EN: teeth -->
+  <Teeth.label>зуби</Teeth.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>торс</Torso.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeakAttackTool.label>дзьоб</TurtleBeakAttackTool.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>ікла</TuskAttackTool.label>
+  
+  <!-- EN: upper head -->
+  <UpperHead.label>верхня частина голови</UpperHead.label>
+  
+  <!-- EN: waist -->
+  <Waist.label>TODO</Waist.label>
+  
 </LanguageData>

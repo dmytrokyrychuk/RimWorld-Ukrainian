@@ -1,124 +1,392 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<CallOnRadio>Зв'язатися з {0}</CallOnRadio>
-	<CannotUseReason>Неможливо використовувати ({0})</CannotUseReason>
-	<CannotUseSolarFlare>Неможливо використовувати (сонячний спалах)</CannotUseSolarFlare>
-	<CannotUseNoPower>Неможливо використовувати (немає енергії)</CannotUseNoPower>
-	<CannotUseNoPath>Неможливо використовувати (немає проходу)</CannotUseNoPath>
-	<CannotUseReserved>Неможливо використовувати (зайнято)</CannotUseReserved>
-	<CannotUseFull>Неможливо використовувати (заповнено)</CannotUseFull>
+  <!-- EN: Call {0} -->
+  <CallOnRadio>Зв'язатися з {0}</CallOnRadio>
+  <!-- EN: Cannot use ({0}) -->
+  <CannotUseReason>Неможливо використовувати ({0})</CannotUseReason>
+  <!-- EN: Cannot use (solar flare) -->
+  <CannotUseSolarFlare>Неможливо використовувати (сонячний спалах)</CannotUseSolarFlare>
+  <!-- EN: Cannot use (no power) -->
+  <CannotUseNoPower>Неможливо використовувати (немає енергії)</CannotUseNoPower>
+  <!-- EN: Cannot use (no path) -->
+  <CannotUseNoPath>Неможливо використовувати (немає проходу)</CannotUseNoPath>
+  <!-- EN: Cannot use (reserved) -->
+  <CannotUseReserved>Неможливо використовувати (зайнято)</CannotUseReserved>
+  <!-- EN: Cannot use (full) -->
+  <CannotUseFull>Неможливо використовувати (заповнено)</CannotUseFull>
+  <!-- EN: leader {1_labelShort} is unavailable -->
+  <LeaderUnavailable>TODO</LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
+  <LeaderUnavailableNoLeader>TODO</LeaderUnavailableNoLeader>
+  
+  <!-- EN: Fire at {1_label} -->
+  <FireAt>Стріляти в {0}</FireAt>
 
-	<FireAt>Стріляти в {0}</FireAt>
+  <!-- EN: out of range -->
+  <OutOfRange>поза зоною ураження</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>TODO</TooClose>
+  <!-- EN: cannot hit target -->
+  <CannotHitTarget>неможливо влучити в ціль</CannotHitTarget>
+  <!-- EN: {1_labelShort} is incapable of violence -->
+  <IsIncapableOfViolenceLower>{0} нездатний(а) до жорстокості</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
+  <IncapableOfViolenceLower>TODO</IncapableOfViolenceLower>
+  <!-- EN: {1_labelShort} is not drafted -->
+  <IsNotDraftedLower>{0} не призваний(а)</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
+  <CannotOrderNonControlledLower>не можна віддавати накази непідконтрольній істоті</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>TODO</CannotAttackSelf>
 
-	<OutOfRange>поза зоною ураження</OutOfRange>
-	<CannotHitTarget>неможливо влучити в ціль</CannotHitTarget>
-	<IsIncapableOfViolenceLower>{0} нездатний(а) до жорстокості</IsIncapableOfViolenceLower>
-	<IsNotDraftedLower>{0} не призваний(а)</IsNotDraftedLower>
-	<CannotOrderNonControlledLower>не можна віддавати накази непідконтрольній істоті</CannotOrderNonControlledLower>
+  <!-- EN: Man {1_labelShort} -->
+  <OrderManThing>Зайняти {0}</OrderManThing>
+  
+  <!-- EN: Melee attack {1_label} -->
+  <MeleeAttack>Битися з {0}</MeleeAttack>
+  <!-- EN: Melee attack {1_label} to death -->
+  <MeleeAttackToDeath>Добити {0} врукопаш</MeleeAttackToDeath>
+  <!-- EN: no path -->
+  <NoPath>немає проходу</NoPath>
 
-	<OrderManThing>Зайняти {0}</OrderManThing>
+  <!-- EN: forbidden -->
+  <ForbiddenLower>заборонено</ForbiddenLower>
+  <!-- EN: outside allowed area -->
+  <ForbiddenOutsideAllowedAreaLower>поза дозволеною зоною</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
+  <NotInHomeArea>TODO</NotInHomeArea>
+  <!-- EN: burning -->
+  <BurningLower>горить</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
+  <NoEmptyPlaceLower>немає вільного місця, налаштованого для збереження цього</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>TODO</NoMergeTarget>
+  <!-- EN: already filled enough -->
+  <AlreadyFilledLower>вже повний</AlreadyFilledLower>
+  <!-- EN: need material -->
+  <MissingMaterials>нестача матеріалів</MissingMaterials>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>TODO</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>TODO</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>TODO</AboveAllowedSkill>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>TODO</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
+  <AnimalInteractedTooRecently>занадто часта взаємодія</AnimalInteractedTooRecently>
+  <!-- EN: no usable food -->
+  <NoUsableFood>немає необхідної їжі</NoUsableFood>
+  <!-- EN: no food -->
+  <NoFood>немає їжі</NoFood>
+  <!-- EN: animals skill too low - need {0} -->
+  <AnimalsSkillTooLow>Тварина недостатньо розумна</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>TODO</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>TODO</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>TODO</CantInteractAnimalBusy>
+  <!-- EN: construction skill too low -->
+  <ConstructionSkillTooLow>TODO</ConstructionSkillTooLow>
+  <!-- EN: need components -->
+  <NoComponentsToRepair>необхідні компоненти</NoComponentsToRepair>
+  <!-- EN: need {0} -->
+  <NoFuelToRefuel>необхідне {0}</NoFuelToRefuel>
+  <!-- EN: need wort -->
+  <NoWort>TODO</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>TODO</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
+  <NoFoodToFillHopper>TODO</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
+  <SelfTendDisabled>TODO</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
+  <ReservedForPrisoners>TODO</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
+  <CannotReach>TODO</CannotReach>
+  <!-- EN: not ready for surgery -->
+  <NotSurgeryReady>TODO</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>TODO</SkillDisabled>
+  <!-- EN: too bright -->
+  <CantSowCavePlantBecauseOfLight>TODO</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
+  <CantSowCavePlantBecauseUnroofed>TODO</CantSowCavePlantBecauseUnroofed>
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>TODO</IncapableOfDeconstruction>
+  <!-- EN: incapable of mining -->
+  <IncapableOfMining>TODO</IncapableOfMining>
+  <!-- EN: angers faction -->
+  <AngersFaction>TODO</AngersFaction>
+  
+  <!-- EN: Consume {1_labelShort} -->
+  <ConsumeThing>Спожити {0}</ConsumeThing>
+  
+  <!-- EN: Cannot go here (no path) -->
+  <CannotGoNoPath>Неможливо пройти сюди (немає проходу)</CannotGoNoPath>
+  <!-- EN: Go here -->
+  <GoHere>Йти сюди</GoHere>
+  
+  <!-- EN: Arrest {0} -->
+  <Arrest>Заарештувати {0}</Arrest>
+  <!-- EN: Try to arrest {1_label} -->
+  <TryToArrest>Спробувати арештувати {0}</TryToArrest>
+  <!-- EN: Cannot arrest -->
+  <CannotArrest>Неможливо арештувати</CannotArrest>
 
-	<MeleeAttack>Битися з {0}</MeleeAttack>
-	<MeleeAttackToDeath>Добити {0} врукопаш</MeleeAttackToDeath>
-	<NoPath>немає проходу</NoPath>
+  <!-- EN: Capture {1_label} -->
+  <Capture>Захопити {0}</Capture>
+  <!-- EN: Cannot capture -->
+  <CannotCapture>Неможливо захопити</CannotCapture>
 
-	<ForbiddenLower>заборонено</ForbiddenLower>
-	<ForbiddenOutsideAllowedAreaLower>поза дозволеною зоною</ForbiddenOutsideAllowedAreaLower>
-	<SociallyImproperLower>соціально неадаптований</SociallyImproperLower>
-	<PrisonerRoomLower>приміщення в'язниці</PrisonerRoomLower>
-	<BurningLower>горить</BurningLower>
-	<NoEmptyPlaceLower>немає вільного місця, налаштованого для збереження цього</NoEmptyPlaceLower>
-	<AlreadyFilledLower>вже повний</AlreadyFilledLower>
-	<MissingMaterials>нестача матеріалів</MissingMaterials>
-	<MissingSkill>навички надто низькі</MissingSkill>
-	<NoEmptyGraveLower>немає пустих могиил</NoEmptyGraveLower>
-	<AnimalInteractedTooRecently>занадто часта взаємодія</AnimalInteractedTooRecently>
-	<NoUsableFood>немає необхідної їжі</NoUsableFood>
-	<NoFood>немає їжі</NoFood>
-	<AnimalsSkillTooLow>Тварина недостатньо розумна</AnimalsSkillTooLow>
-	<NoComponentsToRepair>необхідні компоненти</NoComponentsToRepair>
-	<NoFuelToRefuel>необхідне {0}</NoFuelToRefuel>
+  <!-- EN: Rescue {1_label} -->
+  <Rescue>Врятувати {0}</Rescue>
+  <!-- EN: Cannot rescue -->
+  <CannotRescue>Неможливо врятувати</CannotRescue>
 
-	<ConsumeThing>Спожити {0}</ConsumeThing>
-	<Teetotaler>непитущий</Teetotaler>
+  <!-- EN: Carry {1_label} to cryptosleep casket -->
+  <CarryToCryptosleepCasket>Перенести {0} до капсули крипто сну</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
+  <CannotCarryToCryptosleepCasket>Неможливо перенести до капсули крипто сну</CannotCarryToCryptosleepCasket>
 
-	<CannotGoNoPath>Неможливо пройти сюди (немає проходу)</CannotGoNoPath>
-	<GoHere>Йти сюди</GoHere>
+  <!-- EN: No available cryptosleep casket. -->
+  <NoCryptosleepCasket>Немає вільних капсул крипто сну.</NoCryptosleepCasket>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
+  <NoPrisonerBed>Немає вільних ліжок для в'язнів.</NoPrisonerBed>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
+  <NoNonPrisonerBed>Немає вільних ліжок для колоністів.</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
+  <NoAnimalBed>Немає доступного місця для сну тварин.</NoAnimalBed>
+  <!-- EN: Reserved by someone else. -->
+  <Reserved>Зайнято кимось іншим.</Reserved>
+  <!-- EN: Reserved by {1_labelShort} -->
+  <ReservedBy>Зайнято {0}.</ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
+  <IsReservedBy>{0} зайнято {1}.</IsReservedBy>
+  <!-- EN: Too heavy -->
+  <TooHeavy>TODO</TooHeavy>
 
-	<Arrest>Заарештувати {0}</Arrest>
-	<TryToArrest>Спробувати арештувати {0}</TryToArrest>
-	<CannotArrest>Неможливо арештувати</CannotArrest>
+  <!-- EN: incapable -->
+  <Incapable>нездатний</Incapable>
+  <!-- EN: incapable of {0} -->
+  <IncapableOfCapacity>не в змозі {0}</IncapableOfCapacity>
 
-	<Capture>Захопити {0}</Capture>
-	<CannotCapture>Неможливо захопити</CannotCapture>
+  <!-- EN: min skill -->
+  <MinSkill>мінімальні навички</MinSkill>
+  
+  <!-- EN: Equip {0} -->
+  <Equip>Спорядити {0}</Equip>
+  <!-- EN: (brawler will be unhappy) -->
+  <EquipWarningBrawler>(забіяка буде незадоволений)</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
+  <CannotEquip>Неможливо спорядити {0}</CannotEquip>
+  <!-- EN: Cannot man {1_labelShort} -->
+  <CannotManThing>TODO</CannotManThing>
+  
+  <!-- EN: Force wear {1_labelShort} -->
+  <ForceWear>Вдягнути {0}</ForceWear>
+  <!-- EN: Cannot wear {1_label} -->
+  <CannotWear>Неможливо вдягнути {0}</CannotWear>
+  <!-- EN: missing body parts -->
+  <CannotWearBecauseOfMissingBodyParts>відсутня частина тіла</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Cannot pick up {1_label} -->
+  <CannotPickUp>TODO</CannotPickUp>
+  <!-- EN: Cannot pick up {1_label} (all) -->
+  <CannotPickUpAll>TODO</CannotPickUpAll>
+  <!-- EN: Pick up {1_label} -->
+  <PickUp>TODO</PickUp>
+  <!-- EN: Pick up {1_label} (all) -->
+  <PickUpAll>TODO</PickUpAll>
+  <!-- EN: Pick up {1_labelShort}... -->
+  <PickUpSome>TODO</PickUpSome>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>TODO</PickUpCount>
+  
+  <!-- EN: Cannot give {1_label} to pack animal -->
+  <CannotGiveToPackAnimal>TODO</CannotGiveToPackAnimal>
+  <!-- EN: Cannot give {1_label} (all) to pack animal -->
+  <CannotGiveToPackAnimalAll>TODO</CannotGiveToPackAnimalAll>
+  <!-- EN: Give {1_label} to pack animal -->
+  <GiveToPackAnimal>TODO</GiveToPackAnimal>
+  <!-- EN: Give {1_label} (all) to pack animal -->
+  <GiveToPackAnimalAll>TODO</GiveToPackAnimalAll>
+  <!-- EN: Give {1_labelShort} to pack animal... -->
+  <GiveToPackAnimalSome>TODO</GiveToPackAnimalSome>
+  <!-- EN: Take {1_labelShort} x{{0}} -->
+  <GiveToPackAnimalCount>TODO</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {1_label} into caravan -->
+  <CannotLoadIntoCaravan>TODO</CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {1_label} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>TODO</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {1_label} into caravan -->
+  <LoadIntoCaravan>TODO</LoadIntoCaravan>
+  <!-- EN: Load {1_label} (all) into caravan -->
+  <LoadIntoCaravanAll>TODO</LoadIntoCaravanAll>
+  <!-- EN: Load {1_labelShort} into caravan... -->
+  <LoadIntoCaravanSome>TODO</LoadIntoCaravanSome>
+  <!-- EN: Load {1_labelShort} x{{0}} -->
+  <LoadIntoCaravanCount>TODO</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>TODO</OverweightLower>
 
-	<Rescue>Врятувати {0}</Rescue>
-	<CannotRescue>Неможливо врятувати</CannotRescue>
+  <!-- EN: Cannot carry {1_label} and leave the area -->
+  <CannotCarryToExit>TODO</CannotCarryToExit>
+  <!-- EN: Carry {1_label} and leave the area -->
+  <CarryToExit>TODO</CarryToExit>
+  <!-- EN: Capture {1_label} and leave the area -->
+  <CarryToExitAndCapture>TODO</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {1_label} -->
+  <Strip>Роздягнути {0}</Strip>
+  <!-- EN: Cannot strip {1_label} -->
+  <CannotStrip>Неможливо роздягнути {0}</CannotStrip>
 
-	<CarryToCryptosleepCasket>Перенести {0} до капсули крипто сну</CarryToCryptosleepCasket>
-	<CannotCarryToCryptosleepCasket>Неможливо перенести до капсули крипто сну</CannotCarryToCryptosleepCasket>
+  <!-- EN: Self-destruct here -->
+  <SelfDestructHere>Самознищитися тут</SelfDestructHere>
+  
+  <!-- EN: Drop {1_label} -->
+  <Drop>Кинути {0}</Drop>
 
-	<NoCryptosleepCasket>Немає вільних капсул крипто сну.</NoCryptosleepCasket>
-	<NoPrisonerBed>Немає вільних ліжок для в'язнів.</NoPrisonerBed>
-	<NoNonPrisonerBed>Немає вільних ліжок для колоністів.</NoNonPrisonerBed>
-	<NoAnimalBed>Немає доступного місця для сну тварин.</NoAnimalBed>
-	<Reserved>Зайнято кимось іншим.</Reserved>
-	<ReservedBy>Зайнято {0}.</ReservedBy>
-	<IsReservedBy>{0} зайнято {1}.</IsReservedBy>
+  <!-- EN: Rest until healed -->
+  <UseMedicalBed>Відпочивати до повного відновлення</UseMedicalBed>
+  <!-- EN: not injured -->
+  <NotInjured>Не має поранень</NotInjured>
+  <!-- EN: occupied by {0} -->
+  <SomeoneElseSleeping>Спить хтось інший</SomeoneElseSleeping>
+  
+  <!-- EN: Trade with {0} -->
+  <TradeWith>Торгувати з {0}</TradeWith>
+  <!-- EN: Cannot trade -->
+  <CannotTrade>Неможливо торгувати</CannotTrade>
 
-	<Incapable>нездатний</Incapable>
-	<IncapableOfCapacity>не в змозі {0}</IncapableOfCapacity>
-
-	<MinSkill>мінімальні навички</MinSkill>
-
-	<Equip>Спорядити {0}</Equip>
-	<EquipWarningBrawler>(забіяка буде незадоволений)</EquipWarningBrawler>
-	<CannotEquip>Неможливо спорядити {0}</CannotEquip>
-
-	<ForceWear>Вдягнути {0}</ForceWear>
-	<CannotWear>Неможливо вдягнути {0}</CannotWear>
-	<CannotWearBecauseOfMissingBodyParts>відсутня частина тіла</CannotWearBecauseOfMissingBodyParts>
-
-	<Strip>Роздягнути {0}</Strip>
-	<CannotStrip>Неможливо роздягнути {0}</CannotStrip>
-
-	<Deposit>Покласти {0} до {1}</Deposit>
-	<CannotDeposit>Неможливо покласти {0} до {1}</CannotDeposit>
-
-	<SelfDestructHere>Самознищитися тут</SelfDestructHere>
-
-	<Drop>Кинути {0}</Drop>
-	<UseMedicalBed>Відпочивати до повного відновлення</UseMedicalBed>
-	<NotInjured>Не має поранень</NotInjured>
-	<SomeoneElseSleeping>Спить хтось інший</SomeoneElseSleeping>
-	<TradeWith>Торгувати з {0}</TradeWith>
-	<CannotTrade>Неможливо торгувати</CannotTrade>
+  <!-- EN: Open {0_label} -->
+  <Open>TODO</Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>TODO</CannotOpen>
+  
+  <!-- EN: Enter {0} -->
+  <EnterMap>TODO</EnterMap>
+  <!-- EN: Visit {0} -->
+  <VisitSettlement>TODO</VisitSettlement>
+  <!-- EN: Visit {0} -->
+  <VisitPeaceTalks>TODO</VisitPeaceTalks>
+  <!-- EN: Visit {0} -->
+  <VisitEscapeShip>TODO</VisitEscapeShip>
+  <!-- EN: Attack {0} -->
+  <AttackSettlement>TODO</AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>TODO</ApproachSite>
+  <!-- EN: Approaching {0} -->
+  <ApproachingSite>TODO</ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>TODO</OfferGifts>
 
   <!-- Specific thing interactions -->
-
-	<EnterCryptosleepCasket>Увійти в капсулу крипто сну</EnterCryptosleepCasket>
-	<OpenCryptosleepCasket>Відкрити капсулу</OpenCryptosleepCasket>
+  <!-- EN: Enter cryptosleep casket -->
+  <EnterCryptosleepCasket>Увійти в капсулу крипто сну</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
+  <OpenCryptosleepCasket>Відкрити капсулу</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>Неможливо {0} {1}</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>TODO</CannotGenericWorkCustom>
 
-	<CannotGenericWork>Неможливо {0} {1}</CannotGenericWork>
+  <!-- EN: Cannot prioritize (incapable of {0}) -->
+  <CannotMissingHealthActivities>Неможливо зробити: {0} (через стан здоров'я)</CannotMissingHealthActivities>
 
-  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc -->
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {2_labelShort} -->
+  <CannotGenericAlreadyAm>Вже {0} {1}</CannotGenericAlreadyAm>
 
-	<CannotMissingHealthActivities>Неможливо зробити: {0} (через стан здоров'я)</CannotMissingHealthActivities>
+  <!-- EN: Cannot prioritize (will never do {0}) -->
+  <CannotPrioritizeWorkTypeDisabled>TODO</CannotPrioritizeWorkTypeDisabled>
 
-	<CannotGenericAlreadyAm>Вже {0} {1}</CannotGenericAlreadyAm>
+  <!-- EN: Cannot prioritize (will never {0}) -->
+  <CannotPrioritizeWorkGiverDisabled>TODO</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>TODO</WillNever>
 
-	<CannotPrioritizeIsNotA>Зараз немає можливості ({0} не {1})</CannotPrioritizeIsNotA>
+  <!-- EN: Cannot prioritize (not assigned to {0}) -->
+  <CannotPrioritizeNotAssignedToWorkType>TODO</CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>TODO</NotAssigned>
 
-	<CannotPrioritizeResearch>Зараз немає можливості (дослідження це довгострокова задача)</CannotPrioritizeResearch>
+  <!-- EN: Cannot prioritize (research is a long-term task) -->
+  <CannotPrioritizeResearch>Зараз немає можливості (дослідження це довгострокова задача)</CannotPrioritizeResearch>
 
-	<CannotPrioritizeForbidden>Зараз немає можливості ({0} заборонено)</CannotPrioritizeForbidden>
-	<CannotPrioritizeForbiddenOutsideAllowedArea>Зараз немає можливості ({0} поза дозволеною зоною)</CannotPrioritizeForbiddenOutsideAllowedArea>
-  
+  <!-- EN: Cannot prioritize ({1_label} is forbidden) -->
+  <CannotPrioritizeForbidden>Зараз немає можливості ({0} заборонено)</CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize (forbidden) -->
+  <CannotPrioritizeCellForbidden>TODO</CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Зараз немає можливості ({0} поза дозволеною зоною)</CannotPrioritizeForbiddenOutsideAllowedArea>
+
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
+  <PrioritizeGeneric>Негайно {0} {1}</PrioritizeGeneric>
+  
+  <!-- EN: Drop at edge -->
+  <DropAtEdge>TODO</DropAtEdge>
+  <!-- EN: Drop in center -->
+  <DropInCenter>TODO</DropInCenter>
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>TODO</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>TODO</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
+  <VomitingLower>TODO</VomitingLower>
+  <!-- EN: not interruptible -->
+  <NotInterruptibleLower>TODO</NotInterruptibleLower>
+  
+  <!-- EN: Add a new waypoint here -->
+  <AddWaypoint>TODO</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
+  <RemoveWaypoint>TODO</RemoveWaypoint>
 
-	<PrioritizeGeneric>Негайно {0} {1}</PrioritizeGeneric>
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>TODO</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>TODO</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>TODO</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>TODO</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>TODO</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>TODO</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>TODO</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>TODO</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>TODO</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>TODO</GiveGiftViaTransportPods>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>TODO</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>TODO</OfferHelp>
+  
+  <!-- UNUSED -->
+  <SociallyImproperLower>соціально неадаптований</SociallyImproperLower>
+  <PrisonerRoomLower>приміщення в'язниці</PrisonerRoomLower>
+  <MissingSkill>навички надто низькі</MissingSkill>
+  <NoEmptyGraveLower>немає пустих могиил</NoEmptyGraveLower>
+  <Teetotaler>непитущий</Teetotaler>
+  <Deposit>Покласти {0} до {1}</Deposit>
+  <CannotDeposit>Неможливо покласти {0} до {1}</CannotDeposit>
+  <CannotPrioritizeIsNotA>Зараз немає можливості ({0} не {1})</CannotPrioritizeIsNotA>
 
 </LanguageData>

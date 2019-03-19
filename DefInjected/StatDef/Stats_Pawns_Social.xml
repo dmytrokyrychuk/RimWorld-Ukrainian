@@ -1,22 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<RecruitPrisonerChance.label>Шанс вербування</RecruitPrisonerChance.label>
-	<RecruitPrisonerChance.description>Базова ймовірність, з якою цей персонаж зможє завербувати в'язнів.</RecruitPrisonerChance.description>
-
-	<TameAnimalChance.label>Шанс приручення тварин</TameAnimalChance.label>
-	<TameAnimalChance.description>Базовий шанс, що колоніст вдало приручить тварину.</TameAnimalChance.description>
-
-	<TrainAnimalChance.label>Шанс тренування тварин</TrainAnimalChance.label>
-	<TrainAnimalChance.description>Базовий шанс, що колоніст вдало здійснить тренування тварини. Може змінюватися в залежності від тварини.</TrainAnimalChance.description>
-
-	<SocialImpact.label>Вплив розмови</SocialImpact.label>
-	<SocialImpact.description>Соціальний вплив цього персонажу на інших під час розмови з ним.</SocialImpact.description>
-
-	<GiftImpact.label>Вплив подарунків</GiftImpact.label>
-	<GiftImpact.description>Коли цей персонаж дарить подарунки іншій фракції, цей множник застосовується до його впливу на відносини з цією фракцією.</GiftImpact.description>
-
-	<TradePriceImprovement.label>Покращення торгової ціни</TradePriceImprovement.label>
-	<TradePriceImprovement.description>Якщо цей персонаж веде торгівлю, ціни покупки й продажу покращуються на цей відсоток.</TradePriceImprovement.description>
-
+  
+  <!-- EN: negotiation ability -->
+  <NegotiationAbility.label>Вплив подарунків</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator. This affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
+  <NegotiationAbility.description>Коли цей персонаж дарить подарунки іншій фракції, цей множник застосовується до його впливу на відносини з цією фракцією.</NegotiationAbility.description>
+  
+  <!-- UNUSED -->
+  <RecruitPrisonerChance.label>Шанс вербування</RecruitPrisonerChance.label>
+  <RecruitPrisonerChance.description>Базова ймовірність, з якою цей персонаж зможє завербувати в'язнів.</RecruitPrisonerChance.description>
+  
+  <!-- EN: social impact -->
+  <SocialImpact.label>Вплив розмови</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>Соціальний вплив цього персонажу на інших під час розмови з ним.</SocialImpact.description>
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>Шанс приручення тварин</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt. The actual chance is also affected by the animal's wildness. Failed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>Базовий шанс, що колоніст вдало приручить тварину.</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
+  <TradePriceImprovement.label>Покращення торгової ціни</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
+  <TradePriceImprovement.description>Якщо цей персонаж веде торгівлю, ціни покупки й продажу покращуються на цей відсоток.</TradePriceImprovement.description>
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>Шанс тренування тварин</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>Базовий шанс, що колоніст вдало здійснить тренування тварини. Може змінюватися в залежності від тварини.</TrainAnimalChance.description>
+  
 </LanguageData>

@@ -1,80 +1,233 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- torso for animals -->
-
-	<Body.label>тіло</Body.label>
-	<Beak.label>дзьоб</Beak.label>
-	<InsectHead.label>голова</InsectHead.label>
-	<SnakeBody.label>тіло</SnakeBody.label>
-	<SnakeHead.label>голова</SnakeHead.label>
-	<SnakeMouth.label>паща</SnakeMouth.label>
-	<InsectHeart.label>серце</InsectHeart.label>
-	<InsectNostril.label>ніздря</InsectNostril.label>
-	<InsectMouth.label>рот</InsectMouth.label>
-	<Jowl.label>щока</Jowl.label>
-	<Tail.label>хвіст</Tail.label>
-	<LeftAntenna.label>лівий вусик</LeftAntenna.label>
-	<RightAntenna.label>правий вусик</RightAntenna.label>
-	<Pronotum.label>переднеспинка</Pronotum.label>
-	<Shell.label>панцир</Shell.label>
-	<LeftElytra.label>ліве надкрилля</LeftElytra.label>
-	<RightElytra.label>праве надкрилля</RightElytra.label>
-	<LeftTusk.label>лівий бивень</LeftTusk.label>
-	<RightTusk.label>правий бивень</RightTusk.label>
-	<Trunk.label>хобот</Trunk.label>
-	<Horn.label>ріг</Horn.label>
-	<HeadClaw.label>голова-щелепи</HeadClaw.label>
-	<Hump.label>горб</Hump.label>
-	<TurtleShell.label>панцир</TurtleShell.label>
-	<Plastron.label>нижній щит</Plastron.label>
-	<TurtleBeak.label>дзьоб</TurtleBeak.label>
-
-  <!-- animals legs -->
-
-	<FrontLeftLeg.label>передня ліва нога</FrontLeftLeg.label>
-	<FrontRightLeg.label>передня права нога</FrontRightLeg.label>
-	<MiddleLeftLeg.label>середня ліва нога</MiddleLeftLeg.label>
-	<MiddleRightLeg.label>середня права нога</MiddleRightLeg.label>
-	<RearLeftLeg.label>задня ліва нога</RearLeftLeg.label>
-	<RearRightLeg.label>задня права нога</RearRightLeg.label>
-
-	<FrontLeftInsectLeg.label>передня ліва нога</FrontLeftInsectLeg.label>
-	<FrontRightInsectLeg.label>передня права нога</FrontRightInsectLeg.label>
-	<MiddleLeftInsectLeg.label>середня ліва нога</MiddleLeftInsectLeg.label>
-	<MiddleRightInsectLeg.label>середня права нога</MiddleRightInsectLeg.label>
-	<RearLeftInsectLeg.label>задня ліва нога</RearLeftInsectLeg.label>
-	<RearRightInsectLeg.label>задня права нога</RearRightInsectLeg.label>
-
-	<FrontLeftPaw.label>передня ліва лапа</FrontLeftPaw.label>
-	<FrontRightPaw.label>передня права лапа</FrontRightPaw.label>
-	<RearLeftPaw.label>задня ліва лапа</RearLeftPaw.label>
-	<RearRightPaw.label>задня права лапа</RearRightPaw.label>
-	<FrontLeftHoof.label>переднє ліве копито</FrontLeftHoof.label>
-	<FrontRightHoof.label>переднє праве копито</FrontRightHoof.label>
-	<RearLeftHoof.label>заднє ліве копито</RearLeftHoof.label>
-	<RearRightHoof.label>заднє праве копито</RearRightHoof.label>
-
-	<FrontLeftLegFirstClaw.label>перший кіготь передньої лівої лапи</FrontLeftLegFirstClaw.label>
-	<FrontLeftLegSecondClaw.label>другий кіготь передньої лівої лапи</FrontLeftLegSecondClaw.label>
-	<FrontLeftLegThirdClaw.label>третій кіготь передньої лівої лапи</FrontLeftLegThirdClaw.label>
-	<FrontLeftLegFourthClaw.label>четвертий кіготь передньої лівої лапи</FrontLeftLegFourthClaw.label>
-	<FrontLeftLegFifthClaw.label>п'ятий кіготь передньої лівої лапи</FrontLeftLegFifthClaw.label>
-	<FrontRightLegFirstClaw.label>перший кіготь передньої правої лапи</FrontRightLegFirstClaw.label>
-	<FrontRightLegSecondClaw.label>другий кіготь передньої правої лапи</FrontRightLegSecondClaw.label>
-	<FrontRightLegThirdClaw.label>третій кіготь передньої правої лапи</FrontRightLegThirdClaw.label>
-	<FrontRightLegFourthClaw.label>четвертий кіготь передньої правої лапи</FrontRightLegFourthClaw.label>
-	<FrontRightLegFifthClaw.label>п'ятий кіготь передньої правої лапи</FrontRightLegFifthClaw.label>
-
-	<RearLeftLegFirstClaw.label>перший кіготь задньої лівої лапи</RearLeftLegFirstClaw.label>
-	<RearLeftLegSecondClaw.label>другий кіготь задньої лівої лапи</RearLeftLegSecondClaw.label>
-	<RearLeftLegThirdClaw.label>третій кіготь задньої лівої лапи</RearLeftLegThirdClaw.label>
-	<RearLeftLegFourthClaw.label>четвертий кіготь задньої лівої лапи</RearLeftLegFourthClaw.label>
-	<RearLeftLegFifthClaw.label>п'ятий кіготь задньої лівої лапи</RearLeftLegFifthClaw.label>
-	<RearRightLegFirstClaw.label>перший кіготь задньої правої лапи</RearRightLegFirstClaw.label>
-	<RearRightLegSecondClaw.label>другий кіготь задньої правої лапи</RearRightLegSecondClaw.label>
-	<RearRightLegThirdClaw.label>третій кіготь задньої правої лапи</RearRightLegThirdClaw.label>
-	<RearRightLegFourthClaw.label>четвертий кіготь задньої правої лапи</RearRightLegFourthClaw.label>
-	<RearRightLegFifthClaw.label>п'ятий кіготь задньої правої лапи</RearRightLegFifthClaw.label>
-
+  
+  <!-- EN: jaw -->
+  <AnimalJaw.label>TODO</AnimalJaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>TODO</Antenna.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>дзьоб</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>тіло</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>TODO</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>TODO</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
+  
+  <!-- UNUSED -->
+  <FrontLeftHoof.label>переднє ліве копито</FrontLeftHoof.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftInsectLeg.label>передня ліва нога</FrontLeftInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLeg.label>передня ліва нога</FrontLeftLeg.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegFifthClaw.label>п'ятий кіготь передньої лівої лапи</FrontLeftLegFifthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegFirstClaw.label>перший кіготь передньої лівої лапи</FrontLeftLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegFourthClaw.label>четвертий кіготь передньої лівої лапи</FrontLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegSecondClaw.label>другий кіготь передньої лівої лапи</FrontLeftLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegThirdClaw.label>третій кіготь передньої лівої лапи</FrontLeftLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftPaw.label>передня ліва лапа</FrontLeftPaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightHoof.label>переднє праве копито</FrontRightHoof.label>
+  
+  <!-- UNUSED -->
+  <FrontRightInsectLeg.label>передня права нога</FrontRightInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLeg.label>передня права нога</FrontRightLeg.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegFifthClaw.label>п'ятий кіготь передньої правої лапи</FrontRightLegFifthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegFirstClaw.label>перший кіготь передньої правої лапи</FrontRightLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegFourthClaw.label>четвертий кіготь передньої правої лапи</FrontRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegSecondClaw.label>другий кіготь передньої правої лапи</FrontRightLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegThirdClaw.label>третій кіготь передньої правої лапи</FrontRightLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightPaw.label>передня права лапа</FrontRightPaw.label>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>голова-щелепи</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>TODO</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>ріг</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>горб</Hump.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>голова</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>серце</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>TODO</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>рот</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>ніздря</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>щока</Jowl.label>
+  
+  <!-- UNUSED -->
+  <LeftAntenna.label>лівий вусик</LeftAntenna.label>
+  
+  <!-- UNUSED -->
+  <LeftElytra.label>ліве надкрилля</LeftElytra.label>
+  
+  <!-- UNUSED -->
+  <LeftTusk.label>лівий бивень</LeftTusk.label>
+  
+  <!-- UNUSED -->
+  <MiddleLeftInsectLeg.label>середня ліва нога</MiddleLeftInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <MiddleLeftLeg.label>середня ліва нога</MiddleLeftLeg.label>
+  
+  <!-- UNUSED -->
+  <MiddleRightInsectLeg.label>середня права нога</MiddleRightInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <MiddleRightLeg.label>середня права нога</MiddleRightLeg.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>TODO</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>нижній щит</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>переднеспинка</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>TODO</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>TODO</RearClaw.labelShort>
+  
+  <!-- UNUSED -->
+  <RearLeftHoof.label>заднє ліве копито</RearLeftHoof.label>
+  
+  <!-- UNUSED -->
+  <RearLeftInsectLeg.label>задня ліва нога</RearLeftInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLeg.label>задня ліва нога</RearLeftLeg.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegFifthClaw.label>п'ятий кіготь задньої лівої лапи</RearLeftLegFifthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegFirstClaw.label>перший кіготь задньої лівої лапи</RearLeftLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegFourthClaw.label>четвертий кіготь задньої лівої лапи</RearLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegSecondClaw.label>другий кіготь задньої лівої лапи</RearLeftLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegThirdClaw.label>третій кіготь задньої лівої лапи</RearLeftLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftPaw.label>задня ліва лапа</RearLeftPaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightHoof.label>заднє праве копито</RearRightHoof.label>
+  
+  <!-- UNUSED -->
+  <RearRightInsectLeg.label>задня права нога</RearRightInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <RearRightLeg.label>задня права нога</RearRightLeg.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegFifthClaw.label>п'ятий кіготь задньої правої лапи</RearRightLegFifthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegFirstClaw.label>перший кіготь задньої правої лапи</RearRightLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegFourthClaw.label>четвертий кіготь задньої правої лапи</RearRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegSecondClaw.label>другий кіготь задньої правої лапи</RearRightLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegThirdClaw.label>третій кіготь задньої правої лапи</RearRightLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightPaw.label>задня права лапа</RearRightPaw.label>
+  
+  <!-- UNUSED -->
+  <RightAntenna.label>правий вусик</RightAntenna.label>
+  
+  <!-- UNUSED -->
+  <RightElytra.label>праве надкрилля</RightElytra.label>
+  
+  <!-- UNUSED -->
+  <RightTusk.label>правий бивень</RightTusk.label>
+  
+  <!-- EN: shell -->
+  <Shell.label>панцир</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>тіло</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>голова</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>паща</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>хвіст</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>хобот</Trunk.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeak.label>дзьоб</TurtleBeak.label>
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>панцир</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>TODO</Tusk.label>
+  
 </LanguageData>

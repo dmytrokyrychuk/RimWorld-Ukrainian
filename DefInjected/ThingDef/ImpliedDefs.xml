@@ -1,0 +1,1429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ліжко для тварин (проект) -->
+  <Blueprint_AnimalBed.label>Ліжко для тварин (проект)</Blueprint_AnimalBed.label>
+  
+  <!-- EN: Коробка для сну (проект) -->
+  <Blueprint_AnimalSleepingBox.label>Спальна коробка для тварин (проект)</Blueprint_AnimalSleepingBox.label>
+  
+  <!-- EN: Місце сну тварин (проект) -->
+  <Blueprint_AnimalSleepingSpot.label>Спальне місце тварин (проект)</Blueprint_AnimalSleepingSpot.label>
+  
+  <!-- EN: Крісло (проект) -->
+  <Blueprint_Armchair.label>Крісло (проект)</Blueprint_Armchair.label>
+  
+  <!-- EN: Автоматичні двері (проект) -->
+  <Blueprint_Autodoor.label>Автоматичні двері (проект)</Blueprint_Autodoor.label>
+  
+  <!-- EN: Акумуляторна батарея (проект) -->
+  <Blueprint_Battery.label>Акумуляторна батарея (проект)</Blueprint_Battery.label>
+  
+  <!-- EN: Ліжко (проект) -->
+  <Blueprint_Bed.label>Ліжко (проект)</Blueprint_Bed.label>
+  
+  <!-- EN: Більярдний стіл (проект) -->
+  <Blueprint_BilliardsTable.label>Більярдний стіл (проект)</Blueprint_BilliardsTable.label>
+  
+  <!-- EN: Броварня (проект) -->
+  <Blueprint_Brewery.label>Броварня (проект)</Blueprint_Brewery.label>
+  
+  <!-- EN: Вогнище (проект) -->
+  <Blueprint_Campfire.label>Вогнище (проект)</Blueprint_Campfire.label>
+  
+  <!-- EN: Місце збору караванау (проект) -->
+  <Blueprint_CaravanPackingSpot.label>Місце збору караванау (проект)</Blueprint_CaravanPackingSpot.label>
+  
+  <!-- EN: Синій килим (проект) -->
+  <Blueprint_CarpetBlue.label>Синій килим (проект)</Blueprint_CarpetBlue.label>
+  
+  <!-- EN: Кремовий килим (проект) -->
+  <Blueprint_CarpetCream.label>Кремовий килим (проект)</Blueprint_CarpetCream.label>
+  
+  <!-- EN: Сірий килим (проект) -->
+  <Blueprint_CarpetDark.label>Сірий килим (проект)</Blueprint_CarpetDark.label>
+  
+  <!-- EN: Зелений килим (проект) -->
+  <Blueprint_CarpetGreen.label>Зелений килим (проект)</Blueprint_CarpetGreen.label>
+  
+  <!-- EN: Червоний килим (проект) -->
+  <Blueprint_CarpetRed.label>Червоний килим (проект)</Blueprint_CarpetRed.label>
+  
+  <!-- EN: Стіл для шахів (проект) -->
+  <Blueprint_ChessTable.label>Стіл для шахів (проект)</Blueprint_ChessTable.label>
+  
+  <!-- EN: Консоль зв’язку (проект) -->
+  <Blueprint_CommsConsole.label>Консоль зв’язку (проект)</Blueprint_CommsConsole.label>
+  
+  <!-- EN: Бетон (проект) -->
+  <Blueprint_Concrete.label>Бетон (проект)</Blueprint_Concrete.label>
+  
+  <!-- EN: Охолоджувач (проект) -->
+  <Blueprint_Cooler.label>Охолоджувач (проект)</Blueprint_Cooler.label>
+  
+  <!-- EN: Робоче місце (проект) -->
+  <Blueprint_CraftingSpot.label>Робоче місце (проект)</Blueprint_CraftingSpot.label>
+  
+  <!-- EN: Крипто-саркофаг (проект) -->
+  <Blueprint_CryptosleepCasket.label>Крипто-саркофаг (проект)</Blueprint_CryptosleepCasket.label>
+  
+  <!-- EN: Бурова установка (проект) -->
+  <Blueprint_DeepDrill.label>Бурова установка (проект)</Blueprint_DeepDrill.label>
+  
+  <!-- EN: Стілець зі спинкою (проект) -->
+  <Blueprint_DiningChair.label>Стілець зі спинкою (проект)</Blueprint_DiningChair.label>
+  
+  <!-- EN: Двері (проект) -->
+  <Blueprint_Door.label>Двері (проект)</Blueprint_Door.label>
+  
+  <!-- EN: Подвійне ліжно (проект) -->
+  <Blueprint_DoubleBed.label>Подвійне ліжко (проект)</Blueprint_DoubleBed.label>
+  
+  <!-- EN: Хімлабораторія (проект) -->
+  <Blueprint_DrugLab.label>Хімлабораторія (проект)</Blueprint_DrugLab.label>
+  
+  <!-- EN: Електрокрематорій (проект) -->
+  <Blueprint_ElectricCrematorium.label>Електрокрематорій (проект)</Blueprint_ElectricCrematorium.label>
+  
+  <!-- EN: Електрична плавильня (проект) -->
+  <Blueprint_ElectricSmelter.label>Електрична плавильня (проект)</Blueprint_ElectricSmelter.label>
+  
+  <!-- EN: Електрокузня (проект) -->
+  <Blueprint_ElectricSmithy.label>Електрокузня (проект)</Blueprint_ElectricSmithy.label>
+  
+  <!-- EN: Електроплита (проект) -->
+  <Blueprint_ElectricStove.label>Електроплита (проект)</Blueprint_ElectricStove.label>
+  
+  <!-- EN: Швейний верстат (проект) -->
+  <Blueprint_ElectricTailoringBench.label>Швейний верстат (проект)</Blueprint_ElectricTailoringBench.label>
+  
+  <!-- EN: Бочка для бродіння (проект) -->
+  <Blueprint_FermentingBarrel.label>Бочка для бродіння (проект)</Blueprint_FermentingBarrel.label>
+  
+  <!-- EN: Розбризкувач протипожежної піни (проект) -->
+  <Blueprint_FirefoamPopper.label>Розбризкувач протипожежної піни (проект)</Blueprint_FirefoamPopper.label>
+  
+  <!-- EN: Груба гранітна плитка (проект) -->
+  <Blueprint_FlagstoneGranite.label>Груба гранітна плитка (проект)</Blueprint_FlagstoneGranite.label>
+  
+  <!-- EN: Груба вапнякова плитка (проект) -->
+  <Blueprint_FlagstoneLimestone.label>Груба вапнякова плитка (проект)</Blueprint_FlagstoneLimestone.label>
+  
+  <!-- EN: Груба мармурова плитка (проект) -->
+  <Blueprint_FlagstoneMarble.label>Груба мармурова плитка (проект)</Blueprint_FlagstoneMarble.label>
+  
+  <!-- EN: Груба пісковикова плитка (проект) -->
+  <Blueprint_FlagstoneSandstone.label>Груба пісковикова плитка (проект)</Blueprint_FlagstoneSandstone.label>
+  
+  <!-- EN: Груба сланцева плитка (проект) -->
+  <Blueprint_FlagstoneSlate.label>Груба сланцева плитка (проект)</Blueprint_FlagstoneSlate.label>
+  
+  <!-- EN: Плазмовий телевізор (проект) -->
+  <Blueprint_FlatscreenTelevision.label>Плазмовий телевізор (проект)</Blueprint_FlatscreenTelevision.label>
+  
+  <!-- EN: Кузня (проект) -->
+  <Blueprint_FueledSmithy.label>Кузня (проект)</Blueprint_FueledSmithy.label>
+  
+  <!-- EN: Плита (проект) -->
+  <Blueprint_FueledStove.label>Плита (проект)</Blueprint_FueledStove.label>
+  
+  <!-- EN: Геотермальний генератор (проект) -->
+  <Blueprint_GeothermalGenerator.label>Геотермальний генератор (проект)</Blueprint_GeothermalGenerator.label>
+  
+  <!-- EN: Золота плитка (проект) -->
+  <Blueprint_GoldTile.label>Золота плитка (проект)</Blueprint_GoldTile.label>
+  
+  <!-- EN: Могила (проект) -->
+  <Blueprint_Grave.label>Могила (проект)</Blueprint_Grave.label>
+  
+  <!-- EN: Глибинний сканер (проект) -->
+  <Blueprint_GroundPenetratingScanner.label>Глибинний сканер (проект)</Blueprint_GroundPenetratingScanner.label>
+  
+  <!-- EN: Стіл кравця (проект) -->
+  <Blueprint_HandTailoringBench.label>Стіл кравця (проект)</Blueprint_HandTailoringBench.label>
+  
+  <!-- EN: Обігрівач (проект) -->
+  <Blueprint_Heater.label>Обігрівач (проект)</Blueprint_Heater.label>
+  
+  <!-- EN: Високотехнологічний дослідницький стіл (проект) -->
+  <Blueprint_HiTechResearchBench.label>Високотехнологічний дослідницький стіл (проект)</Blueprint_HiTechResearchBench.label>
+  
+  <!-- EN: Контейнер з подавальним механізмом (проект) -->
+  <Blueprint_Hopper.label>Контейнер з подавальним механізмом (проект)</Blueprint_Hopper.label>
+  
+  <!-- EN: Штир з підковами (проект) -->
+  <Blueprint_HorseshoesPin.label>Штир з підковами (проект)</Blueprint_HorseshoesPin.label>
+  
+  <!-- EN: Лікарняне ліжко (проект) -->
+  <Blueprint_HospitalBed.label>Лікарняне ліжко (проект)</Blueprint_HospitalBed.label>
+  
+  <!-- EN: Резервуар гідропоніки (проект) -->
+  <Blueprint_HydroponicsBasin.label>Резервуар гідропоніки (проект)</Blueprint_HydroponicsBasin.label>
+  
+  <!-- EN: Ліжко для тварин (проект) -->
+  <Blueprint_Install_AnimalBed.label>Ліжко для тварин (проект)</Blueprint_Install_AnimalBed.label>
+  
+  <!-- EN: Коробка для сну (проект) -->
+  <Blueprint_Install_AnimalSleepingBox.label>Спальна коробка для тварин (проект)</Blueprint_Install_AnimalSleepingBox.label>
+  
+  <!-- EN: Крісло (проект) -->
+  <Blueprint_Install_Armchair.label>Крісло (проект)</Blueprint_Install_Armchair.label>
+  
+  <!-- EN: Акумуляторна батарея (проект) -->
+  <Blueprint_Install_Battery.label>Акумуляторна батарея (проект)</Blueprint_Install_Battery.label>
+  
+  <!-- EN: Ліжко (проект) -->
+  <Blueprint_Install_Bed.label>Ліжко (проект)</Blueprint_Install_Bed.label>
+  
+  <!-- EN: Більярдний стіл (проект) -->
+  <Blueprint_Install_BilliardsTable.label>Більярдний стіл (проект)</Blueprint_Install_BilliardsTable.label>
+  
+  <!-- EN: Стіл для шахів (проект) -->
+  <Blueprint_Install_ChessTable.label>Стіл для шахів (проект)</Blueprint_Install_ChessTable.label>
+  
+  <!-- EN: Стілець зі спинкою (проект) -->
+  <Blueprint_Install_DiningChair.label>Стілець зі спинкою (проект)</Blueprint_Install_DiningChair.label>
+  
+  <!-- EN: Подвійне ліжно (проект) -->
+  <Blueprint_Install_DoubleBed.label>Подвійне ліжко (проект)</Blueprint_Install_DoubleBed.label>
+  
+  <!-- EN: Бочка для бродіння (проект) -->
+  <Blueprint_Install_FermentingBarrel.label>Бочка для бродіння (проект)</Blueprint_Install_FermentingBarrel.label>
+  
+  <!-- EN: Розбризкувач протипожежної піни (проект) -->
+  <Blueprint_Install_FirefoamPopper.label>Розбризкувач протипожежної піни (проект)</Blueprint_Install_FirefoamPopper.label>
+  
+  <!-- EN: Плазмовий телевізор (проект) -->
+  <Blueprint_Install_FlatscreenTelevision.label>Плазмовий телевізор (проект)</Blueprint_Install_FlatscreenTelevision.label>
+  
+  <!-- EN: Світний кокон (проект) -->
+  <Blueprint_Install_GlowPod.label>Світний кокон (проект)</Blueprint_Install_GlowPod.label>
+  
+  <!-- EN: Обігрівач (проект) -->
+  <Blueprint_Install_Heater.label>Обігрівач (проект)</Blueprint_Install_Heater.label>
+  
+  <!-- EN: Штир з підковами (проект) -->
+  <Blueprint_Install_HorseshoesPin.label>Штир з підковами (проект)</Blueprint_Install_HorseshoesPin.label>
+  
+  <!-- EN: Лікарняне ліжко (проект) -->
+  <Blueprint_Install_HospitalBed.label>Лікарняне ліжко (проект)</Blueprint_Install_HospitalBed.label>
+  
+  <!-- EN: Ультра телевізор (проект) -->
+  <Blueprint_Install_MegascreenTelevision.label>Ультра телевізор (проект)</Blueprint_Install_MegascreenTelevision.label>
+  
+  <!-- EN: Мульти-аналізатор (проект) -->
+  <Blueprint_Install_MultiAnalyzer.label>Мульти-аналізатор (проект)</Blueprint_Install_MultiAnalyzer.label>
+  
+  <!-- EN: Маяк торгівлі (проект) -->
+  <Blueprint_Install_OrbitalTradeBeacon.label>Маяк торгівлі (проект)</Blueprint_Install_OrbitalTradeBeacon.label>
+  
+  <!-- EN: Квітковий горщик (проект) -->
+  <Blueprint_Install_PlantPot.label>Квітковий горщик (проект)</Blueprint_Install_PlantPot.label>
+  
+  <!-- EN: Розкішне ліжко (проект) -->
+  <Blueprint_Install_RoyalBed.label>Розкішне ліжко (проект)</Blueprint_Install_RoyalBed.label>
+  
+  <!-- EN: Величезна статуя (проект) -->
+  <Blueprint_Install_SculptureGrand.label>Величезна статуя (проект)</Blueprint_Install_SculptureGrand.label>
+  
+  <!-- EN: Велика статуя (проект) -->
+  <Blueprint_Install_SculptureLarge.label>Велика статуя (проект)</Blueprint_Install_SculptureLarge.label>
+  
+  <!-- EN: Маленька статуя (проект) -->
+  <Blueprint_Install_SculptureSmall.label>Маленька статуя (проект)</Blueprint_Install_SculptureSmall.label>
+  
+  <!-- EN: shelf (проект) -->
+  <Blueprint_Install_Shelf.label>Полиця спорядження (проект)</Blueprint_Install_Shelf.label>
+  
+  <!-- EN: Лампа (проект) -->
+  <Blueprint_Install_StandingLamp.label>Лампа (проект)</Blueprint_Install_StandingLamp.label>
+  
+  <!-- EN: Синя лампа (проект) -->
+  <Blueprint_Install_StandingLamp_Blue.label>Синя лампа (проект)</Blueprint_Install_StandingLamp_Blue.label>
+  
+  <!-- EN: Зелена лампа (проект) -->
+  <Blueprint_Install_StandingLamp_Green.label>Зелена лампа (проект)</Blueprint_Install_StandingLamp_Green.label>
+  
+  <!-- EN: Червона лампа (проект) -->
+  <Blueprint_Install_StandingLamp_Red.label>Червона лампа (проект)</Blueprint_Install_StandingLamp_Red.label>
+  
+  <!-- EN: Стілець (проект) -->
+  <Blueprint_Install_Stool.label>Стілець (проект)</Blueprint_Install_Stool.label>
+  
+  <!-- EN: Прожектор денного світла (проект) -->
+  <Blueprint_Install_SunLamp.label>Прожектор денного світла (проект)</Blueprint_Install_SunLamp.label>
+  
+  <!-- EN: Телескоп (проект) -->
+  <Blueprint_Install_Telescope.label>Телескоп (проект)</Blueprint_Install_Telescope.label>
+  
+  <!-- EN: Шафа з інструментами (проект) -->
+  <Blueprint_Install_ToolCabinet.label>Шафа з інструментами (проект)</Blueprint_Install_ToolCabinet.label>
+  
+  <!-- EN: ЕПТ телевізор (проект) -->
+  <Blueprint_Install_TubeTelevision.label>ЕПТ телевізор (проект)</Blueprint_Install_TubeTelevision.label>
+  
+  <!-- EN: Монітор життєвих функцій (проект) -->
+  <Blueprint_Install_VitalsMonitor.label>Монітор життєвих функцій (проект)</Blueprint_Install_VitalsMonitor.label>
+  
+  <!-- EN: Сканер мінералів дальної дії (проект) -->
+  <Blueprint_LongRangeMineralScanner.label>Сканер мінералів дальної дії (проект)</Blueprint_LongRangeMineralScanner.label>
+  
+  <!-- EN: Місце проведення весіль (проект) -->
+  <Blueprint_MarriageSpot.label>Місце проведення весіль (проект)</Blueprint_MarriageSpot.label>
+  
+  <!-- EN: Металева плитка (проект) -->
+  <Blueprint_MetalTile.label>Металева плитка (проект)</Blueprint_MetalTile.label>
+  
+  <!-- EN: Дренажний насос (проект) -->
+  <Blueprint_MoisturePump.label>Дренажний насос (проект)</Blueprint_MoisturePump.label>
+  
+  <!-- EN: Мульти-аналізатор (проект) -->
+  <Blueprint_MultiAnalyzer.label>Мульти-аналізатор (проект)</Blueprint_MultiAnalyzer.label>
+  
+  <!-- EN: Автомат поживної пасти (проект) -->
+  <Blueprint_NutrientPasteDispenser.label>Автомат поживної пасти (проект)</Blueprint_NutrientPasteDispenser.label>
+  
+  <!-- EN: Маяк торгівлі (проект) -->
+  <Blueprint_OrbitalTradeBeacon.label>Маяк торгівлі (проект)</Blueprint_OrbitalTradeBeacon.label>
+  
+  <!-- EN: Місце для вечірок (проект) -->
+  <Blueprint_PartySpot.label>Місце для вечірок (проект)</Blueprint_PartySpot.label>
+  
+  <!-- EN: Випарний охолоджувач (проект) -->
+  <Blueprint_PassiveCooler.label>Випарний охолоджувач (проект)</Blueprint_PassiveCooler.label>
+  
+  <!-- EN: Асфальтобетон (проект) -->
+  <Blueprint_PavedTile.label>Асфальтобетон (проект)</Blueprint_PavedTile.label>
+  
+  <!-- EN: Квітковий горщик (проект) -->
+  <Blueprint_PlantPot.label>Квітковий горщик (проект)</Blueprint_PlantPot.label>
+  
+  <!-- EN: Установка запуску транспортних капсул (проект) -->
+  <Blueprint_PodLauncher.label>Установка запуску транспортних капсул (проект)</Blueprint_PodLauncher.label>
+  
+  <!-- EN: Електродріт (проект) -->
+  <Blueprint_PowerConduit.label>Електродріт (проект)</Blueprint_PowerConduit.label>
+  
+  <!-- EN: Перемикач (проект) -->
+  <Blueprint_PowerSwitch.label>Перемикач (проект)</Blueprint_PowerSwitch.label>
+  
+  <!-- EN: Розкішне ліжко (проект) -->
+  <Blueprint_RoyalBed.label>Розкішне ліжко (проект)</Blueprint_RoyalBed.label>
+  
+  <!-- EN: Мішки з піском (проект) -->
+  <Blueprint_Sandbags.label>Мішки з піском (проект)</Blueprint_Sandbags.label>
+  
+  <!-- EN: Саркофаг (проект) -->
+  <Blueprint_Sarcophagus.label>Саркофаг (проект)</Blueprint_Sarcophagus.label>
+  
+  <!-- EN: shelf (проект) -->
+  <Blueprint_Shelf.label>Полиця спорядження (проект)</Blueprint_Shelf.label>
+  
+  <!-- EN: Корабельний лонжерон (проект) -->
+  <Blueprint_Ship_Beam.label>Корабельний лонжерон (проект)</Blueprint_Ship_Beam.label>
+  
+  <!-- EN: Корабельний комп’ютер (проект) -->
+  <Blueprint_Ship_ComputerCore.label>Корабельний комп’ютер (проект)</Blueprint_Ship_ComputerCore.label>
+  
+  <!-- EN: Капсула крипто-сну (проект) -->
+  <Blueprint_Ship_CryptosleepCasket.label>Капсула крипто-сну (проект)</Blueprint_Ship_CryptosleepCasket.label>
+  
+  <!-- EN: Корабельний двигун (проект) -->
+  <Blueprint_Ship_Engine.label>Корабельний двигун (проект)</Blueprint_Ship_Engine.label>
+  
+  <!-- EN: Корабельний реактор (проект) -->
+  <Blueprint_Ship_Reactor.label>Корабельний реактор (проект)</Blueprint_Ship_Reactor.label>
+  
+  <!-- EN: Срібна плитка (проект) -->
+  <Blueprint_SilverTile.label>Срібна плитка (проект)</Blueprint_SilverTile.label>
+  
+  <!-- EN: Простий дослідницький стіл (проект) -->
+  <Blueprint_SimpleResearchBench.label>Простий дослідницький стіл (проект)</Blueprint_SimpleResearchBench.label>
+  
+  <!-- EN: Спальний мішок (проект) -->
+  <Blueprint_SleepingSpot.label>Спальний мішок (проект)</Blueprint_SleepingSpot.label>
+  
+  <!-- EN: Сонячний генератор (проект) -->
+  <Blueprint_SolarGenerator.label>Сонячний генератор (проект)</Blueprint_SolarGenerator.label>
+  
+  <!-- EN: Лампа (проект) -->
+  <Blueprint_StandingLamp.label>Лампа (проект)</Blueprint_StandingLamp.label>
+  
+  <!-- EN: Синя лампа (проект) -->
+  <Blueprint_StandingLamp_Blue.label>Синя лампа (проект)</Blueprint_StandingLamp_Blue.label>
+  
+  <!-- EN: Зелена лампа (проект) -->
+  <Blueprint_StandingLamp_Green.label>Зелена лампа (проект)</Blueprint_StandingLamp_Green.label>
+  
+  <!-- EN: Червона лампа (проект) -->
+  <Blueprint_StandingLamp_Red.label>Червона лампа (проект)</Blueprint_StandingLamp_Red.label>
+  
+  <!-- EN: Стерильна поверхня (проект) -->
+  <Blueprint_SterileTile.label>Стерильна поверхня (проект)</Blueprint_SterileTile.label>
+  
+  <!-- EN: Стілець (проект) -->
+  <Blueprint_Stool.label>Стілець (проект)</Blueprint_Stool.label>
+  
+  <!-- EN: Прожектор денного світла (проект) -->
+  <Blueprint_SunLamp.label>Прожектор денного світла (проект)</Blueprint_SunLamp.label>
+  
+  <!-- EN: Стіл м’ясника (проект) -->
+  <Blueprint_TableButcher.label>Стіл м’ясника (проект)</Blueprint_TableButcher.label>
+  
+  <!-- EN: Верстак (проект) -->
+  <Blueprint_TableMachining.label>Верстак (проект)</Blueprint_TableMachining.label>
+  
+  <!-- EN: Стіл скульптора (проект) -->
+  <Blueprint_TableSculpting.label>Стіл скульптора (проект)</Blueprint_TableSculpting.label>
+  
+  <!-- EN: Стіл каменяра (проект) -->
+  <Blueprint_TableStonecutter.label>Стіл каменяра (проект)</Blueprint_TableStonecutter.label>
+  
+  <!-- EN: Гранітна плитка (проект) -->
+  <Blueprint_TileGranite.label>Гранітна плитка (проект)</Blueprint_TileGranite.label>
+  
+  <!-- EN: Вапнякова плитка (проект) -->
+  <Blueprint_TileLimestone.label>Вапнякова плитка (проект)</Blueprint_TileLimestone.label>
+  
+  <!-- EN: Мармурова плитка (проект) -->
+  <Blueprint_TileMarble.label>Мармурова плитка (проект)</Blueprint_TileMarble.label>
+  
+  <!-- EN: Пісковикова плитка (проект) -->
+  <Blueprint_TileSandstone.label>Пісковикова плитка (проект)</Blueprint_TileSandstone.label>
+  
+  <!-- EN: Сланцева плитка (проект) -->
+  <Blueprint_TileSlate.label>Сланцева плитка (проект)</Blueprint_TileSlate.label>
+  
+  <!-- EN: Шафа з інструментами (проект) -->
+  <Blueprint_ToolCabinet.label>Шафа з інструментами (проект)</Blueprint_ToolCabinet.label>
+  
+  <!-- EN: Факел (проект) -->
+  <Blueprint_TorchLamp.label>Факел (проект)</Blueprint_TorchLamp.label>
+  
+  <!-- EN: Транспортна капсула (проект) -->
+  <Blueprint_TransportPod.label>Транспортна капсула (проект)</Blueprint_TransportPod.label>
+  
+  <!-- EN: ЕПТ телевізор (проект) -->
+  <Blueprint_TubeTelevision.label>ЕПТ телевізор (проект)</Blueprint_TubeTelevision.label>
+  
+  <!-- EN: Вентиляція (проект) -->
+  <Blueprint_Vent.label>Вентиляція (проект)</Blueprint_Vent.label>
+  
+  <!-- EN: Монітор життєвих функцій (проект) -->
+  <Blueprint_VitalsMonitor.label>Монітор життєвих функцій (проект)</Blueprint_VitalsMonitor.label>
+  
+  <!-- EN: Стіна (проект) -->
+  <Blueprint_Wall.label>Стіна (проект)</Blueprint_Wall.label>
+  
+  <!-- EN: Вітрогенератор (проект) -->
+  <Blueprint_WindTurbine.label>Вітрогенератор (проект)</Blueprint_WindTurbine.label>
+  
+  <!-- EN: Паркет (проект) -->
+  <Blueprint_WoodPlankFloor.label>Паркет (проект)</Blueprint_WoodPlankFloor.label>
+  
+  <!-- EN: Альпака тіло -->
+  <Corpse_Alpaca.label>туша альпаки</Corpse_Alpaca.label>
+  <!-- EN: Мертве тіло альпака. -->
+  <Corpse_Alpaca.description>мертва альпака.</Corpse_Alpaca.description>
+  
+  <!-- EN: Альфа-бобер тіло -->
+  <Corpse_Alphabeaver.label>тушка альфа-бобра</Corpse_Alphabeaver.label>
+  <!-- EN: Мертве тіло альфа-бобер. -->
+  <Corpse_Alphabeaver.description>Мертвий альфа-бобер.</Corpse_Alphabeaver.description>
+  
+  <!-- EN: Грізлі тіло -->
+  <Corpse_Bear_Grizzly.label>туша грізлі</Corpse_Bear_Grizzly.label>
+  <!-- EN: Мертве тіло грізлі. -->
+  <Corpse_Bear_Grizzly.description>Мертвий грізлі.</Corpse_Bear_Grizzly.description>
+  
+  <!-- EN: Полярний ведмідь тіло -->
+  <Corpse_Bear_Polar.label>туша білого ведмедя</Corpse_Bear_Polar.label>
+  <!-- EN: Мертве тіло полярний ведмідь. -->
+  <Corpse_Bear_Polar.description>Мертвий білий ведмідь.</Corpse_Bear_Polar.description>
+  
+  <!-- EN: Вибухлопа тіло -->
+  <Corpse_Boomalope.label>туша вибухлопи</Corpse_Boomalope.label>
+  <!-- EN: Мертве тіло вибухлопа. -->
+  <Corpse_Boomalope.description>Мертва вибухлопа.</Corpse_Boomalope.description>
+  
+  <!-- EN: Бумщур тіло -->
+  <Corpse_Boomrat.label>тушка бумщура</Corpse_Boomrat.label>
+  <!-- EN: Мертве тіло бумщур. -->
+  <Corpse_Boomrat.description>Мертвий бумщур.</Corpse_Boomrat.description>
+  
+  <!-- EN: Капібара тіло -->
+  <Corpse_Capybara.label>туша капібари</Corpse_Capybara.label>
+  <!-- EN: Мертве тіло капібара. -->
+  <Corpse_Capybara.description>Мертва капібара.</Corpse_Capybara.description>
+  
+  <!-- EN: Північний олень тіло -->
+  <Corpse_Caribou.label>туша північного оленя</Corpse_Caribou.label>
+  <!-- EN: Мертве тіло північний олень. -->
+  <Corpse_Caribou.description>Мертвий північний олень.</Corpse_Caribou.description>
+  
+  <!-- EN: Казуар тіло -->
+  <Corpse_Cassowary.label>туша казуара</Corpse_Cassowary.label>
+  <!-- EN: Мертве тіло казуар. -->
+  <Corpse_Cassowary.description>Мертвий казуар.</Corpse_Cassowary.description>
+  
+  <!-- EN: Кіт тіло -->
+  <Corpse_Cat.label>тіло кота</Corpse_Cat.label>
+  <!-- EN: Мертве тіло кіт. -->
+  <Corpse_Cat.description>Мертвий кіт.</Corpse_Cat.description>
+  
+  <!-- EN: Курка тіло -->
+  <Corpse_Chicken.label>тушка курки</Corpse_Chicken.label>
+  <!-- EN: Мертве тіло курка. -->
+  <Corpse_Chicken.description>Мертва курка.</Corpse_Chicken.description>
+  
+  <!-- EN: Шиншила тіло -->
+  <Corpse_Chinchilla.label>тушка шиншили</Corpse_Chinchilla.label>
+  <!-- EN: Мертве тіло шиншила. -->
+  <Corpse_Chinchilla.description>Мертва шиншила.</Corpse_Chinchilla.description>
+  
+  <!-- EN: Кобра тіло -->
+  <Corpse_Cobra.label>тушка кобри</Corpse_Cobra.label>
+  <!-- EN: Мертве тіло кобра. -->
+  <Corpse_Cobra.description>Мертва кобра.</Corpse_Cobra.description>
+  
+  <!-- EN: Пума тіло -->
+  <Corpse_Cougar.label>туша пуми</Corpse_Cougar.label>
+  <!-- EN: Мертве тіло пума. -->
+  <Corpse_Cougar.description>Мертва пума.</Corpse_Cougar.description>
+  
+  <!-- EN: Корова тіло -->
+  <Corpse_Cow.label>Туша корови</Corpse_Cow.label>
+  <!-- EN: Мертве тіло корова. -->
+  <Corpse_Cow.description>Мертва корова.</Corpse_Cow.description>
+  
+  <!-- EN: Олень тіло -->
+  <Corpse_Deer.label>туша оленя</Corpse_Deer.label>
+  <!-- EN: Мертве тіло олень. -->
+  <Corpse_Deer.description>Мертвий олень.</Corpse_Deer.description>
+  
+  <!-- EN: Верблюд тіло -->
+  <Corpse_Dromedary.label>туша верблюда</Corpse_Dromedary.label>
+  <!-- EN: Мертве тіло верблюд. -->
+  <Corpse_Dromedary.description>Мертвий верблюд.</Corpse_Dromedary.description>
+  
+  <!-- EN: Слон тіло -->
+  <Corpse_Elephant.label>туша слона</Corpse_Elephant.label>
+  <!-- EN: Мертве тіло слон. -->
+  <Corpse_Elephant.description>Мертвий слон.</Corpse_Elephant.description>
+  
+  <!-- EN: Лось тіло -->
+  <Corpse_Elk.label>туша лося</Corpse_Elk.label>
+  <!-- EN: Мертве тіло лось. -->
+  <Corpse_Elk.description>Мертвий лось.</Corpse_Elk.description>
+  
+  <!-- EN: Ему тіло -->
+  <Corpse_Emu.label>туша ему</Corpse_Emu.label>
+  <!-- EN: Мертве тіло ему. -->
+  <Corpse_Emu.description>Мертвий ему.</Corpse_Emu.description>
+  
+  <!-- EN: Арктичний лис тіло -->
+  <Corpse_Fox_Arctic.label>тушка арктичного лиса</Corpse_Fox_Arctic.label>
+  <!-- EN: Мертве тіло арктичний лис. -->
+  <Corpse_Fox_Arctic.description>Мертвий арктичний лис.</Corpse_Fox_Arctic.description>
+  
+  <!-- EN: Пустельний лис тіло -->
+  <Corpse_Fox_Fennec.label>тушка пустельного лиса</Corpse_Fox_Fennec.label>
+  <!-- EN: Мертве тіло пустельний лис. -->
+  <Corpse_Fox_Fennec.description>Мертвий пустельний лис.</Corpse_Fox_Fennec.description>
+  
+  <!-- EN: Рудий лис тіло -->
+  <Corpse_Fox_Red.label>тушка рудого лиса</Corpse_Fox_Red.label>
+  <!-- EN: Мертве тіло рудий лис. -->
+  <Corpse_Fox_Red.description>Мертвий рудий лис.</Corpse_Fox_Red.description>
+  
+  <!-- EN: Газель тіло -->
+  <Corpse_Gazelle.label>туша газелі</Corpse_Gazelle.label>
+  <!-- EN: Мертве тіло газель. -->
+  <Corpse_Gazelle.description>Мертва газель.</Corpse_Gazelle.description>
+  
+  <!-- EN: Заєць тіло -->
+  <Corpse_Hare.label>тушка зайця</Corpse_Hare.label>
+  <!-- EN: Мертве тіло заєць. -->
+  <Corpse_Hare.description>Мертвий заєць.</Corpse_Hare.description>
+  
+  <!-- EN: Людина тіло -->
+  <Corpse_Human.label>труп людини</Corpse_Human.label>
+  <!-- EN: Мертве тіло людина. -->
+  <Corpse_Human.description>Небіжчик.</Corpse_Human.description>
+  
+  <!-- EN: Хаскі тіло -->
+  <Corpse_Husky.label>тіло хаскі</Corpse_Husky.label>
+  <!-- EN: Мертве тіло хаскі. -->
+  <Corpse_Husky.description>Мертвий хаскі.</Corpse_Husky.description>
+  
+  <!-- EN: Козеріг тіло -->
+  <Corpse_Ibex.label>туша козерога</Corpse_Ibex.label>
+  <!-- EN: Мертве тіло козеріг. -->
+  <Corpse_Ibex.description>Мертвий козеріг.</Corpse_Ibex.description>
+  
+  <!-- EN: Ігуана тіло -->
+  <Corpse_Iguana.label>тушка ігуани</Corpse_Iguana.label>
+  <!-- EN: Мертве тіло ігуана. -->
+  <Corpse_Iguana.description>Мертва ігуана.</Corpse_Iguana.description>
+  
+  <!-- EN: Лабрадор-ретривер тіло -->
+  <Corpse_LabradorRetriever.label>тіло лабрадора</Corpse_LabradorRetriever.label>
+  <!-- EN: Мертве тіло лабрадор-ретривер. -->
+  <Corpse_LabradorRetriever.description>Мертвий лабрадор-ретривер.</Corpse_LabradorRetriever.description>
+  
+  <!-- EN: Рись тіло -->
+  <Corpse_Lynx.label>туша рисі</Corpse_Lynx.label>
+  <!-- EN: Мертве тіло рись. -->
+  <Corpse_Lynx.description>Мертва рись.</Corpse_Lynx.description>
+  
+  <!-- EN: Гусениця тіло -->
+  <Corpse_Mech_Centipede.label>Мертва гусениця</Corpse_Mech_Centipede.label>
+  <!-- EN: Мертве тіло Гусениця. -->
+  <Corpse_Mech_Centipede.description>Деактивований бойовий механоїд. Належить до типу "гусениця"</Corpse_Mech_Centipede.description>
+  
+  <!-- EN: Косар тіло -->
+  <Corpse_Mech_Scyther.label>Мертвий косар</Corpse_Mech_Scyther.label>
+  <!-- EN: Мертве тіло Косар. -->
+  <Corpse_Mech_Scyther.description>Деактивований бойовий механоїд. Належить до типу "косар"</Corpse_Mech_Scyther.description>
+  
+  <!-- EN: Мегаскарабей тіло -->
+  <Corpse_Megascarab.label>тільце скарабея</Corpse_Megascarab.label>
+  <!-- EN: Мертве тіло мегаскарабей. -->
+  <Corpse_Megascarab.description>Мертвий мегаскарабей.</Corpse_Megascarab.description>
+  
+  <!-- EN: Мегапавук тіло -->
+  <Corpse_Megaspider.label>туша мегапавука</Corpse_Megaspider.label>
+  <!-- EN: Мертве тіло мегапавук. -->
+  <Corpse_Megaspider.description>Мертвий мегапавук.</Corpse_Megaspider.description>
+  
+  <!-- EN: Мавпа тіло -->
+  <Corpse_Monkey.label>тушка мавпи</Corpse_Monkey.label>
+  <!-- EN: Мертве тіло мавпа. -->
+  <Corpse_Monkey.description>Мертва мавпа.</Corpse_Monkey.description>
+  
+  <!-- EN: Муфало тіло -->
+  <Corpse_Muffalo.label>туша муфало</Corpse_Muffalo.label>
+  <!-- EN: Мертве тіло муфало. -->
+  <Corpse_Muffalo.description>Мертве муфало.</Corpse_Muffalo.description>
+  
+  <!-- EN: Страус тіло -->
+  <Corpse_Ostrich.label>туша страуса</Corpse_Ostrich.label>
+  <!-- EN: Мертве тіло страус. -->
+  <Corpse_Ostrich.description>Мертвий страус.</Corpse_Ostrich.description>
+  
+  <!-- EN: Пантера тіло -->
+  <Corpse_Panther.label>туша пантери</Corpse_Panther.label>
+  <!-- EN: Мертве тіло пантера. -->
+  <Corpse_Panther.description>Мертва пантера.</Corpse_Panther.description>
+  
+  <!-- EN: Свиня тіло -->
+  <Corpse_Pig.label>свиняча туша</Corpse_Pig.label>
+  <!-- EN: Мертве тіло свиня. -->
+  <Corpse_Pig.description>Мертва свиня.</Corpse_Pig.description>
+  
+  <!-- EN: Єнот тіло -->
+  <Corpse_Raccoon.label>тушка єнота</Corpse_Raccoon.label>
+  <!-- EN: Мертве тіло єнот. -->
+  <Corpse_Raccoon.description>Мертвий єнот.</Corpse_Raccoon.description>
+  
+  <!-- EN: Щур тіло -->
+  <Corpse_Rat.label>тушка щура</Corpse_Rat.label>
+  <!-- EN: Мертве тіло щур. -->
+  <Corpse_Rat.description>Мертвий щур.</Corpse_Rat.description>
+  
+  <!-- EN: Носоріг тіло -->
+  <Corpse_Rhinoceros.label>туша носорога</Corpse_Rhinoceros.label>
+  <!-- EN: Мертве тіло носоріг. -->
+  <Corpse_Rhinoceros.description>Мертвий носорог.</Corpse_Rhinoceros.description>
+  
+  <!-- EN: Заяць-біляк тіло -->
+  <Corpse_Snowhare.label>тушка біляка</Corpse_Snowhare.label>
+  <!-- EN: Мертве тіло заяць-біляк. -->
+  <Corpse_Snowhare.description>Мертвий заяць-біляк.</Corpse_Snowhare.description>
+  
+  <!-- EN: Спелопід тіло -->
+  <Corpse_Spelopede.label>тіло спелопіда</Corpse_Spelopede.label>
+  <!-- EN: Мертве тіло спелопід. -->
+  <Corpse_Spelopede.description>Мертвий спелопід.</Corpse_Spelopede.description>
+  
+  <!-- EN: Білка тіло -->
+  <Corpse_Squirrel.label>тушка білки</Corpse_Squirrel.label>
+  <!-- EN: Мертве тіло білка. -->
+  <Corpse_Squirrel.description>Мертва білка.</Corpse_Squirrel.description>
+  
+  <!-- EN: Трамбо тіло -->
+  <Corpse_Thrumbo.label>туша трамбо</Corpse_Thrumbo.label>
+  <!-- EN: Мертве тіло трамбо. -->
+  <Corpse_Thrumbo.description>Мертве трамбо.</Corpse_Thrumbo.description>
+  
+  <!-- EN: Черепаха тіло -->
+  <Corpse_Tortoise.label>тушка черепахи</Corpse_Tortoise.label>
+  <!-- EN: Мертве тіло черепаха. -->
+  <Corpse_Tortoise.description>Мертва черепаха.</Corpse_Tortoise.description>
+  
+  <!-- EN: Індичка тіло -->
+  <Corpse_Turkey.label>тушка індички</Corpse_Turkey.label>
+  <!-- EN: Мертве тіло індичка. -->
+  <Corpse_Turkey.description>Мертва індичка.</Corpse_Turkey.description>
+  
+  <!-- EN: Варг тіло -->
+  <Corpse_Warg.label>туша варга</Corpse_Warg.label>
+  <!-- EN: Мертве тіло варг. -->
+  <Corpse_Warg.description>Мертвий варг.</Corpse_Warg.description>
+  
+  <!-- EN: Вепр тіло -->
+  <Corpse_WildBoar.label>туша вепра</Corpse_WildBoar.label>
+  <!-- EN: Мертве тіло вепр. -->
+  <Corpse_WildBoar.description>Мертвий кабан.</Corpse_WildBoar.description>
+  
+  <!-- EN: Арктичний вовк тіло -->
+  <Corpse_Wolf_Arctic.label>туша арктичного вовка</Corpse_Wolf_Arctic.label>
+  <!-- EN: Мертве тіло арктичний вовк. -->
+  <Corpse_Wolf_Arctic.description>Мертвий арктичний вовк.</Corpse_Wolf_Arctic.description>
+  
+  <!-- EN: Вовк тіло -->
+  <Corpse_Wolf_Timber.label>туша вовка</Corpse_Wolf_Timber.label>
+  <!-- EN: Мертве тіло вовк. -->
+  <Corpse_Wolf_Timber.description>Мертвий вовк.</Corpse_Wolf_Timber.description>
+  
+  <!-- EN: Йоркширський тер'єр тіло -->
+  <Corpse_YorkshireTerrier.label>тушка тер'єра</Corpse_YorkshireTerrier.label>
+  <!-- EN: Мертве тіло Йоркширський тер'єр. -->
+  <Corpse_YorkshireTerrier.description>Мертвий йоркширський тер'єр.</Corpse_YorkshireTerrier.description>
+  
+  <!-- EN: Ліжко для тварин (будівництво) -->
+  <Frame_AnimalBed.label>Ліжко для тварин (будується)</Frame_AnimalBed.label>
+  <!-- EN: М’яке ліжко для тварин. Підходить для усіх видів. -->
+  <Frame_AnimalBed.description>М’яке ліжко для тварин. Підходить для усіх видів.</Frame_AnimalBed.description>
+  
+  <!-- EN: Коробка для сну (будівництво) -->
+  <Frame_AnimalSleepingBox.label>Спальна короб для тварин (будується)</Frame_AnimalSleepingBox.label>
+  <!-- EN: Невелика коробка, в якій тварини можуть спати. Підходить для маленьких тварин, як то кури, кішки чи невеликі собаки. -->
+  <Frame_AnimalSleepingBox.description>Невелика коробка, в якій тварини можуть спати. Підходить для маленьких тварин, як то кури, кішки чи невеликі собаки.</Frame_AnimalSleepingBox.description>
+  
+  <!-- EN: Місце сну тварин (будівництво) -->
+  <Frame_AnimalSleepingSpot.label>Спальнце місце тварин (будується)</Frame_AnimalSleepingSpot.label>
+  <!-- EN: Позначає місце на землі, де тварини повинні спати. -->
+  <Frame_AnimalSleepingSpot.description>Позначає місце на землі, де тварини повинні спати.</Frame_AnimalSleepingSpot.description>
+  
+  <!-- EN: Крісло (будівництво) -->
+  <Frame_Armchair.label>Крісло (будується)</Frame_Armchair.label>
+  <!-- EN: Велике, м’яке та дуже зручне. Непогане місце для того, щоб розслабитися. -->
+  <Frame_Armchair.description>Велике, м’яке та дуже зручне. Непогане місце для того, щоб розслабитися.</Frame_Armchair.description>
+  
+  <!-- EN: Автоматичні двері (будівництво) -->
+  <Frame_Autodoor.label>Автоматичні двері (будується)</Frame_Autodoor.label>
+  <!-- EN: Дозволяють людям проходити крізь двері без затримок. -->
+  <Frame_Autodoor.description>Дозволяють людям проходити крізь двері без затримок.</Frame_Autodoor.description>
+  
+  <!-- EN: Акумуляторна батарея (будівництво) -->
+  <Frame_Battery.label>Акумуляторна батарея (будується)</Frame_Battery.label>
+  <!-- EN: Зберігає енергію при її надлишку та повертає при нестачі. Увага: заряджені акумулятори можуть вибухнути через перегрів або від вологи! -->
+  <Frame_Battery.description>Зберігає енергію при її надлишку та повертає при нестачі. Увага: заряджені акумулятори можуть вибухнути через перегрів або від вологи!</Frame_Battery.description>
+  
+  <!-- EN: Ліжко (будівництво) -->
+  <Frame_Bed.label>Ліжко (будується)</Frame_Bed.label>
+  <!-- EN: М’який матрац і простирадло на каркасі для відпочинку. -->
+  <Frame_Bed.description>М’який матрац і простирадло на каркасі для відпочинку.</Frame_Bed.description>
+  
+  <!-- EN: Більярдний стіл (будівництво) -->
+  <Frame_BilliardsTable.label>Більярдний стіл (будується)</Frame_BilliardsTable.label>
+  <!-- EN: Стіл із м’якою поверхнею та бортиками для різноманітних більярдних ігор. -->
+  <Frame_BilliardsTable.description>Стіл із м’якою поверхнею та бортиками для різноманітних більярдних ігор.</Frame_BilliardsTable.description>
+  
+  <!-- EN: Броварня (будівництво) -->
+  <Frame_Brewery.label>Броварня (будується)</Frame_Brewery.label>
+  <!-- EN: Робочий стіл, оснащений усім необхідним для варки пива. -->
+  <Frame_Brewery.description>Робочий стіл, оснащений усім необхідним для варки пива.</Frame_Brewery.description>
+  
+  <!-- EN: Вогнище (будівництво) -->
+  <Frame_Campfire.label>Вогнище (будується)</Frame_Campfire.label>
+  <!-- EN: Це тимчасове джерело тепла, що вигорає за декілька днів. Як і всі інші засоби обігріву, вогнище теж має знаходитися у приміщенні для його обігріву. -->
+  <Frame_Campfire.description>Це тимчасове джерело тепла, що вигорає за декілька днів. Як і всі інші засоби обігріву, вогнище теж має знаходитися у приміщенні для його обігріву.</Frame_Campfire.description>
+  
+  <!-- EN: Місце збору караванау (будівництво) -->
+  <Frame_CaravanPackingSpot.label>Місце збору караванау (будується)</Frame_CaravanPackingSpot.label>
+  <!-- EN: Визначає місце, де будуть формуватися каравани. -->
+  <Frame_CaravanPackingSpot.description>Визначає місце, де будуть формуватися каравани.</Frame_CaravanPackingSpot.description>
+  
+  <!-- EN: Синій килим (будівництво) -->
+  <Frame_CarpetBlue.label>Синій килим (будується)</Frame_CarpetBlue.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetBlue.description>Ведуться земельні роботи.</Frame_CarpetBlue.description>
+  
+  <!-- EN: Кремовий килим (будівництво) -->
+  <Frame_CarpetCream.label>Кремовий килим (будується)</Frame_CarpetCream.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetCream.description>Ведуться земельні роботи.</Frame_CarpetCream.description>
+  
+  <!-- EN: Сірий килим (будівництво) -->
+  <Frame_CarpetDark.label>Сірий килим (будується)</Frame_CarpetDark.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetDark.description>Ведуться земельні роботи.</Frame_CarpetDark.description>
+  
+  <!-- EN: Зелений килим (будівництво) -->
+  <Frame_CarpetGreen.label>Зелений килим (будується)</Frame_CarpetGreen.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetGreen.description>Ведуться земельні роботи.</Frame_CarpetGreen.description>
+  
+  <!-- EN: Червоний килим (будівництво) -->
+  <Frame_CarpetRed.label>Червоний килим (будується)</Frame_CarpetRed.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetRed.description>Ведуться земельні роботи.</Frame_CarpetRed.description>
+  
+  <!-- EN: Стіл для шахів (будівництво) -->
+  <Frame_ChessTable.label>Стіл для шахів (будується)</Frame_ChessTable.label>
+  <!-- EN: Старовинна гра королів. Можна у захваті провести плюс-мінус декілька годин, навіть якщо ви граєте на самоті. -->
+  <Frame_ChessTable.description>Старовинна гра королів. Можна у захваті провести плюс-мінус декілька годин, навіть якщо ви граєте на самоті.</Frame_ChessTable.description>
+  
+  <!-- EN: Консоль зв’язку (будівництво) -->
+  <Frame_CommsConsole.label>Консоль зв’язку (будується)</Frame_CommsConsole.label>
+  <!-- EN: Зв’язуйтеся з кораблями, що знаходяться поблизу, та фракціями для проведення перемовин і торгівлі. -->
+  <Frame_CommsConsole.description>Зв’язуйтеся з кораблями, що знаходяться поблизу, та фракціями для проведення перемовин і торгівлі.</Frame_CommsConsole.description>
+  
+  <!-- EN: Бетон (будівництво) -->
+  <Frame_Concrete.label>Бетон (будується)</Frame_Concrete.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_Concrete.description>Ведуться земельні роботи.</Frame_Concrete.description>
+  
+  <!-- EN: Охолоджувач (будівництво) -->
+  <Frame_Cooler.label>Охолоджувач (будується)</Frame_Cooler.label>
+  <!-- EN: Настінний електропристрій, що нагнітає холодне повітря всередину, водночас викидаючи значну кількість гарячого повітря назовні. Використовується як кондиціонер влітку, або для створення морозильних камер. -->
+  <Frame_Cooler.description>Настінний електропристрій, що нагнітає холодне повітря всередину, водночас викидаючи значну кількість гарячого повітря назовні. Використовується як кондиціонер влітку, або для створення морозильних камер.</Frame_Cooler.description>
+  
+  <!-- EN: Робоче місце (будівництво) -->
+  <Frame_CraftingSpot.label>Робоче місце (будується)</Frame_CraftingSpot.label>
+  <!-- EN: Місце, де поселенці можуть створити такі прості речі, як, наприклад, заточки або луки. -->
+  <Frame_CraftingSpot.description>Місце, де поселенці можуть створити такі прості речі, як, наприклад, заточки або луки.</Frame_CraftingSpot.description>
+  
+  <!-- EN: Крипто-саркофаг (будівництво) -->
+  <Frame_CryptosleepCasket.label>Крипто-саркофаг (будується)</Frame_CryptosleepCasket.label>
+  <!-- EN: Камера із власним джерелом живлення, що створена для підтримки персонажа у стані анабіозу впродовж багатьох років. -->
+  <Frame_CryptosleepCasket.description>Камера із власним джерелом живлення, що створена для підтримки персонажа у стані анабіозу впродовж багатьох років.</Frame_CryptosleepCasket.description>
+  
+  <!-- EN: Бурова установка (будівництво) -->
+  <Frame_DeepDrill.label>Бурова установка (будується)</Frame_DeepDrill.label>
+  <!-- EN: Комплекс бурового обладнання, створений для видобутку корисних копалин із надр планети. Для знаходження родовищ скористайтеся глибинним сканером -->
+  <Frame_DeepDrill.description>Комплекс бурового обладнання, створений для видобутку корисних копалин із надр планети. Для знаходження родовищ скористайтеся глибинним сканером.</Frame_DeepDrill.description>
+  
+  <!-- EN: Стілець зі спинкою (будівництво) -->
+  <Frame_DiningChair.label>Стілець зі спинкою (будується)</Frame_DiningChair.label>
+  <!-- EN: Чудовий стілець, на якому удобно сидіти й вечеряти. -->
+  <Frame_DiningChair.description>Чудовий стілець, на якому удобно сидіти й вечеряти.</Frame_DiningChair.description>
+  
+  <!-- EN: Двері (будівництво) -->
+  <Frame_Door.label>Двері (будується)</Frame_Door.label>
+  <!-- EN: Мають відчинятись і зачинятись вручну, що затримує людей. -->
+  <Frame_Door.description>Мають відчинятись і зачинятись вручну, що затримує людей.</Frame_Door.description>
+  
+  <!-- EN: Подвійне ліжно (будівництво) -->
+  <Frame_DoubleBed.label>Подвійне ліжко (будується)</Frame_DoubleBed.label>
+  <!-- EN: Звичайне ліжко, на якому можуть спати дві людини. -->
+  <Frame_DoubleBed.description>Звичайне ліжко, на якому можуть спати дві людини.</Frame_DoubleBed.description>
+  
+  <!-- EN: Хімлабораторія (будівництво) -->
+  <Frame_DrugLab.label>Хімлабораторія (будується)</Frame_DrugLab.label>
+  <!-- EN: Робочий стіл, обладнаний різноманітними ємностями, нагрівачами, вимірювальними прладами, що використовуються при виготовленні ліків та наркотиків. -->
+  <Frame_DrugLab.description>Робочий стіл, обладнаний різноманітними ємностями, нагрівачами, вимірювальними прладами, що використовуються при виготовленні ліків та наркотиків.</Frame_DrugLab.description>
+  
+  <!-- EN: Електрокрематорій (будівництво) -->
+  <Frame_ElectricCrematorium.label>Електрокрематорій (будується)</Frame_ElectricCrematorium.label>
+  <!-- EN: Спалює трупи. Працює на електроенергії. -->
+  <Frame_ElectricCrematorium.description>Спалює трупи. Працює на електроенергії.</Frame_ElectricCrematorium.description>
+  
+  <!-- EN: Електрична плавильня (будівництво) -->
+  <Frame_ElectricSmelter.label>Електрична плавильня (будується)</Frame_ElectricSmelter.label>
+  <!-- EN: Дозволяє видобувати метал із шматків шлаку та металовмісних предметів. Споживає багато енергії. -->
+  <Frame_ElectricSmelter.description>Дозволяє видобувати метал із шматків шлаку та металовмісних предметів. Споживає багато енергії.</Frame_ElectricSmelter.description>
+  
+  <!-- EN: Електрокузня (будівництво) -->
+  <Frame_ElectricSmithy.label>Електрокузня (будується)</Frame_ElectricSmithy.label>
+  <!-- EN: Кузня, що працює на електроенергії, обладнана для виробництва немеханічної зброї та інструментів. -->
+  <Frame_ElectricSmithy.description>Кузня, що працює на електроенергії, обладнана для виробництва немеханічної зброї та інструментів.</Frame_ElectricSmithy.description>
+  
+  <!-- EN: Електроплита (будівництво) -->
+  <Frame_ElectricStove.label>Електроплита (будується)</Frame_ElectricStove.label>
+  <!-- EN: Плита, що працює на електроенергії та обладнана стільницею для зручного приготування страв. -->
+  <Frame_ElectricStove.description>Плита, що працює на електроенергії та обладнана стільницею для зручного приготування страв.</Frame_ElectricStove.description>
+  
+  <!-- EN: Швейний верстат (будівництво) -->
+  <Frame_ElectricTailoringBench.label>Швейний верстат (будується)</Frame_ElectricTailoringBench.label>
+  <!-- EN: Верстат зі швейною машинкою для швидкого пошиву одягу. Може використовуватися без електроенергії з ефективністю 40% від номінальної. -->
+  <Frame_ElectricTailoringBench.description>Верстат зі швейною машинкою для швидкого пошиву одягу. Може використовуватися без електроенергії з ефективністю 40% від номінальної.</Frame_ElectricTailoringBench.description>
+  
+  <!-- EN: Бочка для бродіння (будівництво) -->
+  <Frame_FermentingBarrel.label>Бочка для бродіння (будується)</Frame_FermentingBarrel.label>
+  <!-- EN: Бочка для отримання пива із сусла шляхом бродіння. -->
+  <Frame_FermentingBarrel.description>Бочка для отримання пива із сусла шляхом бродіння.</Frame_FermentingBarrel.description>
+  
+  <!-- EN: Розбризкувач протипожежної піни (будівництво) -->
+  <Frame_FirefoamPopper.label>Розбризкувач протипожежної піни (будується)</Frame_FirefoamPopper.label>
+  <!-- EN: При взаємодії з вогнем чи при ручній активації вибухає і розкидає в певному радіусі навколо себе протипожежну піну. -->
+  <Frame_FirefoamPopper.description>При взаємодії з вогнем чи при ручній активації вибухає і розкидає в певному радіусі навколо себе протипожежну піну.</Frame_FirefoamPopper.description>
+  
+  <!-- EN: Груба гранітна плитка (будівництво) -->
+  <Frame_FlagstoneGranite.label>Груба гранітна плитка (будується)</Frame_FlagstoneGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneGranite.description>Ведуться земельні роботи.</Frame_FlagstoneGranite.description>
+  
+  <!-- EN: Груба вапнякова плитка (будівництво) -->
+  <Frame_FlagstoneLimestone.label>Груба вапнякова плитка (будується)</Frame_FlagstoneLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneLimestone.description>Ведуться земельні роботи.</Frame_FlagstoneLimestone.description>
+  
+  <!-- EN: Груба мармурова плитка (будівництво) -->
+  <Frame_FlagstoneMarble.label>Груба мармурова плитка (будується)</Frame_FlagstoneMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneMarble.description>Ведуться земельні роботи.</Frame_FlagstoneMarble.description>
+  
+  <!-- EN: Груба пісковикова плитка (будівництво) -->
+  <Frame_FlagstoneSandstone.label>Груба пісковикова плитка (будується)</Frame_FlagstoneSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSandstone.description>Ведуться земельні роботи.</Frame_FlagstoneSandstone.description>
+  
+  <!-- EN: Груба сланцева плитка (будівництво) -->
+  <Frame_FlagstoneSlate.label>Груба сланцева плитка (будується)</Frame_FlagstoneSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSlate.description>Ведуться земельні роботи.</Frame_FlagstoneSlate.description>
+  
+  <!-- EN: Плазмовий телевізор (будівництво) -->
+  <Frame_FlatscreenTelevision.label>Плазмовий телевізор (будується)</Frame_FlatscreenTelevision.label>
+  <!-- EN: Високотехнологічний телевізор з пласким екраном, кришталево чистим зображенням та насиченим кольором. Значно цікавіший за старий трубковий телевізор із зернистою картинкою. -->
+  <Frame_FlatscreenTelevision.description>Високотехнологічний телевізор з пласким екраном, кришталево чистим зображенням та насиченим кольором. Значно цікавіший за старий трубковий телевізор із зернистою картинкою.</Frame_FlatscreenTelevision.description>
+  
+  <!-- EN: Кузня (будівництво) -->
+  <Frame_FueledSmithy.label>Кузня (будується)</Frame_FueledSmithy.label>
+  <!-- EN: Кузня, обладнана для виробництва немеханічної зброї та інструментів. У якості пального використовується дерево. -->
+  <Frame_FueledSmithy.description>Кузня, обладнана для виробництва немеханічної зброї та інструментів. У якості пального використовується дерево.</Frame_FueledSmithy.description>
+  
+  <!-- EN: Плита (будівництво) -->
+  <Frame_FueledStove.label>Плита (будується)</Frame_FueledStove.label>
+  <!-- EN: Плита, що обладнана стільницею для зручного приготування страв. У якості пального використовує дерево. -->
+  <Frame_FueledStove.description>Плита, що обладнана стільницею для зручного приготування страв. У якості пального використовує дерево.</Frame_FueledStove.description>
+  
+  <!-- EN: Геотермальний генератор (будівництво) -->
+  <Frame_GeothermalGenerator.label>Геотермальний генератор (будується)</Frame_GeothermalGenerator.label>
+  <!-- EN: Виробляє енергію з парових гейзерів. Має бути розташований поверх гейзера. -->
+  <Frame_GeothermalGenerator.description>Виробляє енергію з парових гейзерів. Має бути розташований поверх гейзера.</Frame_GeothermalGenerator.description>
+  
+  <!-- EN: Золота плитка (будівництво) -->
+  <Frame_GoldTile.label>Золота плитка (будується)</Frame_GoldTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_GoldTile.description>Ведуться земельні роботи.</Frame_GoldTile.description>
+  
+  <!-- EN: Могила (будівництво) -->
+  <Frame_Grave.label>Могила (будується)</Frame_Grave.label>
+  <!-- EN: Гідне місце упокоєння для загиблих. -->
+  <Frame_Grave.description>Гідне місце упокоєння для загиблих.</Frame_Grave.description>
+  
+  <!-- EN: Глибинний сканер (будівництво) -->
+  <Frame_GroundPenetratingScanner.label>Глибинний сканер (будується)</Frame_GroundPenetratingScanner.label>
+  <!-- EN: Спрямований донизу глибинний радар, об’єднаний із сонаром та датчиками магнітного поля. Дозволяє знаходити (але не розпізнавати) корисні копалини, що знаходяться глибоко під землею. Споживає достобіса енергії. -->
+  <Frame_GroundPenetratingScanner.description>Спрямований донизу глибинний радар, об’єднаний із сонаром та датчиками магнітного поля. Дозволяє знаходити (але не розпізнавати) корисні копалини, що знаходяться глибоко під землею. Споживає достобіса енергії.</Frame_GroundPenetratingScanner.description>
+  
+  <!-- EN: Стіл кравця (будівництво) -->
+  <Frame_HandTailoringBench.label>Стіл кравця (будується)</Frame_HandTailoringBench.label>
+  <!-- EN: Стіл для ручного пошиву одягу. Працює з ефективністю 40% у порівнянні з електричним. -->
+  <Frame_HandTailoringBench.description>Стіл для ручного пошиву одягу. Працює з ефективністю 40% у порівнянні з електричним.</Frame_HandTailoringBench.description>
+  
+  <!-- EN: Обігрівач (будівництво) -->
+  <Frame_Heater.label>Обігрівач (будується)</Frame_Heater.label>
+  <!-- EN: Електричний пристрій, що перетворює електроенергію на енергію тепла. Автоматично вмикається та вимикається щоб досягти заданої температури обігріву. -->
+  <Frame_Heater.description>Електричний пристрій, що перетворює електроенергію на енергію тепла. Автоматично вмикається та вимикається щоб досягти заданої температури обігріву.</Frame_Heater.description>
+  
+  <!-- EN: Високотехнологічний дослідницький стіл (будівництво) -->
+  <Frame_HiTechResearchBench.label>Високотехнологічний дослідницький стіл (будується)</Frame_HiTechResearchBench.label>
+  <!-- EN: Високотехнологічний стіл з комп'ютерами та електричними вимірювальними приладами. Дослідження пришвидшені завдяки новітньому обладнанню. Працює на електроенергії. -->
+  <Frame_HiTechResearchBench.description>Високотехнологічний стіл з комп'ютерами та електричними вимірювальними приладами. Дослідження пришвидшені завдяки новітньому обладнанню. Працює на електроенергії.</Frame_HiTechResearchBench.description>
+  
+  <!-- EN: Контейнер з подавальним механізмом (будівництво) -->
+  <Frame_Hopper.label>Контейнер з подавальним механізмом (будується)</Frame_Hopper.label>
+  <!-- EN: Зберігає ресурси, що потрібні для інших машин, наприклад, для автоматів поживної пасти. -->
+  <Frame_Hopper.description>Зберігає ресурси, що потрібні для інших машин, наприклад, для автоматів поживної пасти.</Frame_Hopper.description>
+  
+  <!-- EN: Штир з підковами (будівництво) -->
+  <Frame_HorseshoesPin.label>Штир з підковами (будується)</Frame_HorseshoesPin.label>
+  <!-- EN: Проста старовинна гра з декількома підковами та штирем на землі. Гравці по черзі з відстані кидають підкови, намагаючись влучити ними у штир, або накинути на нього. Це розслабляє і, до того ж, тренує координацію рук та очей. -->
+  <Frame_HorseshoesPin.description>Проста старовинна гра з декількома підковами та штирем у землі. Гравці по черзі з відстані кидають підкови, намагаючись влучити ними у штир, або накинути на нього. Це розслаблює, а також тренує координацію рухів рук та очей.</Frame_HorseshoesPin.description>
+  
+  <!-- EN: Лікарняне ліжко (будівництво) -->
+  <Frame_HospitalBed.label>Лікарняне ліжко (будується)</Frame_HospitalBed.label>
+  <!-- EN: Ліжко, спеціально розроблене для хворих та поранених. Підвищує імовірність успіху під час проведення операції. -->
+  <Frame_HospitalBed.description>Ліжко, спеціально розроблене для хворих та поранених. Підвищує імовірність успіху під час проведення операції.</Frame_HospitalBed.description>
+  
+  <!-- EN: Резервуар гідропоніки (будівництво) -->
+  <Frame_HydroponicsBasin.label>Резервуар гідропоніки (будується)</Frame_HydroponicsBasin.label>
+  <!-- EN: Для вирощування їстівних рослин. Дозволяє швидко вирощувати декілька рослин. Працює на електроенергії. Увага: рослини загинуть у випадку відсутності живлення! -->
+  <Frame_HydroponicsBasin.description>Для вирощування їстівних рослин. Дозволяє швидко вирощувати декілька рослин. Працює на електроенергії. Увага: рослини загинуть у випадку відсутності живлення!</Frame_HydroponicsBasin.description>
+  
+  <!-- EN: Сканер мінералів дальної дії (будівництво) -->
+  <Frame_LongRangeMineralScanner.label>Сканер мінералів дальної дії (будується)</Frame_LongRangeMineralScanner.label>
+  <!-- EN: Автоматично знаходить корисні копалини (наприклад, золото) в прилеглих областях (але не в тій, де його розміщено). Скупчення копалин можуть бути знайдені, у середньому, раз на 30 днів у радіусі 30 клітинок. Розміщення поруч додаткових сканерів практично не впливає на ефективність пошуку. -->
+  <Frame_LongRangeMineralScanner.description>Автоматично знаходить корисні копалини (наприклад, золото) в прилеглих областях (але не в тій, де його розміщено). Скупчення копалин можуть бути знайдені, у середньому, раз на 30 днів у радіусі 30 клітинок. Розміщення поруч додаткових сканерів практично не впливає на ефективність пошуку.</Frame_LongRangeMineralScanner.description>
+  
+  <!-- EN: Місце проведення весіль (будівництво) -->
+  <Frame_MarriageSpot.label>Місце проведення весілль (будується)</Frame_MarriageSpot.label>
+  <!-- EN: Визначає місце, де будуть відбуватися весільні церемонії. Глядачі можуть спостерігати з будь-якого боку. -->
+  <Frame_MarriageSpot.description>Визначає місце, де будуть відбуватися весільні церемонії. Глядачі можуть спостерігати з будь-якого боку.</Frame_MarriageSpot.description>
+  
+  <!-- EN: Металева плитка (будівництво) -->
+  <Frame_MetalTile.label>Металева плитка (будується)</Frame_MetalTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_MetalTile.description>Ведуться земельні роботи.</Frame_MetalTile.description>
+  
+  <!-- EN: Дренажний насос (будівництво) -->
+  <Frame_MoisturePump.label>Дренажний насос (будується)</Frame_MoisturePump.label>
+  <!-- EN: Дуже повільно видаляє вологу з ґрунту навколо себе, перетворюючи болота та мілководдя на суху землю. Не здатний осушити глибоку воду. -->
+  <Frame_MoisturePump.description>Дуже повільно видаляє вологу з ґрунту навколо себе, перетворюючи болота та мілководдя на суху землю. Не здатний осушити глибоку воду.</Frame_MoisturePump.description>
+  
+  <!-- EN: Мульти-аналізатор (будівництво) -->
+  <Frame_MultiAnalyzer.label>Мульти-аналізатор (будується)</Frame_MultiAnalyzer.label>
+  <!-- EN: Пришвидшує дослідження. Має бути розміщений поруч зі столом досліджень. Один стіл може бути з’єднаний одночасно з не більше ніж одниим аналізатором. -->
+  <Frame_MultiAnalyzer.description>Пришвидшує дослідження. Має бути розміщений поруч зі столом досліджень. Один стіл може бути з’єднаний одночасно з не більше ніж одниим аналізатором.</Frame_MultiAnalyzer.description>
+  
+  <!-- EN: Автомат поживної пасти (будівництво) -->
+  <Frame_NutrientPasteDispenser.label>Автомат поживної пасти (будується)</Frame_NutrientPasteDispenser.label>
+  <!-- EN: Синтезує поживну пасту з органічної сировини. На виготовлення затрачається менше інгредієнтів та часів аніж при готуванні їжу іншим методом, але всі ненавидять поживну пасту. Може бути заповнений сирою їжею, але не рослинною сированиою (наприклад, сіном). -->
+  <Frame_NutrientPasteDispenser.description>Синтезує поживну пасту з органічної сировини. На виготовлення затрачається менше інгредієнтів та часів аніж при готуванні їжу іншим методом, але всі ненавидять поживну пасту. Може бути заповнений сирою їжею, але не рослинною сированиою (наприклад, сіном).</Frame_NutrientPasteDispenser.description>
+  
+  <!-- EN: Маяк торгівлі (будівництво) -->
+  <Frame_OrbitalTradeBeacon.label>Маяк торгівлі (будується)</Frame_OrbitalTradeBeacon.label>
+  <!-- EN: Потрібен для орбітальної торгівлі. Продавати можна лише ті речі, які знаходяться близько до маяку на відкритому повітрі. Орбітальні торговці також будуть скидати речі коло нього. -->
+  <Frame_OrbitalTradeBeacon.description>Потрібен для орбітальної торгівлі. Продавати можна лише ті речі, які знаходяться близько до нього. Може бути встановлений у приміщенні. Орбітальні торговці також будуть скидати речі коло нього.</Frame_OrbitalTradeBeacon.description>
+  
+  <!-- EN: Місце для вечірок (будівництво) -->
+  <Frame_PartySpot.label>Місце для вечірок (будується)</Frame_PartySpot.label>
+  <!-- EN: Визначає місце, поряд з яким будуть відбуватися вечірки. -->
+  <Frame_PartySpot.description>Визначає місце, поряд з яким будуть відбуватися вечірки.</Frame_PartySpot.description>
+  
+  <!-- EN: Випарний охолоджувач (будівництво) -->
+  <Frame_PassiveCooler.label>Випарний охолоджувач (будується)</Frame_PassiveCooler.label>
+  <!-- EN: Традиційна система охолодження, що не потребує електроенергії та працює за рахунок випаровування води. Вийде з ладу за декілька днів. -->
+  <Frame_PassiveCooler.description>Традиційна система охолодження, що не потребує електроенергії та працює за рахунок випаровування води. Вийде з ладу за декілька днів.</Frame_PassiveCooler.description>
+  
+  <!-- EN: Асфальтобетон (будівництво) -->
+  <Frame_PavedTile.label>Асфальтобетон (будується)</Frame_PavedTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_PavedTile.description>Ведуться земельні роботи.</Frame_PavedTile.description>
+  
+  <!-- EN: Квітковий горщик (будівництво) -->
+  <Frame_PlantPot.label>Квітковий горщик (будується)</Frame_PlantPot.label>
+  <!-- EN: Садівники вирощують в них декоративні квіти. -->
+  <Frame_PlantPot.description>Садівники вирощують в них декоративні квіти.</Frame_PlantPot.description>
+  
+  <!-- EN: Установка запуску транспортних капсул (будівництво) -->
+  <Frame_PodLauncher.label>Установка запуску транспортних капсул (будується)</Frame_PodLauncher.label>
+  <!-- EN: Пристрій, що відправляє транспортні капсули на великі відстані. Одночасно можна активувати одразу декілька установок, але для цього вони повинні бути розміщені поруч одна з одною. -->
+  <Frame_PodLauncher.description>Пристрій, що відправляє транспортні капсули на великі відстані. Одночасно можна активувати одразу декілька установок, але для цього вони повинні бути розміщені поруч одна з одною.</Frame_PodLauncher.description>
+  
+  <!-- EN: Електродріт (будівництво) -->
+  <Frame_PowerConduit.label>Електродріт (будується)</Frame_PowerConduit.label>
+  <!-- EN: Металевий дріт для передачі електроенергії. Може бути розміщений під стінами чи іншими спорудами. -->
+  <Frame_PowerConduit.description>Металевий дріт для передачі електроенергії. Може бути розміщений під стінами чи іншими спорудами.</Frame_PowerConduit.description>
+  
+  <!-- EN: Перемикач (будівництво) -->
+  <Frame_PowerSwitch.label>Перемикач (будується)</Frame_PowerSwitch.label>
+  <!-- EN: Вмикає та вимикає живлення. -->
+  <Frame_PowerSwitch.description>Вмикає та вимикає живлення.</Frame_PowerSwitch.description>
+  
+  <!-- EN: Розкішне ліжко (будівництво) -->
+  <Frame_RoyalBed.label>Розкішне ліжко (будується)</Frame_RoyalBed.label>
+  <!-- EN: Чудове ліжко для видатних людей. Якщо бути точним, то для двох видатних людей. -->
+  <Frame_RoyalBed.description>Чудове ліжко для видатних людей. Якщо бути точним, то для двох видатних людей.</Frame_RoyalBed.description>
+  
+  <!-- EN: Мішки з піском (будівництво) -->
+  <Frame_Sandbags.label>Мішки з піском (будується)</Frame_Sandbags.label>
+  <!-- EN: Укриття від ворожих куль. -->
+  <Frame_Sandbags.description>Укриття від ворожих куль.</Frame_Sandbags.description>
+  
+  <!-- EN: Саркофаг (будівництво) -->
+  <Frame_Sarcophagus.label>Саркофаг (будується)</Frame_Sarcophagus.label>
+  <!-- EN: Місце останнього сідпочинку для мертвих, які заслужили на це при житті. -->
+  <Frame_Sarcophagus.description>Місце останнього сідпочинку для мертвих, які заслужили на це при житті.</Frame_Sarcophagus.description>
+  
+  <!-- EN: shelf (будівництво) -->
+  <Frame_Shelf.label>Полиця спорядження (будується)</Frame_Shelf.label>
+  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not deteriorate, even if outside. -->
+  <Frame_Shelf.description>Місце для зберігання різноманітного спорядження.</Frame_Shelf.description>
+  
+  <!-- EN: Корабельний лонжерон (будівництво) -->
+  <Frame_Ship_Beam.label>Корабельний лонжерон (будується)</Frame_Ship_Beam.label>
+  <!-- EN: Структурна балка, до якої кріпляться частини корабля. -->
+  <Frame_Ship_Beam.description>Структурна балка, до якої кріпляться частини корабля.</Frame_Ship_Beam.description>
+  
+  <!-- EN: Корабельний комп’ютер (будівництво) -->
+  <Frame_Ship_ComputerCore.label>Корабельний комп’ютер (будується)</Frame_Ship_ComputerCore.label>
+  <!-- EN: Комп’ютерне ядро, що містить надлюдський штучний розум, здатний керувати кораблем не зважаючи на будь-які небезпеки. -->
+  <Frame_Ship_ComputerCore.description>Комп’ютерне ядро, що містить надлюдський штучний розум, здатний керувати кораблем не зважаючи на будь-які небезпеки.</Frame_Ship_ComputerCore.description>
+  
+  <!-- EN: Капсула крипто-сну (будівництво) -->
+  <Frame_Ship_CryptosleepCasket.label>Капсула крипто-сну (будується)</Frame_Ship_CryptosleepCasket.label>
+  <!-- EN: Капсула крипто-сну, захищена від небезпек відкритого космосу. Може століттями підтримувати людину в стані крипто-сну, а також пережити повернення в атмосферу. -->
+  <Frame_Ship_CryptosleepCasket.description>Капсула крипто-сну, захищена від небезпек відкритого космосу. Може століттями підтримувати людину в стані крипто-сну, а також пережити повернення в атмосферу.</Frame_Ship_CryptosleepCasket.description>
+  
+  <!-- EN: Корабельний двигун (будівництво) -->
+  <Frame_Ship_Engine.label>Корабельний двигун (будується)</Frame_Ship_Engine.label>
+  <!-- EN: Імпульсний двигун, що працює на антиматерії. Здатен вивести корабель на орбіту або міжзоряну траєкторію. -->
+  <Frame_Ship_Engine.description>Імпульсний двигун, що працює на антиматерії. Здатен вивести корабель на орбіту або міжзоряну траєкторію.</Frame_Ship_Engine.description>
+  
+  <!-- EN: Корабельний реактор (будівництво) -->
+  <Frame_Ship_Reactor.label>Корабельний реактор (будується)</Frame_Ship_Reactor.label>
+  <!-- EN: Живить корабель впродовж усієї подорожі в космосі. -->
+  <Frame_Ship_Reactor.description>Живить корабель впродовж усієї подорожі в космосі.</Frame_Ship_Reactor.description>
+  
+  <!-- EN: Срібна плитка (будівництво) -->
+  <Frame_SilverTile.label>Срібна плитка (будується)</Frame_SilverTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SilverTile.description>Ведуться земельні роботи.</Frame_SilverTile.description>
+  
+  <!-- EN: Простий дослідницький стіл (будівництво) -->
+  <Frame_SimpleResearchBench.label>Простий дослідницький стіл (будується)</Frame_SimpleResearchBench.label>
+  <!-- EN: Простий стіл з канцелярським приладдям та низькотехнологічними науковими приладами. Дослідники працюють тут, щоб відкривати нові технології. -->
+  <Frame_SimpleResearchBench.description>Простий стіл з канцелярським приладдям та низькотехнологічними науковими приладами. Дослідники працюють тут, щоб відкривати нові технології.</Frame_SimpleResearchBench.description>
+  
+  <!-- EN: Спальний мішок (будівництво) -->
+  <Frame_SleepingSpot.label>Спальний мішок (будується)</Frame_SleepingSpot.label>
+  <!-- EN: Позначає місце на землі, де люди повинні спати. Некомфортно. -->
+  <Frame_SleepingSpot.description>Позначає місце на землі, де люди повинні спати. Некомфортно.</Frame_SleepingSpot.description>
+  
+  <!-- EN: Сонячний генератор (будівництво) -->
+  <Frame_SolarGenerator.label>Сонячний генератор (будується)</Frame_SolarGenerator.label>
+  <!-- EN: Виробляє енергію з сонячного світла. Не працює в темряві та тіні. -->
+  <Frame_SolarGenerator.description>Виробляє енергію з сонячного світла. Не працює в темряві та тіні.</Frame_SolarGenerator.description>
+  
+  <!-- EN: Лампа (будівництво) -->
+  <Frame_StandingLamp.label>Лампа (будується)</Frame_StandingLamp.label>
+  <!-- EN: Лампа, висвітлює область поблизу. -->
+  <Frame_StandingLamp.description>Лампа, висвітлює область поблизу.</Frame_StandingLamp.description>
+  
+  <!-- EN: Синя лампа (будівництво) -->
+  <Frame_StandingLamp_Blue.label>Синя лампа (будується)</Frame_StandingLamp_Blue.label>
+  <!-- EN: Лампа, висвітлює область поблизу синім світлом. -->
+  <Frame_StandingLamp_Blue.description>Лампа, висвітлює область поблизу синім світлом.</Frame_StandingLamp_Blue.description>
+  
+  <!-- EN: Зелена лампа (будівництво) -->
+  <Frame_StandingLamp_Green.label>Зелена лампа (будується)</Frame_StandingLamp_Green.label>
+  <!-- EN: Лампа, висвітлює область поблизу зеленим світлом. -->
+  <Frame_StandingLamp_Green.description>Лампа, висвітлює область поблизу зеленим світлом.</Frame_StandingLamp_Green.description>
+  
+  <!-- EN: Червона лампа (будівництво) -->
+  <Frame_StandingLamp_Red.label>Червона лампа (будується)</Frame_StandingLamp_Red.label>
+  <!-- EN: Лампа, висвітлює область поблизу червоним світлом. -->
+  <Frame_StandingLamp_Red.description>Лампа, висвітлює область поблизу червоним світлом.</Frame_StandingLamp_Red.description>
+  
+  <!-- EN: Стерильна поверхня (будівництво) -->
+  <Frame_SterileTile.label>Стерильна поверхня (будується)</Frame_SterileTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SterileTile.description>Ведуться земельні роботи.</Frame_SterileTile.description>
+  
+  <!-- EN: Стілець (будівництво) -->
+  <Frame_Stool.label>Стілець (будується)</Frame_Stool.label>
+  <!-- EN: На ньому сидять. Зазвичай. -->
+  <Frame_Stool.description>На ньому сидять. Зазвичай.</Frame_Stool.description>
+  
+  <!-- EN: Прожектор денного світла (будівництво) -->
+  <Frame_SunLamp.label>Прожектор денного світла (будується)</Frame_SunLamp.label>
+  <!-- EN: Висвітлює місцевість достатньо яскраво, щоб вирощувати рослини, але споживає чимало електроенергії. Автоматично вимикається вночі. -->
+  <Frame_SunLamp.description>Висвітлює місцевість достатньо яскраво, щоб вирощувати рослини.</Frame_SunLamp.description>
+  
+  <!-- EN: Стіл м’ясника (будівництво) -->
+  <Frame_TableButcher.label>Стіл м’ясника (будується)</Frame_TableButcher.label>
+  <!-- EN: Важкий стіл для обробки туш тварин на куски сирого м’яса. -->
+  <Frame_TableButcher.description>Важкий стіл для обробки туш тварин на куски сирого м’яса.</Frame_TableButcher.description>
+  
+  <!-- EN: Верстак (будівництво) -->
+  <Frame_TableMachining.label>Верстак (будується)</Frame_TableMachining.label>
+  <!-- EN: Стіл з приладами для збирання и розбирання металічних предметів, як-то зброя чи рештки механоїдів. -->
+  <Frame_TableMachining.description>Стіл з приладами для збирання и розбирання металічних предметів, як-то зброя чи рештки механоїдів.</Frame_TableMachining.description>
+  
+  <!-- EN: Стіл скульптора (будівництво) -->
+  <Frame_TableSculpting.label>Стіл скульптора (будується)</Frame_TableSculpting.label>
+  <!-- EN: Робоче місце, споряджене для ліплення та карбування. -->
+  <Frame_TableSculpting.description>Робоче місце, споряджене для ліплення та карбування.</Frame_TableSculpting.description>
+  
+  <!-- EN: Стіл каменяра (будівництво) -->
+  <Frame_TableStonecutter.label>Стіл каменяра (будується)</Frame_TableStonecutter.label>
+  <!-- EN: Робочий стіл, оснащений для виробництва корисної бруківки з каміння. -->
+  <Frame_TableStonecutter.description>Робочий стіл, оснащений для виробництва корисної бруківки з каміння.</Frame_TableStonecutter.description>
+  
+  <!-- EN: Гранітна плитка (будівництво) -->
+  <Frame_TileGranite.label>Гранітна плитка (будується)</Frame_TileGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileGranite.description>Ведуться земельні роботи.</Frame_TileGranite.description>
+  
+  <!-- EN: Вапнякова плитка (будівництво) -->
+  <Frame_TileLimestone.label>Вапнякова плитка (будується)</Frame_TileLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileLimestone.description>Ведуться земельні роботи.</Frame_TileLimestone.description>
+  
+  <!-- EN: Мармурова плитка (будівництво) -->
+  <Frame_TileMarble.label>Мармурова плитка (будується)</Frame_TileMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileMarble.description>Ведуться земельні роботи.</Frame_TileMarble.description>
+  
+  <!-- EN: Пісковикова плитка (будівництво) -->
+  <Frame_TileSandstone.label>Пісковикова плитка (будується)</Frame_TileSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSandstone.description>Ведуться земельні роботи.</Frame_TileSandstone.description>
+  
+  <!-- EN: Сланцева плитка (будівництво) -->
+  <Frame_TileSlate.label>Сланцева плитка (будується)</Frame_TileSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSlate.description>Ведуться земельні роботи.</Frame_TileSlate.description>
+  
+  <!-- EN: Шафа з інструментами (будівництво) -->
+  <Frame_ToolCabinet.label>Шафа з інструментами (будується)</Frame_ToolCabinet.label>
+  <!-- EN: Збільшує швидкість праці. Має бути розміщена біля робочого місця. Одне робоче місце може бути пов’язане не більше ніж з двома шафами одночасно. -->
+  <Frame_ToolCabinet.description>Збільшує швидкість праці. Має бути розміщена біля робочого місця. Одне робоче місце може бути пов’язане не більше ніж з двома шафами одночасно.</Frame_ToolCabinet.description>
+  
+  <!-- EN: Факел (будівництво) -->
+  <Frame_TorchLamp.label>Факел (будується)</Frame_TorchLamp.label>
+  <!-- EN: Дерев’яний факел, висвітлює область поблизу. Може бути автоматично відновлений колоністами за допомогою дерева. Генерує невелику кількість тепла. -->
+  <Frame_TorchLamp.description>Дерев’яний факел, висвітлює область поблизу. Може бути автоматично відновлений колоністами за допомогою дерева. Генерує невелику кількість тепла.</Frame_TorchLamp.description>
+  
+  <!-- EN: Транспортна капсула (будівництво) -->
+  <Frame_TransportPod.label>Транспортна капсула (будується)</Frame_TransportPod.label>
+  <!-- EN: Капсула для суборбітального польоту. Може застосовуватися не лише для перевезення вантажів, тварин та людей, а ще й задля здійснення раптових атак на інші поселення чи надсилання підкріплень для допомоги у битві. -->
+  <Frame_TransportPod.description>Капсула для суборбітального польоту. Може застосовуватися не лише для перевезення вантажів, тварин та людей, а ще й задля здійснення раптових атак на інші поселення чи надсилання підкріплень для допомоги у битві.</Frame_TransportPod.description>
+  
+  <!-- EN: ЕПТ телевізор (будівництво) -->
+  <Frame_TubeTelevision.label>ЕПТ телевізор (будується)</Frame_TubeTelevision.label>
+  <!-- EN: Екран на основі електронно-променевої трубки для відтворення різноманітних рухомик картинок. Навіть у всіми забутих світах (як ваш) часто є передавач, що транслює у ефір щось менш нудотне, ніж пейзаж арктичної пустелі. -->
+  <Frame_TubeTelevision.description>Екран на основі електронно-променевої трубки для відтворення різноманітних рухомик картинок. Навіть у всіми забутих світах (як ваш) часто є передавач, що транслює у ефір щось менш нудотне, ніж пейзаж арктичної пустелі.</Frame_TubeTelevision.description>
+  
+  <!-- EN: Вентиляція (будівництво) -->
+  <Frame_Vent.label>Вентиляція (будується)</Frame_Vent.label>
+  <!-- EN: Звичайна вентиляційна решітка, створена для вирівнювання температури у двох суміжних кімнатах, не створюючи проходу між ними. -->
+  <Frame_Vent.description>Звичайна вентиляційна решітка, створена для вирівнювання температури у двох суміжних кімнатах, не створюючи проходу між ними.</Frame_Vent.description>
+  
+  <!-- EN: Монітор життєвих функцій (будівництво) -->
+  <Frame_VitalsMonitor.label>Монітор життєвих функцій (будується)</Frame_VitalsMonitor.label>
+  <!-- EN: Покращує догляд за пацієнтом. Має бути розміщений біля лікарняного ліжка. Одне ліжко може бути пов'язане лише з одним монітором. -->
+  <Frame_VitalsMonitor.description>Покращує догляд за пацієнтом. Має бути розміщений біля лікарняного ліжка. Одне ліжко може бути пов'язане лише з одним монітором.</Frame_VitalsMonitor.description>
+  
+  <!-- EN: Стіна (будівництво) -->
+  <Frame_Wall.label>Стіна (будується)</Frame_Wall.label>
+  <!-- EN: Непрохідна стіна. Достатньо міцна, щоб тримати дах. -->
+  <Frame_Wall.description>Непрохідна стіна. Достатньо міцна, щоб тримати дах.</Frame_Wall.description>
+  
+  <!-- EN: Вітрогенератор (будівництво) -->
+  <Frame_WindTurbine.label>Вітрогенератор (будується)</Frame_WindTurbine.label>
+  <!-- EN: Вітровий генератор електроенергії. Потребує значного вільного місця спереду та ззаду для оптимального потоку повітря. -->
+  <Frame_WindTurbine.description>Вітровий генератор електроенергії. Потребує значного вільного місця спереду та ззаду для оптимального потоку повітря.</Frame_WindTurbine.description>
+  
+  <!-- EN: Паркет (будівництво) -->
+  <Frame_WoodPlankFloor.label>Паркет (будується)</Frame_WoodPlankFloor.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_WoodPlankFloor.description>Ведуться земельні роботи.</Frame_WoodPlankFloor.description>
+  
+  <!-- EN: Альпака м'ясо -->
+  <Meat_Alpaca.label>М'ясо альпаки</Meat_Alpaca.label>
+  <!-- EN: Сире м'ясо альпака. -->
+  <Meat_Alpaca.description>М'ясо альпаки.</Meat_Alpaca.description>
+  
+  <!-- EN: Альфа-бобер м'ясо -->
+  <Meat_Alphabeaver.label>м'ясо альфа-бобра</Meat_Alphabeaver.label>
+  <!-- EN: Сире м'ясо альфа-бобер. -->
+  <Meat_Alphabeaver.description>Сире м'ясо альфа-бобра.</Meat_Alphabeaver.description>
+  
+  <!-- EN: bear meat -->
+  <Meat_Bear_Grizzly.label>м'ясо грізлі</Meat_Bear_Grizzly.label>
+  <!-- EN: Сире м'ясо грізлі. -->
+  <Meat_Bear_Grizzly.description>Сире м'ясо грізлі.</Meat_Bear_Grizzly.description>
+  
+  <!-- EN: Вибухлопа м'ясо -->
+  <Meat_Boomalope.label>м'ясо вибухлопи</Meat_Boomalope.label>
+  <!-- EN: Сире м'ясо вибухлопа. -->
+  <Meat_Boomalope.description>Сире м'ясо вибухлопи.</Meat_Boomalope.description>
+  
+  <!-- EN: Бумщур м'ясо -->
+  <Meat_Boomrat.label>м'ясо бумщура</Meat_Boomrat.label>
+  <!-- EN: Сире м'ясо бумщур. -->
+  <Meat_Boomrat.description>Сире м'ясо бумщура.</Meat_Boomrat.description>
+  
+  <!-- EN: Капібара м'ясо -->
+  <Meat_Capybara.label>м'ясо капібари</Meat_Capybara.label>
+  <!-- EN: Сире м'ясо капібара. -->
+  <Meat_Capybara.description>Сире м'ясо капібари.</Meat_Capybara.description>
+  
+  <!-- EN: Північний олень м'ясо -->
+  <Meat_Caribou.label>м'ясо північного оленя</Meat_Caribou.label>
+  <!-- EN: Сире м'ясо північний олень. -->
+  <Meat_Caribou.description>Сире м'ясо північного оленя.</Meat_Caribou.description>
+  
+  <!-- EN: bird meat -->
+  <Meat_Cassowary.label>м'ясо казуара</Meat_Cassowary.label>
+  <!-- EN: Сире м'ясо казуар. -->
+  <Meat_Cassowary.description>Сире м'ясо казуара.</Meat_Cassowary.description>
+  
+  <!-- EN: Кіт м'ясо -->
+  <Meat_Cat.label>м'ясо кота</Meat_Cat.label>
+  <!-- EN: Сире м'ясо кіт. -->
+  <Meat_Cat.description>Сире м'ясо кота.</Meat_Cat.description>
+  
+  <!-- EN: Курка м'ясо -->
+  <Meat_Chicken.label>курятина</Meat_Chicken.label>
+  <!-- EN: Сире м'ясо курка. -->
+  <Meat_Chicken.description>Куряче м'ясо.</Meat_Chicken.description>
+  
+  <!-- EN: Шиншила м'ясо -->
+  <Meat_Chinchilla.label>м'ясо шиншили</Meat_Chinchilla.label>
+  <!-- EN: Сире м'ясо шиншила. -->
+  <Meat_Chinchilla.description>Сире м'ясо шиншили.</Meat_Chinchilla.description>
+  
+  <!-- EN: cobraflesh -->
+  <Meat_Cobra.label>м'ясо кобри</Meat_Cobra.label>
+  <!-- EN: Сире м'ясо кобра. -->
+  <Meat_Cobra.description>Сире м'ясо кобри.</Meat_Cobra.description>
+  
+  <!-- EN: Пума м'ясо -->
+  <Meat_Cougar.label>м'ясо пуми</Meat_Cougar.label>
+  <!-- EN: Сире м'ясо пума. -->
+  <Meat_Cougar.description>Сире м'ясо пуми.</Meat_Cougar.description>
+  
+  <!-- EN: beef -->
+  <Meat_Cow.label>яловичина</Meat_Cow.label>
+  <!-- EN: Сире м'ясо корова. -->
+  <Meat_Cow.description>М'ясо корови.</Meat_Cow.description>
+  
+  <!-- EN: venison -->
+  <Meat_Deer.label>оленина</Meat_Deer.label>
+  <!-- EN: Сире м'ясо олень. -->
+  <Meat_Deer.description>Сира оленина.</Meat_Deer.description>
+  
+  <!-- EN: Верблюд м'ясо -->
+  <Meat_Dromedary.label>м'ясо верблюда</Meat_Dromedary.label>
+  <!-- EN: Сире м'ясо верблюд. -->
+  <Meat_Dromedary.description>Сире м'ясо верблюда.</Meat_Dromedary.description>
+  
+  <!-- EN: Слон м'ясо -->
+  <Meat_Elephant.label>м'ясо слона</Meat_Elephant.label>
+  <!-- EN: Сире м'ясо слон. -->
+  <Meat_Elephant.description>Сире м'ясо слона.</Meat_Elephant.description>
+  
+  <!-- EN: Лось м'ясо -->
+  <Meat_Elk.label>лосина</Meat_Elk.label>
+  <!-- EN: Сире м'ясо лось. -->
+  <Meat_Elk.description>Сире м'ясо лося.</Meat_Elk.description>
+  
+  <!-- EN: foxmeat -->
+  <Meat_Fox_Fennec.label>м'ясо пустельного лиса</Meat_Fox_Fennec.label>
+  <!-- EN: Сире м'ясо пустельний лис. -->
+  <Meat_Fox_Fennec.description>Сире м'ясо пустельного лиса.</Meat_Fox_Fennec.description>
+  
+  <!-- EN: Газель м'ясо -->
+  <Meat_Gazelle.label>м'ясо газелі</Meat_Gazelle.label>
+  <!-- EN: Сире м'ясо газель. -->
+  <Meat_Gazelle.description>Сире м'ясо газелі.</Meat_Gazelle.description>
+  
+  <!-- EN: Заєць м'ясо -->
+  <Meat_Hare.label>заячина</Meat_Hare.label>
+  <!-- EN: Сире м'ясо заєць. -->
+  <Meat_Hare.description>Сире заяче м'ясо.</Meat_Hare.description>
+  
+  <!-- EN: Людина м'ясо -->
+  <Meat_Human.label>м'ясо людини</Meat_Human.label>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <Meat_Human.description>Сире людське м'ясо.</Meat_Human.description>
+  
+  <!-- EN: Хаскі м'ясо -->
+  <Meat_Husky.label>м'ясо хаскі</Meat_Husky.label>
+  <!-- EN: Сире м'ясо хаскі. -->
+  <Meat_Husky.description>Сире м'ясо хаскі.</Meat_Husky.description>
+  
+  <!-- EN: Козеріг м'ясо -->
+  <Meat_Ibex.label>м'ясо козерога</Meat_Ibex.label>
+  <!-- EN: Сире м'ясо козеріг. -->
+  <Meat_Ibex.description>Сире м'ясо козерога.</Meat_Ibex.description>
+  
+  <!-- EN: Ігуана м'ясо -->
+  <Meat_Iguana.label>м'ясо ігуани</Meat_Iguana.label>
+  <!-- EN: Сире м'ясо ігуана. -->
+  <Meat_Iguana.description>Сире м'ясо ігуани.</Meat_Iguana.description>
+  
+  <!-- EN: Лабрадор-ретривер м'ясо -->
+  <Meat_LabradorRetriever.label>м'ясо лабрадора</Meat_LabradorRetriever.label>
+  <!-- EN: Сире м'ясо лабрадор-ретривер. -->
+  <Meat_LabradorRetriever.description>Сире м'ясо лабрадора-ретривера.</Meat_LabradorRetriever.description>
+  
+  <!-- EN: Рись м'ясо -->
+  <Meat_Lynx.label>м'ясо рисі</Meat_Lynx.label>
+  <!-- EN: Сире м'ясо рись. -->
+  <Meat_Lynx.description>Сире м'ясо рисі.</Meat_Lynx.description>
+  
+  <!-- EN: insect meat -->
+  <Meat_Megaspider.label>м'ясо мегапавука</Meat_Megaspider.label>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <Meat_Megaspider.description>М'ясо мегапавука.</Meat_Megaspider.description>
+  
+  <!-- EN: Мавпа м'ясо -->
+  <Meat_Monkey.label>м'ясо мавпи</Meat_Monkey.label>
+  <!-- EN: Сире м'ясо мавпа. -->
+  <Meat_Monkey.description>Сире м'ясо мавпи.</Meat_Monkey.description>
+  
+  <!-- EN: Муфало м'ясо -->
+  <Meat_Muffalo.label>м'ясо муфало</Meat_Muffalo.label>
+  <!-- EN: Сире м'ясо муфало. -->
+  <Meat_Muffalo.description>Сире м'ясо муфало.</Meat_Muffalo.description>
+  
+  <!-- EN: Пантера м'ясо -->
+  <Meat_Panther.label>м'ясо пантери</Meat_Panther.label>
+  <!-- EN: Сире м'ясо пантера. -->
+  <Meat_Panther.description>Сире м'ясо пантери.</Meat_Panther.description>
+  
+  <!-- EN: pork -->
+  <Meat_Pig.label>свинина</Meat_Pig.label>
+  <!-- EN: Сире м'ясо свиня. -->
+  <Meat_Pig.description>М'ясо свині.</Meat_Pig.description>
+  
+  <!-- EN: Єнот м'ясо -->
+  <Meat_Raccoon.label>м'ясо єнота</Meat_Raccoon.label>
+  <!-- EN: Сире м'ясо єнот. -->
+  <Meat_Raccoon.description>Сире м'ясо єнота.</Meat_Raccoon.description>
+  
+  <!-- EN: Щур м'ясо -->
+  <Meat_Rat.label>м'ясо щура</Meat_Rat.label>
+  <!-- EN: Сире м'ясо щур. -->
+  <Meat_Rat.description>Сире м'ясо щура.</Meat_Rat.description>
+  
+  <!-- EN: Носоріг м'ясо -->
+  <Meat_Rhinoceros.label>м'ясо носорога</Meat_Rhinoceros.label>
+  <!-- EN: Сире м'ясо носоріг. -->
+  <Meat_Rhinoceros.description>Сире м'ясо носорога.</Meat_Rhinoceros.description>
+  
+  <!-- EN: Білка м'ясо -->
+  <Meat_Squirrel.label>м'ясо білки</Meat_Squirrel.label>
+  <!-- EN: Сире м'ясо білка. -->
+  <Meat_Squirrel.description>Сире м'ясо білки.</Meat_Squirrel.description>
+  
+  <!-- EN: Трамбо м'ясо -->
+  <Meat_Thrumbo.label>м'ясо трамбо</Meat_Thrumbo.label>
+  <!-- EN: Сире м'ясо трамбо. -->
+  <Meat_Thrumbo.description>Сире м'ясо трамбо.</Meat_Thrumbo.description>
+  
+  <!-- EN: Черепаха м'ясо -->
+  <Meat_Tortoise.label>м'ясо черепахи</Meat_Tortoise.label>
+  <!-- EN: Сире м'ясо черепаха. -->
+  <Meat_Tortoise.description>Сире м'ясо черепахи.</Meat_Tortoise.description>
+  
+  <!-- EN: Індичка м'ясо -->
+  <Meat_Turkey.label>м'ясо індички</Meat_Turkey.label>
+  <!-- EN: Сире м'ясо індичка. -->
+  <Meat_Turkey.description>Сире м'ясо індички.</Meat_Turkey.description>
+  
+  <!-- EN: Варг м'ясо -->
+  <Meat_Warg.label>м'ясо варга</Meat_Warg.label>
+  <!-- EN: Сире м'ясо варг. -->
+  <Meat_Warg.description>Сире м'ясо варга.</Meat_Warg.description>
+  
+  <!-- EN: wolfmeat -->
+  <Meat_Wolf_Timber.label>м'ясо вовка</Meat_Wolf_Timber.label>
+  <!-- EN: Сире м'ясо вовк. -->
+  <Meat_Wolf_Timber.description>Сире м'ясо вовка.</Meat_Wolf_Timber.description>
+  
+  <!-- EN: Йоркширський тер'єр м'ясо -->
+  <Meat_YorkshireTerrier.label>м'ясо тер'єра</Meat_YorkshireTerrier.label>
+  <!-- EN: Сире м'ясо Йоркширський тер'єр. -->
+  <Meat_YorkshireTerrier.description>Сире м'ясо йоркширського тер'єра.</Meat_YorkshireTerrier.description>
+  
+</LanguageData>

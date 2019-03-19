@@ -1,34 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Elephant.label>слон</Elephant.label>
-	<Elephant.description>Найбільша з тварин, що має довжезні та небезпечні бивні.</Elephant.description>
-	<Elephant_Leather.label>шкіра слона</Elephant_Leather.label>
-	<Elephant_Leather.description>Слоняча шкіра.</Elephant_Leather.description>
-	<Elephant_Leather.stuffProps.stuffAdjective>слонячої шкіри</Elephant_Leather.stuffProps.stuffAdjective>
-	<Elephant_Meat.label>м'ясо слона</Elephant_Meat.label>
-	<Elephant_Meat.description>Сире м'ясо слона.</Elephant_Meat.description>
-	<Elephant_Corpse.label>туша слона</Elephant_Corpse.label>
-	<Elephant_Corpse.description>Мертвий слон.</Elephant_Corpse.description>
-
-	<Megatherium.label>мегатерій</Megatherium.label>
-	<Megatherium.description>Вид лінивців, поодиноких травоїдних тварин, які колись мешкали в Америці на старій Землі, де й були знищені. Але багато віків потому їх було повернуто до життя з використанням новітніх технологій клонування.</Megatherium.description>
-	<Megatherium_Leather.label>шкіра мегатерія</Megatherium_Leather.label>
-	<Megatherium_Leather.description>Шкіра мегатерія.</Megatherium_Leather.description>
-	<Megatherium_Leather.stuffProps.stuffAdjective>шкіри мегатерія</Megatherium_Leather.stuffProps.stuffAdjective>
-	<Megatherium_Meat.label>м'ясо мегатерія</Megatherium_Meat.label>
-	<Megatherium_Meat.description>Сире м'ясо мегатерія.</Megatherium_Meat.description>
-	<Megatherium_Corpse.label>туша мегатерія</Megatherium_Corpse.label>
-	<Megatherium_Corpse.description>Мертвий мегатерій.</Megatherium_Corpse.description>
   
-	<Thrumbo.label>трамбо</Thrumbo.label>
-	<Thrumbo.description>Велитенська істота невідомого походження. Трамбо миролюбні од природи, але дуже небезпечні вороги, коли розлючені. Довге шовковисте хутро надзвичайно красиве й дороге, а гострі, шпилюваті роги так і взагалі безцінні на більшості ринків. Байки кажуть, що старі трамбо - наймудріші істоти у всесвіту, лише не бажають розмовляти.</Thrumbo.description>
-	<Thrumbo_Leather.label>шкіра трамбо</Thrumbo_Leather.label>
-	<Thrumbo_Leather.description>Шкіра, здерта з трамбо.</Thrumbo_Leather.description>
-	<Thrumbo_Leather.stuffProps.stuffAdjective>шкіри трамбо</Thrumbo_Leather.stuffProps.stuffAdjective>
-	<Thrumbo_Meat.label>м'ясо трамбо</Thrumbo_Meat.label>
-	<Thrumbo_Meat.description>Сире м'ясо трамбо.</Thrumbo_Meat.description>
-	<Thrumbo_Corpse.label>туша трамбо</Thrumbo_Corpse.label>
-	<Thrumbo_Corpse.description>Мертве трамбо.</Thrumbo_Corpse.description>
-
+  <!-- UNUSED -->
+  <Corpse_Megatherium.label>туша мегатерія</Corpse_Megatherium.label>
+  <Corpse_Megatherium.description>Мертвий мегатерій.</Corpse_Megatherium.description>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>слон</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>Найбільша з тварин, що має довжезні та небезпечні бивні.</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>TODO</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>TODO</Elephant.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>TODO</Elephant.tools.right_foot.label>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>TODO</Elephant.tools.head.label>
+  
+  <!-- UNUSED -->
+  <Meat_Megatherium.label>м'ясо мегатерія</Meat_Megatherium.label>
+  <Meat_Megatherium.description>Сире м'ясо мегатерія.</Meat_Megatherium.description>
+  
+  <!-- EN: megasloth -->
+  <Megasloth.label>TODO</Megasloth.label>
+  <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
+  <Megasloth.description>TODO</Megasloth.description>
+  <!-- EN: left claw -->
+  <Megasloth.tools.left_claw.label>TODO</Megasloth.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Megasloth.tools.right_claw.label>TODO</Megasloth.tools.right_claw.label>
+  <!-- EN: head -->
+  <Megasloth.tools.head.label>TODO</Megasloth.tools.head.label>
+  
+  <!-- UNUSED -->
+  <Megatherium.label>мегатерій</Megatherium.label>
+  <Megatherium.description>Вид лінивців, поодиноких травоїдних тварин, які колись мешкали в Америці на старій Землі, де й були знищені. Але багато віків потому їх було повернуто до життя з використанням новітніх технологій клонування.</Megatherium.description>
+  
+  <!-- UNUSED -->
+  <Megatherium_Leather.label>шкіра мегатерія</Megatherium_Leather.label>
+  <Megatherium_Leather.description>Шкіра мегатерія.</Megatherium_Leather.description>
+  <Megatherium_Leather.stuffProps.stuffAdjective>шкіри мегатерія</Megatherium_Leather.stuffProps.stuffAdjective>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>носоріг</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>Цей великий ссавець дуже миролюбний, але він не побоїться напасти, щоб відігнати порушників його власного простору.</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>TODO</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>TODO</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>TODO</Rhinoceros.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>трамбо</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>Велитенська істота невідомого походження. Трамбо миролюбні од природи, але дуже небезпечні вороги, коли розлючені. Довге шовковисте хутро надзвичайно красиве й дороге, а гострі, шпилюваті роги так і взагалі безцінні на більшості ринків. Байки кажуть, що старі трамбо - наймудріші істоти у всесвіту, лише не бажають розмовляти.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>TODO</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>TODO</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>TODO</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>TODO</Thrumbo.tools.head.label>
+  
 </LanguageData>

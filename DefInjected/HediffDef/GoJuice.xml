@@ -1,18 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<GoJuiceHigh.label>під впливом від підйом-соку</GoJuiceHigh.label>
-
-
-	<!-- Go-juice addiction -->
-
-	<GoJuiceTolerance.label>толерантність до підйом-соку</GoJuiceTolerance.label>
-	<GoJuiceTolerance.stages.1.label>слабка</GoJuiceTolerance.stages.1.label>
-	<GoJuiceTolerance.stages.2.label>помірна</GoJuiceTolerance.stages.2.label>
-	<GoJuiceTolerance.stages.3.label>значна</GoJuiceTolerance.stages.3.label>
-
-	<GoJuiceAddiction.label>залежність від підйом-соку</GoJuiceAddiction.label>
-	<GoJuiceAddiction.stages.1.label>ломка</GoJuiceAddiction.stages.1.label>
-
-
+  
+  <!-- EN: go-juice addiction -->
+  <GoJuiceAddiction.label>залежність від підйом-соку</GoJuiceAddiction.label>
+  <!-- EN: withdrawal -->
+  <GoJuiceAddiction.stages.withdrawal.label>ломка</GoJuiceAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.label>під впливом від підйом-соку</GoJuiceHigh.label>
+  <!-- EN: a go-juice high -->
+  <GoJuiceHigh.labelNoun>TODO</GoJuiceHigh.labelNoun>
+  
+  <!-- EN: go-juice tolerance -->
+  <GoJuiceTolerance.label>толерантність до підйом-соку</GoJuiceTolerance.label>
+  <!-- EN: small -->
+  <GoJuiceTolerance.stages.small-0.label>TODO</GoJuiceTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <GoJuiceTolerance.stages.small-1.label>слабка</GoJuiceTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <GoJuiceTolerance.stages.large.label>помірна</GoJuiceTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <GoJuiceTolerance.stages.massive.label>значна</GoJuiceTolerance.stages.massive.label>
+  
 </LanguageData>

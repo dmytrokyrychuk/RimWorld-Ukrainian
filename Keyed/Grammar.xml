@@ -1,25 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<Proits>його</Proits>
-	<Prohis>його</Prohis>
-	<Proher>її</Proher>
-	<ProitsCap>Його</ProitsCap>
-	<ProhisCap>Його</ProhisCap>
-	<ProherCap>Її</ProherCap>
+  <!-- EN: a -->
+  <IndefiniteArticle>TODO</IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle>TODO</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>TODO</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>TODO</DefiniteForm>
 
-	<ProitObj>йому</ProitObj>
-	<ProhimObj>йому</ProhimObj>
-	<ProherObj>їй</ProherObj>
-	<ProitObjCap>Йому</ProitObjCap>
-	<ProhimObjCap>Йому</ProhimObjCap>
-	<ProherObjCap>Їй</ProherObjCap>
+  <!-- EN: its -->
+  <Proits>його</Proits>
+  <!-- EN: his -->
+  <Prohis>його</Prohis>
+  <!-- EN: her -->
+  <Proher>її</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>Його</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>Його</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>Її</ProherCap>
 
-	<Prohe>він</Prohe>
-	<Proshe>вона</Proshe>
-	<Proit>воно</Proit>
-	<ProheCap>Він</ProheCap>
-	<ProsheCap>Вона</ProsheCap>
-	<ProitCap>Воно</ProitCap>
+  <!-- EN: it -->
+  <ProitObj>йому</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>йому</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>їй</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>Йому</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>Йому</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>Їй</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>він</Prohe>
+  <!-- EN: she -->
+  <Proshe>вона</Proshe>
+  <!-- EN: it -->
+  <Proit>воно</Proit>
+  <!-- EN: He -->
+  <ProheCap>Він</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>Вона</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>Воно</ProitCap>
 
 </LanguageData>

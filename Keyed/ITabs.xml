@@ -1,114 +1,304 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
-
-	<TabBills>Завдання</TabBills>
-	<TabGrowing>Ділянка</TabGrowing>
-	<TabCharacter>Риси</TabCharacter>
-	<TabTraining>Навчання</TabTraining>
-	<TabPrisoner>В'язень</TabPrisoner>
-	<TabGuest>Гість</TabGuest>
-	<TabGear>Речі</TabGear>
-	<TabNeeds>Потреби</TabNeeds>
-	<TabStorage>Склад</TabStorage>
-	<TabHealth>Здоров'я</TabHealth>
-	<TabRace>Раса</TabRace>
-	<TabBasics>Головне</TabBasics>
-	<TabStats>Інформація</TabStats>
-	<TabRecords>Записи</TabRecords>
-	<TabArt>Мистецтво</TabArt>
-	<TabSocial>Відносини</TabSocial>
+  <!-- EN: Bills -->
+  <TabBills>Завдання</TabBills>
+  <!-- EN: Growing -->
+  <TabGrowing>Ділянка</TabGrowing>
+  <!-- EN: Bio -->
+  <TabCharacter>Риси</TabCharacter>
+  <!-- EN: Training -->
+  <TabTraining>Навчання</TabTraining>
+  <!-- EN: Prisoner -->
+  <TabPrisoner>В'язень</TabPrisoner>
+  <!-- EN: Guest -->
+  <TabGuest>Гість</TabGuest>
+  <!-- EN: Gear -->
+  <TabGear>Речі</TabGear>
+  <!-- EN: Needs -->
+  <TabNeeds>Потреби</TabNeeds>
+  <!-- EN: Storage -->
+  <TabStorage>Склад</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>TODO</TabShells>
+  <!-- EN: Health -->
+  <TabHealth>Здоров'я</TabHealth>
+  <!-- EN: Race -->
+  <TabRace>Раса</TabRace>
+  <!-- EN: Basics -->
+  <TabBasics>Головне</TabBasics>
+  <!-- EN: Stats -->
+  <TabStats>Інформація</TabStats>
+  <!-- EN: Records -->
+  <TabRecords>Записи</TabRecords>
+  <!-- EN: Art -->
+  <TabArt>Мистецтво</TabArt>
+  <!-- EN: Social -->
+  <TabSocial>Відносини</TabSocial>
+  <!-- EN: Log -->
+  <TabLog>TODO</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>TODO</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>TODO</TabTransporterContents>
 
   <!-- Bills tab  -->
+  <!-- EN: Add bill -->
+  <AddBill>Нове завдання</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
+  <RecipeRequiresSkills>Для того щоб {0} потрібні кращі навички, ніж ті, що мають ваші колоністи, тому ніхто не зможе це зробити.\n\nСпробуйте почати з чогось легшого.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
+  <MinimumSkill>Мін. навички</MinimumSkill>
+  <!-- EN: SUSPENDED -->
+  <SuspendedCaps>ПАУЗА</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>Працівник: {0}</BoundWorkerIs>
+  <!-- EN: Plant -->
+  <PlantVerb>Саджати</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>TODO</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>TODO</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>TODO</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>TODO</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>TODO</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>TODO</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>TODO</PasteBillTip_LimitReached>
 
-	<AddBill>Нове завдання</AddBill>
-	<RecipeRequiresSkills>Для того щоб {0} потрібні кращі навички, ніж ті, що мають ваші колоністи, тому ніхто не зможе це зробити.\n\nСпробуйте почати з чогось легшого.</RecipeRequiresSkills>
-	<MinimumSkill>Мін. навички</MinimumSkill>
-	<SuspendedCaps>ПАУЗА</SuspendedCaps>
-	<BoundWorkerIs>Працівник: {0}</BoundWorkerIs>
-	<PlantVerb>Саджати</PlantVerb>
-
-  <!-- Guest/Prisoner tab -->
-
-	<RecruitmentDifficulty>Складність вербування</RecruitmentDifficulty>
-	<GetsFood>Отримує їжу</GetsFood>
-	<DoctorsCare>Доглядається лікарем</DoctorsCare>
-	<GetsMedicine>Отримує ліки</GetsMedicine>
-	<ShouldTryToRecruit>Вербувати</ShouldTryToRecruit>
-	<PrisonerNoInteraction>Жодної взаємодії</PrisonerNoInteraction>
-	<PrisonerFriendlyChat>Дружня бесіда</PrisonerFriendlyChat>
-	<PrisonerAttemptRecruit>Вербувати</PrisonerAttemptRecruit>
-	<PrisonerRelease>Відпустити</PrisonerRelease>
-	<PrisonerExecution>Стратити</PrisonerExecution>
+  <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>TODO</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
+  <RecruitmentDifficulty>Складність вербування</RecruitmentDifficulty>
+  <!-- EN: Gets food -->
+  <GetsFood>Отримує їжу</GetsFood>
+  <!-- EN: Doctors care -->
+  <DoctorsCare>Доглядається лікарем</DoctorsCare>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>Отримує ліки</GetsMedicine>
+  <!-- EN: Try to recruit -->
+  <ShouldTryToRecruit>Вербувати</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>TODO</ConsideredGuilty>
 
   <!-- Medical - general -->
-
-	<MoveSpeed>Швидкість пересування</MoveSpeed>
-	<Efficiency>Ефективність</Efficiency>
-	<MissingBodyPart>Втрачено</MissingBodyPart>
-	<DestroyedBodyPart>Знищено</DestroyedBodyPart>
-	<ShatteredBodyPart>Розірвано</ShatteredBodyPart>
-	<RemovedBodyPart>Ампутовано</RemovedBodyPart>
-	<Healthy>Здоровий</Healthy>
-	<InPain>Відчуває біль</InPain>
-	<PainLevel>Біль</PainLevel>
-	<Dead>Мертвий</Dead>
-	<Unconscious>Непритомний</Unconscious>
-	<PainShock>В шоці</PainShock>
-	<Injured>Поранений</Injured>
-	<NoInjuries>(поранень немає)</NoInjuries>
-	<WholeBody>Усе тіло</WholeBody>
-	<DataProcessing>Обробка даних</DataProcessing>
-	<Communication>Зв'язок</Communication>
-	<AffectsLower>впливає</AffectsLower>
-	<BleedingRate>Кровотеча</BleedingRate>
-	<HealthOverview>Звіт</HealthOverview>
-	<MedicalOperationsShort>Операції ({0})</MedicalOperationsShort>
-	<MedicalOperationsMechanoidsShort>Модифікації ({0})</MedicalOperationsMechanoidsShort>
-	<MedicalOperations>Медичні операції</MedicalOperations>
-	<Amputate>Ампутувати</Amputate>
-	<Harvest>Вирізати</Harvest>
-	<RemoveOrgan>Видалити</RemoveOrgan>
-	<MemoryLower>пам'ять</MemoryLower>
-	<SocialInteractionsLower>Соціальна взаємодія</SocialInteractionsLower>
-	<HungerRate>Голод</HungerRate>
-	<Tiredness>Втома</Tiredness>
-
+  <!-- EN: Move speed -->
+  <MoveSpeed>Швидкість пересування</MoveSpeed>
+  <!-- EN: Efficiency -->
+  <Efficiency>Ефективність</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>TODO</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>Ефективність частини тіла</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>Втрачено</MissingBodyPart>
+  <!-- EN: Destroyed -->
+  <DestroyedBodyPart>Знищено</DestroyedBodyPart>
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>Розірвано</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>Ампутовано</RemovedBodyPart>
+  <!-- EN: Healthy -->
+  <Healthy>Здоровий</Healthy>
+  <!-- EN: In pain -->
+  <InPain>Відчуває біль</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>Біль</PainLevel>
+  <!-- EN: Injured -->
+  <Injured>Поранений</Injured>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>TODO</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Усе тіло</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>Обробка даних</DataProcessing>
+  <!-- EN: Communication -->
+  <Communication>Зв'язок</Communication>
+  <!-- EN: Affects -->
+  <Affects>TODO</Affects>
+  <!-- EN: Bleeding -->
+  <BleedingRate>Кровотеча</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>TODO</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>TODO</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>Звіт</HealthOverview>
+  <!-- EN: Operations ({0}) -->
+  <MedicalOperationsShort>Операції ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort>Модифікації ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>Медичні операції</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>Ампутувати</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>TODO</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>Видалити</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>пам'ять</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>Соціальна взаємодія</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>Голод</HungerRate>
+  <!-- EN: Tiredness -->
+  <Tiredness>Втома</Tiredness>
+  <!-- EN: Pain -->
+  <PainFactor>TODO</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>TODO</PreventsInfection>
+  <!-- EN: Self-tend -->
+  <SelfTend>TODO</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>TODO</SelfTendTip>
+  
   <!-- Medical - Body and activities condition -->
-
-	<None>Немає</None>
-	<VeryPoor>Жахливо</VeryPoor>
-	<Poor>Погано</Poor>
-	<Weakened>Послабл.</Weakened>
-	<GoodCondition>Добре</GoodCondition>
-	<Enhanced>Покращено</Enhanced>
-	<SeriouslyImpaired>Серйозне поранення</SeriouslyImpaired>
-	<Impaired>Поранення</Impaired>
-	<SlightlyImpaired>Легке поранення</SlightlyImpaired>
-	<NoPain>Немає</NoPain>
-	<LittlePain>Легкий</LittlePain>
-	<MediumPain>Середній</MediumPain>
-	<SeverePain>Сильний</SeverePain>
-	<ExtremePain>Жахливий</ExtremePain>
+  <!-- EN: None -->
+  <None>Немає</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>Жахливо</VeryPoor>
+  <!-- EN: Poor -->
+  <Poor>Погано</Poor>
+  <!-- EN: Weakened -->
+  <Weakened>Послабл.</Weakened>
+  <!-- EN: OK -->
+  <GoodCondition>Добре</GoodCondition>
+  <!-- EN: Enhanced -->
+  <Enhanced>Покращено</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>Серйозне поранення</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>Поранення</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>Легке поранення</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>Немає</NoPain>
+  <!-- EN: Little -->
+  <LittlePain>Легкий</LittlePain>
+  <!-- EN: Medium -->
+  <MediumPain>Середній</MediumPain>
+  <!-- EN: Severe -->
+  <SeverePain>Сильний</SeverePain>
+  <!-- EN: Extreme -->
+  <ExtremePain>Жахливий</ExtremePain>
 
   <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>TODO</Trainability>
+  <!-- EN: Requires trainability {0}. -->
+  <CannotTrainNotSmartEnough>Необхідна здатність до навчання: {0}.</CannotTrainNotSmartEnough>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{0} занадто мали(а), щоб навчатися цьому.</CannotTrainTooSmall>
 
-	<TrainableIntelligence>Здатність до навчання</TrainableIntelligence>
-	<CannotTrainNotSmartEnough>Необхідна здатність до навчання: {0}.</CannotTrainNotSmartEnough>
-	<CannotTrainTooSmall>{0} занадто мали(а), щоб навчатися цьому.</CannotTrainTooSmall>
-
-	<TrainingNeedsPrerequisite>Вимоги: {0}</TrainingNeedsPrerequisite>
-
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>Вимоги: {0}</TrainingNeedsPrerequisite>
+  
   <!-- Social tab -->
+  <!-- EN: (no relationships) -->
+  <NoRelationships>(немає відносин)</NoRelationships>
+  <!-- EN: Kidnapped -->
+  <Kidnapped>Викрадений</Kidnapped>
+  <!-- EN: Missing -->
+  <Missing>TODO</Missing>
+  <!-- EN: Slave -->
+  <Slave>У рабстві</Slave>
+  <!-- EN: Faction leader -->
+  <FactionLeader>Лідер фракції</FactionLeader>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>Ставлення до {0}</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>Ставлення {0} до мене</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>Я мертвий</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>Я псих</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>TODO</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>TODO</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>TODO</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>TODO</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>TODO</ArmorSharp>
+  <!-- EN: Heat -->
+  <ArmorHeat>TODO</ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>TODO</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>TODO</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>TODO</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>TODO</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>TODO</CopyLogTip>
 
-	<NoRelationships>(немає відносин)</NoRelationships>
-	<Kidnapped>Викрадений</Kidnapped>
-	<Slave>У рабстві</Slave>
-	<FactionLeader>Лідер фракції</FactionLeader>
-	<OpinionOf>Ставлення до {0}</OpinionOf>
-	<SomeonesOpinionOfMe>Ставлення {0} до мене</SomeonesOpinionOfMe>
-	<IAmDead>Я мертвий</IAmDead>
-	<IAmPsychopath>Я псих</IAmPsychopath>
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>TODO</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>TODO</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>TODO</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>TODO</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves>TODO</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause>TODO</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>TODO</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>TODO</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>TODO</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>TODO</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>TODO</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>TODO</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>TODO</CaravanAnimals>
+  <!-- EN: Items to load -->
+  <ItemsToLoad>TODO</ItemsToLoad>
+  <!-- EN: Loaded items -->
+  <LoadedItems>TODO</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>TODO</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>TODO</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>TODO</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
+
+  <!-- UNUSED -->
+  <PrisonerNoInteraction>Жодної взаємодії</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Дружня бесіда</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Вербувати</PrisonerAttemptRecruit>
+  <PrisonerRelease>Відпустити</PrisonerRelease>
+  <PrisonerExecution>Стратити</PrisonerExecution>
+  <NoInjuries>(поранень немає)</NoInjuries>
+  <AffectsLower>впливає</AffectsLower>
+  <Harvest>Вирізати</Harvest>
+  <TrainableIntelligence>Здатність до навчання</TrainableIntelligence>
 
 </LanguageData>

@@ -1,19 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<None.label>нічого</None.label>
-	<Room.label>кімната</Room.label>
-	<Bedroom.label>спальня</Bedroom.label>
-	<PrisonCell.label>тюремна камера</PrisonCell.label>
-	<DiningRoom.label>їдальня</DiningRoom.label>
-	<RecRoom.label>кімната відпочинку</RecRoom.label>
-	<Hospital.label>лікарня</Hospital.label>
-	<Laboratory.label>лабораторія</Laboratory.label>
-	<Workshop.label>майстерня</Workshop.label>
-	<Barracks.label>казарма</Barracks.label>
-	<PrisonBarracks.label>в’язниця</PrisonBarracks.label>
-	<Kitchen.label>кухня</Kitchen.label>
-	<Tomb.label>склеп</Tomb.label>
-	<Barn.label>хлів</Barn.label>
-
+  
+  <!-- EN: barn -->
+  <Barn.label>хлів</Barn.label>
+  
+  <!-- EN: barracks -->
+  <Barracks.label>казарма</Barracks.label>
+  
+  <!-- EN: bedroom -->
+  <Bedroom.label>спальня</Bedroom.label>
+  
+  <!-- EN: dining room -->
+  <DiningRoom.label>їдальня</DiningRoom.label>
+  
+  <!-- EN: hospital -->
+  <Hospital.label>лікарня</Hospital.label>
+  
+  <!-- EN: kitchen -->
+  <Kitchen.label>кухня</Kitchen.label>
+  
+  <!-- EN: laboratory -->
+  <Laboratory.label>лабораторія</Laboratory.label>
+  
+  <!-- EN: none -->
+  <None.label>нічого</None.label>
+  
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>в’язниця</PrisonBarracks.label>
+  
+  <!-- EN: prison cell -->
+  <PrisonCell.label>тюремна камера</PrisonCell.label>
+  
+  <!-- EN: rec room -->
+  <RecRoom.label>кімната відпочинку</RecRoom.label>
+  
+  <!-- EN: room -->
+  <Room.label>кімната</Room.label>
+  
+  <!-- EN: tomb -->
+  <Tomb.label>склеп</Tomb.label>
+  
+  <!-- EN: workshop -->
+  <Workshop.label>майстерня</Workshop.label>
+  
 </LanguageData>
