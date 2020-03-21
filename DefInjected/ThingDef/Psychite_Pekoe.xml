@@ -3,8 +3,8 @@
 
   <PsychoidPekoe.label>psychoid pekoe</PsychoidPekoe.label>
   <PsychoidPekoe.description>A fragrant tea which can be drank to induce a weak euphoric effect. Very easy to produce, but be wary of addiction.</PsychoidPekoe.description>
-  <PsychoidPekoe.ingestible.ingestCommandString>Drink {0}</PsychoidPekoe.ingestible.ingestCommandString>
-  <PsychoidPekoe.ingestible.ingestReportString>Drinking {0}.</PsychoidPekoe.ingestible.ingestReportString>
+  <PsychoidPekoe.ingestible.ingestCommandString>Пити {0}</PsychoidPekoe.ingestible.ingestCommandString>
+  <PsychoidPekoe.ingestible.ingestReportString>П'є {0}.</PsychoidPekoe.ingestible.ingestReportString>
 
 
 </LanguageData>
