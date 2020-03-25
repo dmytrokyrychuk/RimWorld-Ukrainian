@@ -39,9 +39,9 @@
   <!-- EN: Gender -->
   <Gender>Стать</Gender>
   <!-- EN: min -->
-  <min>мін</min>
+  <min>не менше</min>
   <!-- EN: max -->
-  <max>макс</max>
+  <max>не більше</max>
   <!-- EN: chance -->
   <chance>шанс</chance>
   <!-- EN: context -->
@@ -79,7 +79,7 @@
   <!-- EN: Average -->
   <Average>Середня</Average>
   <!-- EN: Cause -->
-  <Cause>Cause</Cause>
+  <Cause>Причина</Cause>
   <!-- EN: ${0} -->
   <MoneyFormat>${0}</MoneyFormat>
 
@@ -88,7 +88,7 @@
   <!-- EN: {0} meat -->
   <MeatLabel>{0} м'ясо</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <MeatDesc>Сире оброблене м'ясо. Може бути приготовлене, або з'їдене сирим.</MeatDesc>
+  <MeatDesc>Сире оброблене м'ясо. Можна приготувати, а можна з'їсти сирим.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
   <MeatInsectDesc>Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->

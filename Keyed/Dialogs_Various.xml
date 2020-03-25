@@ -112,9 +112,9 @@
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
   <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
   <!-- EN: Load anyway -->
-  <LoadAnyway>Все одно завантажити</LoadAnyway>
+  <LoadAnyway>Запустити, як є</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Завантажити моди по списку зі файлу збереження</ChangeLoadedMods>
+  <ChangeLoadedMods>Завантажити, як у файлі</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Деякі моди відсутні, тому їх треба спершу встановити,</MissingMods>
   <!-- EN: Official content -->
@@ -359,23 +359,23 @@
   <!-- EN: Min. food quality -->
   <MinFoodQuality>Min. food quality</MinFoodQuality>
   <!-- EN: Diet -->
-  <Diet>Diet</Diet>
+  <Diet>Дієта</Diet>
   <!-- EN: Nutrition need per day -->
   <NutritationEatenPerDay>Nutrition need per day</NutritationEatenPerDay>
   <!-- EN: Leather type -->
-  <LeatherType>Leather type</LeatherType>
+  <LeatherType>Тип шкіри</LeatherType>
   <!-- EN: Body size -->
   <BodySize>Body size</BodySize>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
   <!-- EN: Base price -->
-  <MarketValue>Base price</MarketValue>
+  <MarketValue>Базова ціна</MarketValue>
   <!-- EN: Covers -->
-  <Covers>Covers</Covers>
+  <Covers>Прикриває</Covers>
   <!-- EN: Created at -->
   <CreatedAt>Created at</CreatedAt>
   <!-- EN: Layer -->
-  <Layer>Layer</Layer>
+  <Layer>Шар</Layer>
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
@@ -530,6 +530,8 @@
   <GiftModeTip>Gift mode - offer gifts to {0}.</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>Return to trade mode.</TradeModeTip>
+  <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} не бажає відправляти караван, тому що {NEGOTIATOR_nameDef} не має необхідний титул {TITLE}.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
@@ -733,13 +735,13 @@
   
   <!-- Outfit management -->
   <!-- EN: Outfit -->
-  <Outfit>Outfit</Outfit>
+  <Outfit>Набір одягу</Outfit>
   <!-- EN: Select outfit... -->
-  <SelectOutfit>Select outfit...</SelectOutfit>
+  <SelectOutfit>Вибрати набір одягу...</SelectOutfit>
   <!-- EN: New outfit -->
-  <NewOutfit>New outfit</NewOutfit>
+  <NewOutfit>Новий набір одягу</NewOutfit>
   <!-- EN: Delete outfit... -->
-  <DeleteOutfit>Delete outfit...</DeleteOutfit>
+  <DeleteOutfit>Видалити набір одягу...</DeleteOutfit>
   <!-- EN: Outfit is in use by {0}. -->
   <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
   <!-- EN: No outfit selected -->

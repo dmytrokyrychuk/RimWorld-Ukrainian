@@ -6,11 +6,11 @@
   <!-- EN: Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious. -->
   <Anesthetic.description>Снодійне у крові. Знеболювальні роблять персонажів несвідомими.</Anesthetic.description>
   <!-- EN: wearing off -->
-  <Anesthetic.stages.wearing_off.label>зношування</Anesthetic.stages.wearing_off.label>
+  <Anesthetic.stages.wearing_off.label>спадання</Anesthetic.stages.wearing_off.label>
   <!-- EN: woozy -->
-  <Anesthetic.stages.woozy.label>одурманений</Anesthetic.stages.woozy.label>
+  <Anesthetic.stages.woozy.label>одурманення</Anesthetic.stages.woozy.label>
   <!-- EN: sedated -->
-  <Anesthetic.stages.sedated.label>відключений</Anesthetic.stages.sedated.label>
+  <Anesthetic.stages.sedated.label>відключення</Anesthetic.stages.sedated.label>
   
   <!-- EN: blood loss -->
   <BloodLoss.label>крововтрата</BloodLoss.label>
@@ -19,9 +19,9 @@
   <!-- EN: minor -->
   <BloodLoss.stages.minor-0.label>мала</BloodLoss.stages.minor-0.label>
   <!-- EN: minor -->
-  <BloodLoss.stages.minor-1.label>мала</BloodLoss.stages.minor-1.label>
+  <BloodLoss.stages.minor-1.label>легка</BloodLoss.stages.minor-1.label>
   <!-- EN: moderate -->
-  <BloodLoss.stages.moderate.label>середні</BloodLoss.stages.moderate.label>
+  <BloodLoss.stages.moderate.label>помірна</BloodLoss.stages.moderate.label>
   <!-- EN: severe -->
   <BloodLoss.stages.severe.label>рясна</BloodLoss.stages.severe.label>
   <!-- EN: extreme -->
@@ -44,7 +44,7 @@
   <!-- EN: cryptosleep sickness -->
   <CryptosleepSickness.label>посткрипто-сонна хвороба</CryptosleepSickness.label>
   <!-- EN: After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind. -->
-  <CryptosleepSickness.description>After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind.</CryptosleepSickness.description>
+  <CryptosleepSickness.description>Наслідки використання капсули для кріптосну. Кріптосон призупиняє й замінює багато функцій організму для того, щоб запобігти старінню та смерті. Після виходу з кріптосну, організму потрібен час для запуску і відновлення балансу його природних метаболічних процесів. Поки це триває, пацієнт страждає від нудоти, запаморочення та відчуття нечіткості в розумі.</CryptosleepSickness.description>
   
   <!-- EN: drug overdose -->
   <DrugOverdose.label>передозування</DrugOverdose.label>
@@ -125,7 +125,7 @@
   <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>реанімаційна хвороба</ResurrectionSickness.label>
   <!-- EN: After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves. -->
-  <ResurrectionSickness.description>After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves.</ResurrectionSickness.description>
+  <ResurrectionSickness.description>Наслідки воскресіння ін'єкцією механітів. Штучно запущені процеси потребують часу, щоб відновити баланс.</ResurrectionSickness.description>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>хімічне отруєння</ToxicBuildup.label>
