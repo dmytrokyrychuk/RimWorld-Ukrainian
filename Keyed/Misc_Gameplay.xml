@@ -368,18 +368,18 @@
   <CreatureFollowFieldwork>Охороняти господаря на роботі в полі</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0} з фракцією {1}</ProximitySingleGoodwillChange>
-  <!-- EN: You can't re-enter for another {0} days. -->
-  <EnterCooldown>Ви не можете повторно відвідати це місце ще {0} днів.</EnterCooldown>
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <EnterCooldown>Надто небезпечно відвідувати ще {0}.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>Караван</Caravan>
   <!-- EN: there may be danger there. -->
   <HiddenOrNoSitePartDescription>там може бути небезпека.</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>The scanner is picking up activity around the lump. It's likely hostile.</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
   <PreciousLumpLabel>брила: {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>немає активного дослідницького проєкту</NoActiveResearchProjectToFinish>
-  <!-- EN: Cannot research: No research bench -->
-  <CannotResearchNoBench>Дослідження неможливе: Немає дослідницького столу</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>турель</Turret>
   <!-- EN: turrets -->

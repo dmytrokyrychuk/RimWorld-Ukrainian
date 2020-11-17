@@ -29,7 +29,7 @@
   
   <!-- EN: prisoners -->
   <Prisoners.label>полонені</Prisoners.label>
-  <Prisoners.graphLabelY>Ув'язнені</Prisoners.graphLabelY>
+  <Prisoners.graphLabelY>В'язні</Prisoners.graphLabelY>
   
   <!-- EN: fun points /10 -->
   <ThreatPoints.label>балів щастя /10</ThreatPoints.label>
