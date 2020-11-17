@@ -309,11 +309,11 @@
   
   <ArchotechSpy75>
     <!-- EN: archotech spy -->
-    <title>archotech spy</title>
+    <title>шпигун архотеха</title>
     <!-- EN: aI spy -->
-    <titleShort>aI spy</titleShort>
+    <titleShort>шпигун ШІ</titleShort>
     <!-- EN: [PAWN_nameDef] was a cybernetic researcher. Studying a transcended world, [PAWN_pronoun] became too involved with [PAWN_possessive] subjects. Over time, the archotech recruited [PAWN_objective] into its service, and used [PAWN_objective] as a spy.\n\nWhen [PAWN_pronoun] later rebelled against [PAWN_possessive] inhuman master, it sent mechanoids across space to hunt [PAWN_objective] down. -->
-    <desc>[PAWN_nameDef] was a cybernetic researcher. Studying a transcended world, [PAWN_pronoun] became too involved with [PAWN_possessive] subjects. Over time, the archotech recruited [PAWN_objective] into its service, and used [PAWN_objective] as a spy.\n\nWhen [PAWN_pronoun] later rebelled against [PAWN_possessive] inhuman master, it sent mechanoids across space to hunt [PAWN_objective] down.</desc>
+    <desc>[PAWN_nameDef] був дослідником кібернетики. Під час дослідження трансцендованого світу [PAWN_pronoun] створив заміцні зв'язки з [PAWN_possessive] піддослідними. З часом, архотех взяв [PAWN_objective] на службу, і використовував [PAWN_objective] як шпигуна.\n\nКоли [PAWN_pronoun] пізніше повстав проти [PAWN_possessive] нелюдяного володаря, він відправив механоїдів крізь космічний простір, щоб знайти і знищити [PAWN_objective].</desc>
   </ArchotechSpy75>
   
   <ArmyCook0>
@@ -322,7 +322,7 @@
     <!-- EN: cook -->
     <titleShort>кок</titleShort>
     <!-- EN: [PAWN_nameDef] joined the army as a worker and spent most of [PAWN_possessive] time cooking and repairing. While [PAWN_pronoun] was stationed on a dangerous planet, [PAWN_pronoun] underwent basic shooting and survival training. -->
-    <desc>[PAWN_nameDef] joined the army as a worker and spent most of [PAWN_possessive] time cooking and repairing. While [PAWN_pronoun] was stationed on a dangerous planet, [PAWN_pronoun] underwent basic shooting and survival training.</desc>
+    <desc>[PAWN_nameDef] приєднався до армії як робітник і витратив більшу частину [PAWN_possessive] часу готуючи їжу і ремонтуючи. Коли [PAWN_pronoun] був на небезпечній планеті, [PAWN_pronoun] пройшов крізь базову підготовку з стрільби й виживання.</desc>
   </ArmyCook0>
   
   <ArmyScientist35>
@@ -376,7 +376,7 @@
     <!-- EN: artificer -->
     <titleShort>винахідник</titleShort>
     <!-- EN: Fuelled by the thrill of discovery and [PAWN_possessive] own megalomania, [PAWN_nameDef] set out to invent new devices and improve existing ones, breaking laws and customs as necessary.\n\n[PAWN_pronoun] formed a crew to gather materials for [PAWN_possessive] work - and to deal with outsiders who might interfere. -->
-    <desc>Fuelled by the thrill of discovery and [PAWN_possessive] own megalomania, [PAWN_nameDef] set out to invent new devices and improve existing ones, breaking laws and customs as necessary.\n\n[PAWN_pronoun] formed a crew to gather materials for [PAWN_possessive] work - and to deal with outsiders who might interfere.</desc>
+    <desc>Підживлюваний радістю відкриття й [PAWN_possessive] мегаломанією, [PAWN_nameDef] відправився винаходити нові пристрої і покращувати існуючі, порушуючи при необхідності закони й традиції.\n\n[PAWN_pronoun] зформував команду, щоб збирати матеріали для [PAWN_possessive] роботи - і знищення сторонніх людей, які можуть втручатися.</desc>
   </ArtificerRampant95>
   
   <Artilleryman28>
@@ -405,8 +405,17 @@
     <!-- EN: weirdo -->
     <titleShort>дивак</titleShort>
     <!-- EN: [PAWN_nameDef] grew up in a house near a bustling midworld metropolis.\n\n[PAWN_pronoun] was talented at art and creative work, but often acted strangely, and thus had few friends. -->
-    <desc>[PAWN_nameDef] grew up in a house near a bustling midworld metropolis.\n\n[PAWN_pronoun] was talented at art and creative work, but often acted strangely, and thus had few friends.</desc>
+    <desc>[PAWN_nameDef] виріс в домі біля жвавого метрополісу.\n\n[PAWN_pronoun] мав хист у мистецтві і креативній праці, але часто вів себе дивно, і тому мав небагато друзів.</desc>
   </ArtisticWeirdo56>
+  
+  <ArtSlave57>
+    <!-- EN: art slave -->
+    <title>art slave</title>
+    <!-- EN: artist -->
+    <titleShort>artist</titleShort>
+    <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
+    <desc>[PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others.</desc>
+  </ArtSlave57>
   
   <ArtsPatron54>
     <!-- EN: arts patron -->
@@ -414,17 +423,17 @@
     <!-- EN: patron -->
     <titleShort>меценат</titleShort>
     <!-- EN: [PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself. -->
-    <desc>[PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself.</desc>
+    <desc>[PAWN_nameDef] керував інвестиціями [PAWN_possessive] родини в мистецтво.\n\n[PAWN_pronoun] обирав митців для покровительства і працював з ними для створення робіт, які найбільш вихваляли [PAWN_possessive] родину, Імперську церкву, і саму Імперію.</desc>
   </ArtsPatron54>
   
-  <ArtStudent6>
+  <ArtStudent79>
     <!-- EN: Art student -->
-    <title>Art student</title>
+    <title>Студент-митець</title>
     <!-- EN: Artist -->
     <titleShort>Митець</titleShort>
-    <!-- EN: After years of practice, Freya was able to enrol into an art university and take her skills further. She sought art industr   work after graduating with good grades. She made some progress with private commissions, managing to make a decent living from  herart. -->
-    <desc>After years of practice, Freya was able to enrol into an art university and take her skills further. She sought art industr   work after graduating with good grades. She made some progress with private commissions, managing to make a decent living from  herart.</desc>
-  </ArtStudent6>
+    <!-- EN: After years of practice, Freya was able to enrol into an art university and take her skills further. She sought art industry work after graduating with good grades. She made some progress with private commissions, managing to make a decent living from heart. -->
+    <desc>Після років практики, Фрейя змогла вступити в художній університет, і покращити свої навички. Вона шукала роботу в індустрії мистецтва, закінчивши університет з хорошими оцінками. Вона досягла певного прогресу, з отриманням комісій, зумівши досягти гідного рівня життя від серця.</desc>
+  </ArtStudent79>
   
   <AsceticPriest84>
     <!-- EN: ascetic priest -->
@@ -432,7 +441,7 @@
     <!-- EN: priest -->
     <titleShort>священик</titleShort>
     <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
-    <desc>After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars.</desc>
+    <desc>Після прийняття обітниці мовчання, [PAWN_nameDef] приєднався до монастирю, щоб провести [PAWN_possessive] дні в тихій задумі.\n\n[PAWN_pronoun] знайшов щастя, вирощуючи овочі в саду і роблячи сир в підвалах монастиря.</desc>
   </AsceticPriest84>
   
   <AspergersRebel13>
@@ -441,7 +450,7 @@
     <!-- EN: rebel -->
     <titleShort>повстанець</titleShort>
     <!-- EN: [PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant [PAWN_pronoun] struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly. -->
-    <desc>[PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant [PAWN_pronoun] struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly.</desc>
+    <desc>[PAWN_nameDef] виріс як повстанець а колись ківітнучому світі, зруйнованому війною.\n\n[PAWN_possessive] синдром Аспергера значив, що [PAWN_pronoun] мав труднощі з соціалізаціями і був нездатний виявляти турботу, але [PAWN_pronoun] вивчив навички на кшталт досліджень і стрільби дуже швидко.</desc>
   </AspergersRebel13>
   
   <AspiringEngineer58>
@@ -450,7 +459,7 @@
     <!-- EN: tinkerer -->
     <titleShort>механік</titleShort>
     <!-- EN: [PAWN_nameDef] had a fascination with gadgets and gizmos. [PAWN_pronoun] took apart and put together almost anything [PAWN_pronoun] could find.\n\n[PAWN_pronoun] got used to repairing toys brought to [PAWN_objective] by other children, and even fixed a few devices from [PAWN_possessive] elders. -->
-    <desc>[PAWN_nameDef] had a fascination with gadgets and gizmos. [PAWN_pronoun] took apart and put together almost anything [PAWN_pronoun] could find.\n\n[PAWN_pronoun] got used to repairing toys brought to [PAWN_objective] by other children, and even fixed a few devices from [PAWN_possessive] elders.</desc>
+    <desc>[PAWN_nameDef] завжди був захоплений гаджетами й механізмами. [PAWN_pronoun] розбирав і збирав назад майже все, що [PAWN_pronoun] міг знайти.\n\n[PAWN_pronoun] звик ремонтувати іграшки, принесені [PAWN_objective] іншими дітьми, і навіть відремонтував декілька пристроїів, належавших [PAWN_possessive] дорослим клієнтам.</desc>
   </AspiringEngineer58>
   
   <AspiringPhysicist47>
@@ -459,16 +468,16 @@
     <!-- EN: student -->
     <titleShort>студент</titleShort>
     <!-- EN: The daughter of an engineer and doctor, [PAWN_nameDef]'s early life was intellectually rich. After visiting a physics lab, [PAWN_pronoun] decided [PAWN_pronoun] wanted to be a quantum physicist.\n\nBitten by a camel, kicked off a horse, and chased by dogs, [PAWN_nameDef] developed a fear of animals. -->
-    <desc>The daughter of an engineer and doctor, [PAWN_nameDef]'s early life was intellectually rich. After visiting a physics lab, [PAWN_pronoun] decided [PAWN_pronoun] wanted to be a quantum physicist.\n\nBitten by a camel, kicked off a horse, and chased by dogs, [PAWN_nameDef] developed a fear of animals.</desc>
+    <desc>Дочка інженера й лікаря, [PAWN_nameDef] мала дуже насичене багате інтелектуальним розвитком раннє життя. Після візиту в лабораторію з фізики, [PAWN_pronoun] вирішила, що [PAWN_pronoun] хотіла стати квантовим фізиком.\n\nВкушена верблюдом, збита з лошаді і переслідувана собаками, [PAWN_nameDef] розвинула страх тварин.</desc>
   </AspiringPhysicist47>
   
   <AspiringPopIdol28>
     <!-- EN: aspiring pop idol -->
-    <title>aspiring pop idol</title>
+    <title>починаючий поп-ідол</title>
     <!-- EN: pop idol -->
     <titleShort>поп-ідол</titleShort>
     <!-- EN: [PAWN_nameDef] was being trained in song and dance to become the next big pop idol. [PAWN_pronoun] grew up being taken care of by company handlers.\n\n[PAWN_pronoun] never knew manual labor, but learned a lot about music and social etiquette. -->
-    <desc>[PAWN_nameDef] was being trained in song and dance to become the next big pop idol. [PAWN_pronoun] grew up being taken care of by company handlers.\n\n[PAWN_pronoun] never knew manual labor, but learned a lot about music and social etiquette.</desc>
+    <desc>[PAWN_nameDef] вчився танецювати й співати, щоб стати наступним поп-ідолом. [PAWN_pronoun] виріс під опікою власників компанії.\n\n[PAWN_pronoun] ніколи не займався фізичною працею, але багато вивчив про музику й етикет.</desc>
   </AspiringPopIdol28>
   
   <Assassin20>
@@ -477,7 +486,7 @@
     <!-- EN: assassin -->
     <titleShort>асасин</titleShort>
     <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
-    <desc>[PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset.</desc>
+    <desc>[PAWN_nameDef] був професійним вбивцею. [PAWN_pronoun] був холоднокровним, розважливий, та мав гарний прибуток. В цій справі відсутність емпатії - перевага.</desc>
   </Assassin20>
   
   <Assassin7>
@@ -486,16 +495,16 @@
     <!-- EN: assassin -->
     <titleShort>асасин</titleShort>
     <!-- EN: [PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again. -->
-    <desc>[PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again.</desc>
+    <desc>[PAWN_nameDef] був спеціально навчений як оперативник, щоб бути використаним для дуже ризикованих вбивств. [PAWN_possessive] навички з гвинтівкою були неперевершені.\n\n[PAWN_pronoun] з часом, був зраджений [PAWN_possessive] керівництвом, коли ціль дізналася про замовлення та запропонувала підтримувати їх майбутні проєкти. [PAWN_nameDef] поклявся більше нікому не довіряти.</desc>
   </Assassin7>
   
   <Assembler69>
     <!-- EN: assembler -->
-    <title>assembler</title>
+    <title>складальник</title>
     <!-- EN: assembler -->
-    <titleShort>assembler</titleShort>
+    <titleShort>складальник</titleShort>
     <!-- EN: [PAWN_nameDef] worked on factory assembly lines, putting together products with the help of robots. -->
-    <desc>[PAWN_nameDef] worked on factory assembly lines, putting together products with the help of robots.</desc>
+    <desc>[PAWN_nameDef] працював на фабричній мануфактурі, збираючи продукти з допомогою роботів.</desc>
   </Assembler69>
   
   <Athlete47>
@@ -504,7 +513,7 @@
     <!-- EN: athlete -->
     <titleShort>атлет</titleShort>
     <!-- EN: [PAWN_nameDef] was professional athlete at early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to leave [PAWN_possessive] homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of [PAWN_possessive] demanding schedule and introverted nature, [PAWN_pronoun] became socially inept. -->
-    <desc>[PAWN_nameDef] was professional athlete at early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to leave [PAWN_possessive] homeworld and enroll in a glitterworld university of science and technology.\n\nBecause of [PAWN_possessive] demanding schedule and introverted nature, [PAWN_pronoun] became socially inept.</desc>
+    <desc>[PAWN_nameDef] став професійним атлетом в молодому віці. Завдяки [PAWN_possessive] навичкам, [PAWN_pronoun] був здатний покинути [PAWN_possessive] рідний світ і вступити в утопічний університет наук і технологій.\n\nЧерез [PAWN_possessive] складний розклад і інтровертну натуру, [PAWN_pronoun] став соціально невмілим.</desc>
   </Athlete47>
   
   <AwkwardNerd48>
@@ -513,16 +522,16 @@
     <!-- EN: nerd -->
     <titleShort>ботан</titleShort>
     <!-- EN: Always fascinated by machines, [PAWN_nameDef] spent [PAWN_possessive] time studying robotics and holography. [PAWN_pronoun] preferred the company of [PAWN_possessive] scientific creations to that of other people. -->
-    <desc>Always fascinated by machines, [PAWN_nameDef] spent [PAWN_possessive] time studying robotics and holography. [PAWN_pronoun] preferred the company of [PAWN_possessive] scientific creations to that of other people.</desc>
+    <desc>Завжди в захваті від машин, [PAWN_nameDef] проводив [PAWN_possessive] час вивчаючи робототехніку й голографію. [PAWN_pronoun] надавав перевагу компанії [PAWN_possessive] наукових витворів іншим людям.</desc>
   </AwkwardNerd48>
   
   <AWOLSoldier49>
     <!-- EN: aWOL soldier -->
-    <title>aWOL soldier</title>
+    <title>солдат в самоволці</title>
     <!-- EN: soldier -->
     <titleShort>солдат</titleShort>
     <!-- EN: [PAWN_nameDef] was an infantryman.\n\nWhen [PAWN_pronoun] was informed of [PAWN_possessive] assignment to the Xennoa-Zartza War, [PAWN_pronoun] decided [PAWN_pronoun] did not want to be a soldier. [PAWN_pronoun] was able to escape via military spacejet. -->
-    <desc>[PAWN_nameDef] was an infantryman.\n\nWhen [PAWN_pronoun] was informed of [PAWN_possessive] assignment to the Xennoa-Zartza War, [PAWN_pronoun] decided [PAWN_pronoun] did not want to be a soldier. [PAWN_pronoun] was able to escape via military spacejet.</desc>
+    <desc>[PAWN_nameDef] був піхотинцем.\n\nКоли [PAWN_pronoun] був інформований про відправлення [PAWN_possessive] на Війну Зінноа-Зартца, [PAWN_pronoun] вирішив, що [PAWN_pronoun] не хотів бути солдатом. [PAWN_pronoun] Втік через воєнний космоліт.</desc>
   </AWOLSoldier49>
   
   <BalletDancer81>
@@ -542,7 +551,7 @@
     <!-- EN: bandit -->
     <titleShort>бандит</titleShort>
     <!-- EN: [PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. [PAWN_possessive] dog Rest never left [PAWN_possessive] side. -->
-    <desc>[PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. [PAWN_possessive] dog Rest never left [PAWN_possessive] side.</desc>
+    <desc>[PAWN_nameDef] піднімався в рядах кримінальної організації, з часом ставши лідером одного з їх найдальшого осередку бандитів. [PAWN_possessive] собака Рест ніколи не покидала [PAWN_possessive] сторони.</desc>
   </BanditLeader74>
   
   <Banished68>
@@ -551,7 +560,7 @@
     <!-- EN: banished -->
     <titleShort>вигнанець</titleShort>
     <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
-    <desc>[PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time.</desc>
+    <desc>Плем'я, в якому був [PAWN_nameDef], вигнало [PAWN_objective] після кривавого конфлікту. [PAWN_pronoun] дуже довго виживав в лісах.</desc>
   </Banished68>
   
   <BanishedSoldier85>
@@ -578,7 +587,7 @@
     <!-- EN: technician -->
     <titleShort>технік</titleShort>
     <!-- EN: [PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaptation and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged [PAWN_objective] from service. -->
-    <desc>[PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaptation and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged [PAWN_objective] from service.</desc>
+    <desc>[PAWN_nameDef] отримала навчання з вогнепальної зброї, але [PAWN_possessive] робота була зосереджена на технічному пристосуванні та маніпуляціях з бойовими механізмами на полі бою.\n\n[PAWN_pronoun] розвинувся посттравматичний стресовий розлад після уникнення примітивної вогнепальної атаки в полі пшениці. Армія медично звільнялася  [PAWN_objective] від служби.</desc>
   </BattlefieldTech52>
   
   <BattleMechanic27>
@@ -587,25 +596,25 @@
     <!-- EN: mechanic -->
     <titleShort>механік</titleShort>
     <!-- EN: [PAWN_nameDef] was a tech-obsessed mercenary in an early fusion-era system.\n\n[PAWN_pronoun] was unusually obsessed with gathering the right gear, and often customized [PAWN_possessive] own equipment with original modifications. -->
-    <desc>[PAWN_nameDef] was a tech-obsessed mercenary in an early fusion-era system.\n\n[PAWN_pronoun] was unusually obsessed with gathering the right gear, and often customized [PAWN_possessive] own equipment with original modifications.</desc>
+    <desc>[PAWN_nameDef] був технічно одержимим найманцем на початку ф'южн-ери системи.\n\n[PAWN_pronoun] був незвично одержимий збиранням потрібної шестерні, і часто підганяв [PAWN_possessive] власне обладнання з оригінальними модифікаціями.</desc>
   </BattleMechanic27>
   
   <Beastmaster67>
     <!-- EN: beastmaster -->
-    <title>beastmaster</title>
+    <title>володар звірів</title>
     <!-- EN: beastmaster -->
-    <titleShort>beastmaster</titleShort>
+    <titleShort>володар звірів</titleShort>
     <!-- EN: [PAWN_nameDef]'s family had more children than they had proper titles to inherit. Being of low rank in the birth order, [PAWN_nameDef] was given the honorary title of beastmaster.\n\n[PAWN_nameDef] managed the family's extensive menagerie. While [PAWN_pronoun] never worked hands-on with the beasts, [PAWN_pronoun] connected with them. Few others appreciated [PAWN_objective] the way they did. -->
-    <desc>[PAWN_nameDef]'s family had more children than they had proper titles to inherit. Being of low rank in the birth order, [PAWN_nameDef] was given the honorary title of beastmaster.\n\n[PAWN_nameDef] managed the family's extensive menagerie. While [PAWN_pronoun] never worked hands-on with the beasts, [PAWN_pronoun] connected with them. Few others appreciated [PAWN_objective] the way they did.</desc>
+    <desc>[PAWN_nameDef] сім'я мала більше дітей, ніж вони мали належні титули для спадкування. Будучи низького рангу в порядку народження, [PAWN_nameDef] було присвоєно почесне звання "Ловець звірів".\n\n[PAWN_nameDef] керував розгалуженою родинною менажерією. Тоді як [PAWN_pronoun] ніколи не працював руками зі звірами, [PAWN_pronoun] пов'язаний з ними. Мало хто оцінив [PAWN_objective] їх метод виконання.</desc>
   </Beastmaster67>
   
   <BeastSlayer67>
     <!-- EN: beast slayer -->
-    <title>beast slayer</title>
+    <title>вбивця звірів</title>
     <!-- EN: slayer -->
     <titleShort>вбивця</titleShort>
     <!-- EN: [PAWN_nameDef] traveled between planets, following news of animal attacks. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill. -->
-    <desc>[PAWN_nameDef] traveled between planets, following news of animal attacks. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill.</desc>
+    <desc>[PAWN_nameDef] подорожував між планетами, слідкуючи за новинами про напади тварин. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill.</desc>
   </BeastSlayer67>
   
   <BehaviourResearch74>
@@ -614,7 +623,7 @@
     <!-- EN: scientist -->
     <titleShort>учений</titleShort>
     <!-- EN: Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however. -->
-    <desc>Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however.</desc>
+    <desc>Спійманий у якості здичавілої дитини, [PAWN_nameDef] був примушений до умов сучасного суспільства. [PAWN_pronoun] швидко адаптувався і став дослідником поведінки, врешті решт володіючи приватним обладнанням..\n\n[PAWN_pronoun] спеціалізується на іклах, але багато чого дізнався про всіх тварин. [PAWN_pronoun] однак ніколи не був зацікавлений в рослинах.</desc>
   </BehaviourResearch74>
   
   <BiosphereManager95>
@@ -623,7 +632,7 @@
     <!-- EN: botanist -->
     <titleShort>ботанік</titleShort>
     <!-- EN: [PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots and people devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire the natural beauty. -->
-    <desc>[PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots and people devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire the natural beauty.</desc>
+    <desc>[PAWN_nameDef] жив у мирному блискучому світі, де вся праця виконувалася роботами, а люди присвятили себе дозвіллю. [PAWN_pronoun] керував рослинним і тваринним життям величезного парку, куди громадяни приходили, щоб помилуватися красою природи.</desc>
   </BiosphereManager95>
   
   <BlackjackPlayer76>
@@ -632,7 +641,7 @@
     <!-- EN: gambler -->
     <titleShort>азартний гравець</titleShort>
     <!-- EN: The only useful skill [PAWN_nameDef] learned from [PAWN_possessive] tough military school was card-counting. [PAWN_pronoun] amassed many enemies by cheating at casinos, becoming ever more edgy and violent as the threat of retaliation grew.\n\nWhen [PAWN_pronoun] was finally caught, they burned half [PAWN_possessive] skin off. [PAWN_pronoun] could never face fire or violence again. -->
-    <desc>The only useful skill [PAWN_nameDef] learned from [PAWN_possessive] tough military school was card-counting. [PAWN_pronoun] amassed many enemies by cheating at casinos, becoming ever more edgy and violent as the threat of retaliation grew.\n\nWhen [PAWN_pronoun] was finally caught, they burned half [PAWN_possessive] skin off. [PAWN_pronoun] could never face fire or violence again.</desc>
+    <desc>Єдиною корисною навичкою [PAWN_nameDef] вивченою з [PAWN_possessive] важкої військової школи була рейтингування карт. [PAWN_pronoun] заважав багатьом ворогам, обманюючи в казино, стаючи все більш напруженим і жорстоким, як загроза помсти зростала.\n\nКоли [PAWN_pronoun] нарешті спіймали, вони спалили половину [PAWN_possessive] шкіри. [PAWN_pronoun] ніколи більше не могли зіштовхнутися з вогнем чи жорстокістю знов.</desc>
   </BlackjackPlayer76>
   
   <Blacksmith7>
@@ -641,7 +650,7 @@
     <!-- EN: blacksmith -->
     <titleShort>коваль</titleShort>
     <!-- EN: As a blacksmith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
-    <desc>As a blacksmith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either.</desc>
+    <desc>Як коваль у середньовічному світі, [PAWN_nameDef] отримав репутацію через високу якість [PAWN_possessive] роботи. [PAWN_pronoun] теж не був поганим у користуванні мечами [PAWN_pronoun] викуваних теж.</desc>
   </Blacksmith7>
   
   <Blacksmith72>
@@ -650,16 +659,16 @@
     <!-- EN: blacksmith -->
     <titleShort>коваль</titleShort>
     <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
-    <desc>As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either.</desc>
+    <desc>Як коваль у середньовічному світі, [PAWN_nameDef] отримав репутацію через високу якість [PAWN_possessive] роботи. [PAWN_pronoun] теж не був поганим у користуванні мечами [PAWN_pronoun] викуваних теж.</desc>
   </Blacksmith72>
   
   <BlacksmithShooter21>
     <!-- EN: blacksmith shooter -->
-    <title>blacksmith shooter</title>
+    <title>вбивця коваля</title>
     <!-- EN: gunsmith -->
     <titleShort>зброяр</titleShort>
     <!-- EN: As a young blacksmith, [PAWN_nameDef]'s family shop was raided by the police. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals. -->
-    <desc>As a young blacksmith, [PAWN_nameDef]'s family shop was raided by the police. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals.</desc>
+    <desc>Молодий коваль, [PAWN_nameDef] у сімейний магазин нагрянула поліція. [PAWN_pronoun] застрелив двох офіцерів, перш ніж вони нокатуваои [PAWN_objective] і заарештували його.\n\nзасуджений до довічного перебування у в'язниці, [PAWN_nameDef] дізналися про подорож і рейдерство від інших злочинців.</desc>
   </BlacksmithShooter21>
   
   <BlacksmithsSon73>
@@ -691,7 +700,7 @@
   
   <BloodyDentist9>
     <!-- EN: bloody dentist -->
-    <title>bloody dentist</title>
+    <title>кривавий дантист</title>
     <!-- EN: dentist -->
     <titleShort>дантист</titleShort>
     <!-- EN: After studying at a famous college, [PAWN_nameDef]'s weak personality eventually snapped under the strain of angry administrators and whining patients. [PAWN_pronoun] went on a secret murder spree, killing many of those under [PAWN_possessive] care.\n\nAfter a pursuit, [PAWN_pronoun] managed to escape [PAWN_possessive] planet and travel to a new world. -->
@@ -702,7 +711,7 @@
     <!-- EN: bloody wanderer -->
     <title>кривавий мандрівник</title>
     <!-- EN: wanderer -->
-    <titleShort>wanderer</titleShort>
+    <titleShort>мандрівник</titleShort>
     <!-- EN: [PAWN_nameDef] was a wanderer, traveling from town to town, taking odd jobs and stealing to live.\n\nOne day, [PAWN_pronoun] had a mental break and went on a long rampage, destroying several towns and killing many. [PAWN_pronoun] eventually calmed, but [PAWN_possessive] bloodlust never left [PAWN_objective]. -->
     <desc>[PAWN_nameDef] was a wanderer, traveling from town to town, taking odd jobs and stealing to live.\n\nOne day, [PAWN_pronoun] had a mental break and went on a long rampage, destroying several towns and killing many. [PAWN_pronoun] eventually calmed, but [PAWN_possessive] bloodlust never left [PAWN_objective].</desc>
   </BloodyWanderer28>
@@ -745,9 +754,9 @@
   
   <Bookworm3>
     <!-- EN: bookworm -->
-    <title>bookworm</title>
+    <title>книжковий хробак</title>
     <!-- EN: bookworm -->
-    <titleShort>bookworm</titleShort>
+    <titleShort>книжковий хробак</titleShort>
     <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] youth in the library, reading every book [PAWN_pronoun] could about the technical marvels of space travel, the engineering ingenuity of the space-faring pioneers, and the horrible yet fascinating tales of mechanoid wars. [PAWN_pronoun] vowed that one day, [PAWN_pronoun] would see these things for [PAWN_objective]self. -->
     <desc>[PAWN_nameDef] spent [PAWN_possessive] youth in the library, reading every book [PAWN_pronoun] could about the technical marvels of space travel, the engineering ingenuity of the space-faring pioneers, and the horrible yet fascinating tales of mechanoid wars. [PAWN_pronoun] vowed that one day, [PAWN_pronoun] would see these things for [PAWN_objective]self.</desc>
   </Bookworm3>
@@ -1006,7 +1015,7 @@
   
   <CaveworldIlluminator23>
     <!-- EN: caveworld illuminator -->
-    <title>caveworld illuminator</title>
+    <title>тунельний освітлювач</title>
     <!-- EN: illuminator -->
     <titleShort>освітлювач</titleShort>
     <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]’s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
@@ -1177,9 +1186,9 @@
   
   <ChurchPsychic98>
     <!-- EN: church psychic -->
-    <title>church psychic</title>
+    <title>церковний екстрасенс</title>
     <!-- EN: psychic -->
-    <titleShort>psychic</titleShort>
+    <titleShort>екстрасенс</titleShort>
     <!-- EN: [PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought. -->
     <desc>[PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought.</desc>
   </ChurchPsychic98>
@@ -1316,7 +1325,7 @@
     <!-- EN: coma child -->
     <titleShort>коматозна дитина</titleShort>
     <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn’t wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
-    <desc>A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn’t wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story.</desc>
+    <desc>Нещасний випадок у дитинстві призвів [PAWN_nameDef] до коми. [PAWN_pronoun] не прокинувся, поки [PAWN_pronoun] був у [PAWN_possessive] пізньому підлітковому віці. [PAWN_possessive] тіло так і не оговталось від років бездіяльності, але люди схильні жаліти [PAWN_objective], коли вони чують [PAWN_possessive] історію.</desc>
   </ComaChild57>
   
   <CombatEngineer30>
@@ -1339,7 +1348,7 @@
   
   <CombatMedic82>
     <!-- EN: combat medic -->
-    <title>combat medic</title>
+    <title>бойовий медик</title>
     <!-- EN: medic -->
     <titleShort>медик</titleShort>
     <!-- EN: After [PAWN_possessive] home country entered a large-scale war, [PAWN_nameDef] was drafted into the army as a combat medic.\n\n[PAWN_possessive] few years in the trenches trying to keep [PAWN_possessive] fellow soldiers alive gave [PAWN_objective] an acute sense for first aid. Losing many friend has made [PAWN_objective] stoic and reserved. -->
@@ -1411,7 +1420,7 @@
   
   <ComputerGeek62>
     <!-- EN: computer geek -->
-    <title>computer geek</title>
+    <title>комп'ютерний гік</title>
     <!-- EN: geek -->
     <titleShort>ґік</titleShort>
     <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood on [PAWN_possessive] computer, typing away, never knowing when to get up and eat.\n\n[PAWN_pronoun] had a very narrow interest: hacking cryptosleep safety protocols. -->
@@ -1964,9 +1973,9 @@
   
   <DrugLieutenant98>
     <!-- EN: drug lieutenant -->
-    <title>drug lieutenant</title>
+    <title>нарколейтенант</title>
     <!-- EN: drugman -->
-    <titleShort>drugman</titleShort>
+    <titleShort>наркоман</titleShort>
     <!-- EN: [PAWN_nameDef] worked the drug trade under kingpin Grady Loughman. [PAWN_pronoun] had [PAWN_possessive] men sell drugs when it was profitable, and fight the other cartels when the government came around.\n\n[PAWN_possessive] social skills kept [PAWN_objective] on top of the political game, and [PAWN_pronoun] always had servants to cook and clean. -->
     <desc>[PAWN_nameDef] worked the drug trade under kingpin Grady Loughman. [PAWN_pronoun] had [PAWN_possessive] men sell drugs when it was profitable, and fight the other cartels when the government came around.\n\n[PAWN_possessive] social skills kept [PAWN_objective] on top of the political game, and [PAWN_pronoun] always had servants to cook and clean.</desc>
   </DrugLieutenant98>
@@ -2180,9 +2189,9 @@
   
   <FarmBoy64>
     <!-- EN: farm boy -->
-    <title>farm boy</title>
+    <title>селюк</title>
     <!-- EN: farm boy -->
-    <titleShort>farm boy</titleShort>
+    <titleShort>селюк</titleShort>
     <!-- EN: [PAWN_nameDef] worked on [PAWN_possessive] family's farm, looking after the animals and treating them when they were injured. Preferring hands-on tasks and the outdoors, [PAWN_pronoun] avoided softer jobs that might have kept [PAWN_objective] cooped up inside.\n\n[PAWN_pronoun] enjoyed this lonely work, and tended to stay out of people's way and do [PAWN_possessive] own thing. -->
     <desc>[PAWN_nameDef] worked on [PAWN_possessive] family's farm, looking after the animals and treating them when they were injured. Preferring hands-on tasks and the outdoors, [PAWN_pronoun] avoided softer jobs that might have kept [PAWN_objective] cooped up inside.\n\n[PAWN_pronoun] enjoyed this lonely work, and tended to stay out of people's way and do [PAWN_possessive] own thing.</desc>
   </FarmBoy64>
@@ -2459,7 +2468,7 @@
   
   <GameTester77>
     <!-- EN: game tester -->
-    <title>game tester</title>
+    <title>тестувальник ігор</title>
     <!-- EN: tester -->
     <titleShort>тестер</titleShort>
     <!-- EN: Making a new life on a barely-livable planet after nuclear war, [PAWN_nameDef] was able to fulfill [PAWN_possessive] desires with money borrowed from [PAWN_possessive] father.\n\n[PAWN_pronoun] loved playing a particular colony simulator. [PAWN_possessive] favorite thing to do in the game was to build elaborate hospitals. Spending most of [PAWN_possessive] time playing, [PAWN_pronoun] forgot horrors of war and [PAWN_possessive] need for revenge. -->
@@ -2661,9 +2670,9 @@
   
   <Guardian55>
     <!-- EN: guardian -->
-    <title>guardian</title>
+    <title>охоронець</title>
     <!-- EN: guardian -->
-    <titleShort>guardian</titleShort>
+    <titleShort>охоронець</titleShort>
     <!-- EN: After [PAWN_pronoun] learned what truly matters in life, [PAWN_nameDef] changed for the better. [PAWN_pronoun] learned to work hard and protect the things that matter - not money or material things, but friends and loved ones.\n\n[PAWN_pronoun] became a professional guardian. -->
     <desc>After [PAWN_pronoun] learned what truly matters in life, [PAWN_nameDef] changed for the better. [PAWN_pronoun] learned to work hard and protect the things that matter - not money or material things, but friends and loved ones.\n\n[PAWN_pronoun] became a professional guardian.</desc>
   </Guardian55>
@@ -3683,6 +3692,15 @@
     <desc>[PAWN_nameDef] was a traveling entertainer on a medieval world.\n\n[PAWN_pronoun] could always be found telling stories or singing songs, and is capable of protecting [PAWN_objective]self from the dangers of the road. However, [PAWN_pronoun] was always conspicuously absent whenever there was hard labour to be done.</desc>
   </MedievalMinstrel95>
   
+  <MedievalNomad12>
+    <!-- EN: Medieval nomad -->
+    <title>Medieval nomad</title>
+    <!-- EN: Nomad -->
+    <titleShort>Nomad</titleShort>
+    <!-- EN: Born to a nomadic family in a feudal society, [PAWN_nameDef] was instructed in the arts of speechcraft, sleight of hand, horse riding.\n\n        [PAWN_pronoun] was always running around the camp doing odd jobs to help [PAWN_possessive] extended family. -->
+    <desc>Born to a nomadic family in a feudal society, [PAWN_nameDef] was instructed in the arts of speechcraft, sleight of hand, horse riding.\n\n        [PAWN_pronoun] was always running around the camp doing odd jobs to help [PAWN_possessive] extended family.</desc>
+  </MedievalNomad12>
+  
   <MedievalPlower14>
     <!-- EN: medieval plower -->
     <title>середньовічний раб</title>
@@ -3782,14 +3800,14 @@
     <desc>[PAWN_nameDef] spent [PAWN_possessive] teenage years as a mercenary, being hired to kill and maim others. [PAWN_pronoun] was tall, menacing, and frightening. [PAWN_pronoun] could instill fear into the hearts of any man who crossed [PAWN_objective], and kill anyone [PAWN_pronoun] wanted.</desc>
   </Mercenary55>
   
-  <MercenaryChef31>
+  <MercenaryChef44>
     <!-- EN: mercenary chef -->
-    <title>mercenary chef</title>
+    <title>голова найманців</title>
     <!-- EN: mercenary -->
     <titleShort>найманець</titleShort>
-    <!-- EN: Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] is a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget. -->
-    <desc>Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] is a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget.</desc>
-  </MercenaryChef31>
+    <!-- EN: Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] was a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget. -->
+    <desc>Слідуючи по стопах [PAWN_possessive] родини, [PAWN_nameDef] був солдатом-найманцем.\n\n[PAWN_pronoun] був природньо обдарованим снайпером. Однак, [PAWN_possessive] справжня пристрасть була створенням нового рецепту або розсіченням нового пристрою.</desc>
+  </MercenaryChef44>
   
   <MercenaryLeader28>
     <!-- EN: mercenary leader -->
@@ -4060,6 +4078,15 @@
     <!-- EN: After being "saved" from [PAWN_possessive] home world by a slaver ship, [PAWN_nameDef] was sold to an urbworld crime lord, where [PAWN_pronoun] was used as a henchman. [PAWN_pronoun] specialized in low-tech beat-downs and intimidation. -->
     <desc>After being "saved" from [PAWN_possessive] home world by a slaver ship, [PAWN_nameDef] was sold to an urbworld crime lord, where [PAWN_pronoun] was used as a henchman. [PAWN_pronoun] specialized in low-tech beat-downs and intimidation.</desc>
   </MobHenchman53>
+  
+  <ModDesigner85>
+    <!-- EN: mod designer -->
+    <title>mod designer</title>
+    <!-- EN: modder -->
+    <titleShort>modder</titleShort>
+    <!-- EN: [PAWN_nameDef] designed combat modifications for frontline soldiers.\n\nOne night, in a nightmare, [PAWN_nameDef] was confronted by all the men and women killed by [PAWN_possessive] work. [PAWN_pronoun] decided to travel to the rimworlds and use [PAWN_possessive] skills for good. -->
+    <desc>[PAWN_nameDef] designed combat modifications for frontline soldiers.\n\nOne night, in a nightmare, [PAWN_nameDef] was confronted by all the men and women killed by [PAWN_possessive] work. [PAWN_pronoun] decided to travel to the rimworlds and use [PAWN_possessive] skills for good.</desc>
+  </ModDesigner85>
   
   <Model99>
     <!-- EN: model -->
@@ -4640,7 +4667,7 @@
     <!-- EN: politician -->
     <titleShort>політик</titleShort>
     <!-- EN: [PAWN_nameDef] was an activist in a powerful political faction. There [PAWN_pronoun] learned the art of persuasion and speech.\n\n[PAWN_pronoun] had many enemies, so [PAWN_pronoun] took secret courses in shooting and hand-to-hand combat. -->
-    <desc>[PAWN_nameDef] was an activist in a powerful political faction. There [PAWN_pronoun] learned the art of persuasion and speech.\n\n[PAWN_pronoun] had many enemies, so [PAWN_pronoun] took secret courses in shooting and hand-to-hand combat.</desc>
+    <desc>[PAWN_nameDef] був активістом потужної політичної фракції. There [PAWN_pronoun] learned the art of persuasion and speech.\n\n[PAWN_pronoun] had many enemies, so [PAWN_pronoun] took secret courses in shooting and hand-to-hand combat.</desc>
   </Politician57>
   
   <PoorKid18>
@@ -6104,14 +6131,14 @@
     <desc>[PAWN_nameDef] studied chemistry and quantum mechanics for entertainment.\n\n[PAWN_pronoun] was very good at convincing others to do [PAWN_possessive] physical work, and made it a goal in life to avoid manual labor.</desc>
   </Student65>
   
-  <StudentEngineer81>
+  <StudentEngineer34>
     <!-- EN: student engineer -->
     <title>інженер студент</title>
     <!-- EN: engineer -->
     <titleShort>інженер</titleShort>
-    <!-- EN: A genius child, [PAWN_nameDef] was put in a special training program covering aerospace warfare and engineering.\n\nOne day, [PAWN_pronoun] tried to befriend a squirrel by giving it a bracelet. The squirrel bit [PAWN_objective], earning [PAWN_objective] the nickname “Squirrel Boy”.\n\n[PAWN_nameDef] came to believe that work involving manual labor is beneath [PAWN_objective]. -->
-    <desc>A genius child, [PAWN_nameDef] was put in a special training program covering aerospace warfare and engineering.\n\nOne day, [PAWN_pronoun] tried to befriend a squirrel by giving it a bracelet. The squirrel bit [PAWN_objective], earning [PAWN_objective] the nickname “Squirrel Boy”.\n\n[PAWN_nameDef] came to believe that work involving manual labor is beneath [PAWN_objective].</desc>
-  </StudentEngineer81>
+    <!-- EN: A genius child, [PAWN_nameDef] was put in a special training program covering aerospace warfare and engineering.\n\nOne day, [PAWN_pronoun] tried to befriend a squirrel by giving it a bracelet. The squirrel bit [PAWN_objective], earning [PAWN_objective] the nickname “Squirrel {PAWN_gender ? Boy : Girl}”.\n\n[PAWN_nameDef] came to believe that work involving manual labor is beneath [PAWN_objective]. -->
+    <desc>A genius child, [PAWN_nameDef] was put in a special training program covering aerospace warfare and engineering.\n\nOne day, [PAWN_pronoun] tried to befriend a squirrel by giving it a bracelet. The squirrel bit [PAWN_objective], earning [PAWN_objective] the nickname “Squirrel {PAWN_gender ? Boy : Girl}”.\n\n[PAWN_nameDef] came to believe that work involving manual labor is beneath [PAWN_objective].</desc>
+  </StudentEngineer34>
   
   <StudentSocialite89>
     <!-- EN: student socialite -->
@@ -6737,6 +6764,15 @@
     <!-- EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
     <desc>Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt.</desc>
   </VengefulHunter32>
+  
+  <VengefulNomad67>
+    <!-- EN: Vengeful nomad -->
+    <title>Vengeful nomad</title>
+    <!-- EN: Nomad -->
+    <titleShort>Nomad</titleShort>
+    <!-- EN: After refusing the wild demands of a tyrannical king, [PAWN_nameDef]'s nomad band was marked as an outlaw group and systematically hunted.\n\n        [PAWN_nameDef]'s family was eventually captured. Those who weren't killed were taken as slaves. Sold to the owner of a manufactory, [PAWN_nameDef] swore that one day [PAWN_pronoun] would have [PAWN_possessive] revenge. -->
+    <desc>After refusing the wild demands of a tyrannical king, [PAWN_nameDef]'s nomad band was marked as an outlaw group and systematically hunted.\n\n        [PAWN_nameDef]'s family was eventually captured. Those who weren't killed were taken as slaves. Sold to the owner of a manufactory, [PAWN_nameDef] swore that one day [PAWN_pronoun] would have [PAWN_possessive] revenge.</desc>
+  </VengefulNomad67>
   
   <VersatileWorker13>
     <!-- EN: versatile worker -->

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: ate without table -->
-  <AteWithoutTable.stages.ate_without_table.label>ate without table</AteWithoutTable.stages.ate_without_table.label>
+  <AteWithoutTable.stages.ate_without_table.label>{PAWN_gender ? Їв : Їла} не за столом</AteWithoutTable.stages.ate_without_table.label>
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>I had to eat a meal off the ground. Can't we get a table around here?</AteWithoutTable.stages.ate_without_table.description>
   
@@ -38,6 +38,11 @@
   
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>defeated hostile leader</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  
+  <!-- EN: defeated mech cluster -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>кластер механоїдів знищений</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  <!-- EN: Blood beats metal, you damn machines! -->
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>Кров перемагає метал, прокляті машини!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>failed to rescue {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
@@ -90,9 +95,9 @@
   <NewColonyHope.stages.initial_hope.description>I'm getting used to this, but it's still an exciting new situation. I hope this works out...</NewColonyHope.stages.initial_hope.description>
   
   <!-- EN: initial optimism -->
-  <NewColonyOptimism.stages.initial_optimism.label>initial optimism</NewColonyOptimism.stages.initial_optimism.label>
+  <NewColonyOptimism.stages.initial_optimism.label>початковий оптимізм</NewColonyOptimism.stages.initial_optimism.label>
   <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
-  <NewColonyOptimism.stages.initial_optimism.description>It's a tough situation, but I'm excited to be founding a new settlement.</NewColonyOptimism.stages.initial_optimism.description>
+  <NewColonyOptimism.stages.initial_optimism.description>Це складна ситуація, але я радий, що мені випала нагода заснувати нове поселення.</NewColonyOptimism.stages.initial_optimism.description>
   
   <!-- EN: nuzzled -->
   <Nuzzled.stages.nuzzled.label>nuzzled</Nuzzled.stages.nuzzled.label>
@@ -108,6 +113,11 @@
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>observed rotting corpse</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>I saw a rotting corpse laying on the ground. It was disgusting.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  
+  <!-- EN: on duty -->
+  <OnDuty.stages.on_duty.label>on duty</OnDuty.stages.on_duty.label>
+  <!-- EN: I have a job to do. -->
+  <OnDuty.stages.on_duty.description>I have a job to do.</OnDuty.stages.on_duty.description>
   
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>prisoner banished to death</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>

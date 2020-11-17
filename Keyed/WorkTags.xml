@@ -28,14 +28,16 @@
   <!-- EN: cleaning -->
   <WorkTagCleaning>чищення</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>перетяжка</WorkTagHauling>
+  <WorkTagHauling>перенесення</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>робота заводу</WorkTagPlantWork>
+  <WorkTagPlantWork>садівництво</WorkTagPlantWork>
   <!-- EN: mining -->
   <WorkTagMining>шахтарство</WorkTagMining>
   <!-- EN: hunting -->
   <WorkTagHunting>полювання</WorkTagHunting>
   <!-- EN: commoner work -->
   <WorkTagCommoner>commoner work</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>all work</WorkTagAllWork>
 
 </LanguageData>

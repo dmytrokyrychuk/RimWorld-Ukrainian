@@ -10,10 +10,10 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
   <Breakup.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] запропонував [RECIPIENT_nameDef] перепочити.</li>
-    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
-    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
-    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
+    <li>r_logentry->[INITIATOR_nameDef] пропонує [RECIPIENT_nameDef] розійтися.</li>
+    <li>r_logentry->[INITIATOR_nameDef] просить у [RECIPIENT_nameDef] особистого простору.</li>
+    <li>r_logentry->[INITIATOR_nameDef] каже для [RECIPIENT_nameDef], що у них не дуже добре виходить.</li>
+    <li>r_logentry->[INITIATOR_nameDef] каже для [RECIPIENT_nameDef], що буде краще, якщо вони зустрічатимуться з іншими людьми.</li>
   </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
@@ -24,9 +24,9 @@
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
   <MarriageProposal.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] пропонує [RECIPIENT_nameDef] одружитися.</li>
+    <li>r_logentry->[INITIATOR_nameDef] робить пропозицію руки та серця для [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] каже для [RECIPIENT_nameDef], що [INITIATOR_pronoun] хоче прожити решту [INITIATOR_possessive] життя з [RECIPIENT_objective].</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
@@ -104,7 +104,7 @@
     <li>wooed->Намагається пікапити</li>
     <li>wooed->обворожений</li>
     <li>wooed->заграє</li>
-    <li>&lt;li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]&lt;/li></li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
     <li>wootactic(p=2)->розповідає історію [TalkTopicLight]</li>
     <li>wootactic(p=2)->розповідає історію [TalkTopicHeavy]</li>
     <li>wootactic->шуткує про [TalkTopicAny]</li>
@@ -127,21 +127,21 @@
     <li>complimenting->лоскочучи</li>
     <li>complimenting->тролить</li>
     <li>complimenting->задаючи єхидно питання про</li>
-    <li>complimenting->cheerfully making fun of</li>
+    <li>complimenting->привітно кепкує з</li>
     <li>romantic_adj->красивий(а)</li>
-    <li>romantic_adj->shining</li>
-    <li>romantic_adj->glimmering</li>
-    <li>romantic_adj->heavenly</li>
-    <li>romantic_adj->golden</li>
-    <li>romantic_adj->bright</li>
-    <li>romantic_adj->breathtaking</li>
-    <li>romantic_adj->charming</li>
-    <li>romantic_adj->dazzling</li>
-    <li>romantic_adj->delicate</li>
-    <li>romantic_adj->fine</li>
-    <li>romantic_adj->magnificent</li>
-    <li>romantic_adj->lovely</li>
-    <li>romantic_adj->wonderful</li>
+    <li>romantic_adj->сяючий(а)</li>
+    <li>romantic_adj->мерехтливий(а)</li>
+    <li>romantic_adj->неземний(а)</li>
+    <li>romantic_adj->золотистий(а)</li>
+    <li>romantic_adj->світлий(а)</li>
+    <li>romantic_adj->захоплюючий(а)</li>
+    <li>romantic_adj->чарівний(а)</li>
+    <li>romantic_adj->разливий(а)</li>
+    <li>romantic_adj->витончений(а)</li>
+    <li>romantic_adj->добрий(а)</li>
+    <li>romantic_adj->розкішний(а)</li>
+    <li>romantic_adj->милий(а)</li>
+    <li>romantic_adj->чудовий(а)</li>
     <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
     <li>romantic_noun->квітка</li>
     <li>romantic_noun->весна</li>
@@ -150,7 +150,7 @@
     <li>romantic_noun->місяць</li>
     <li>romantic_noun->сонце</li>
     <li>romantic_noun->будинок</li>
-    <li>romantic_noun->aurora</li>
+    <li>romantic_noun->північне сяйво</li>
     <li>romantic_noun->[TreeType] дерево</li>
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
     <li>romantic_noun(p=2)->[NaturalObject]</li>
