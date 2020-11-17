@@ -39,8 +39,8 @@
   <GameplayTips.CallAllies>Якщо вам потрібна допомога у боротьбі, покличте своїх союзників через термінал зв'язку.</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
   <GameplayTips.MaddenedAnimals>Збожеволілі тварини будуть нападати на будь-яку людину, включаючи ваших ворогів. Ви можете використовувати це.</GameplayTips.MaddenedAnimals>
-  <!-- EN: EMP bursts will temporarily disable turrets, mortar shields, and bullet shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>EMP bursts will temporarily disable turrets, mortar shields, and bullet shields.</GameplayTips.EMPDisablesTurretsShields>
+  <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
+  <GameplayTips.EMPDisablesTurretsShields>EMP bursts will temporarily disable turrets and shields.</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
   <GameplayTips.EMPDisablesPersonalShields>Спалахи ЕМІ миттєво зламають особисті щити.</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
@@ -61,7 +61,7 @@
   <GameplayTips.CaravanFasterAnimals>Швидші тварини формують швидші каравани.</GameplayTips.CaravanFasterAnimals>
   <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>Менші каравани будуть атаковані рідше, тому що вони менш помітні.</GameplayTips.CaravanSmallerLessVisible>
-  <!-- EN: Before forming a caravan, collect them items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>Перед формуванням каравану, зберіть речі, які ви хочете відправити на складі біля місця формування каравану. Це дозволить пришвидшити збирання припасів.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Якщо у вас є нетреновані тварини у вашому каравані, ви можете розділити їх у окремий караван перед нападом на ворога, щоб утримати їх від боротьби.</GameplayTips.CaravanUntrainedAnimals>
@@ -72,7 +72,7 @@
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
   <GameplayTips.MakeCaravanRunBeforeDefeat>Якщо ви не можете захиститися від загрози, зробіть караван і біжіть. Ви можете втратити ваш будинок, але так ваша історія може продовжуватися.</GameplayTips.MakeCaravanRunBeforeDefeat>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
-  <GameplayTips.StoneDoors>Уникайте використання каміння для дверей. Вони дуже повільно відкриваються, що марнує час колоністів.</GameplayTips.StoneDoors>
+  <GameplayTips.StoneDoors>Уникайте використання кам'яних дверей. Вони дуже повільно відкриваються, що марнує час колоністів.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
   <GameplayTips.ChairsWorkbench>Ставте стільці навпроти верстатів, щоб працівникам було комфортно працювати.</GameplayTips.ChairsWorkbench>
   <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
@@ -131,5 +131,7 @@
   <GameplayTips.MoreAlliesMoreTraders>Чим більше фракцій ви маєте в союзі, тим більше випадкових торговців і військової допомоги ви отримаєте.</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
   <GameplayTips.CombatDrugsFromInventory>Ви можете використовувати план прийому наркотиків, щоб ваші бійці носили бойові препарати такі, як енергетик. Швидка доза на початку битви може допомогти виграти.</GameplayTips.CombatDrugsFromInventory>
+  <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
+  <GameplayTips.SchedulesSetLong>Set schedules with long stretches of one activity to minimize travel time.</GameplayTips.SchedulesSetLong>
   
 </LanguageData>

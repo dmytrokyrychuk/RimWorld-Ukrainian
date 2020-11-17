@@ -25,21 +25,21 @@
     <li>bandit->Brigand</li>
   -->
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
-    <li>questName->The [bandit] [camp]</li>
-    <li>questName->[bandit] [camp]</li>
-    <li>questName->[asker_nameDef] and the [camp]</li>
-    <li>camp->Camp</li>
-    <li>camp->Outpost</li>
-    <li>camp->Lair</li>
-    <li>camp->Encampment</li>
-    <li>bandit->Bandit</li>
-    <li>bandit->Raider</li>
-    <li>bandit->Outlaw</li>
-    <li>bandit->Desperado</li>
-    <li>bandit->Fugitive</li>
-    <li>bandit->Marauder</li>
-    <li>bandit->Robber</li>
-    <li>bandit->Brigand</li>
+    <li>questName->[camp] [bandit]</li>
+    <li>questName->[camp] [bandit]</li>
+    <li>questName->[asker_nameDef] і [camp] [bandit]</li>
+    <li>camp->Табір</li>
+    <li>camp->Форпост</li>
+    <li>camp->Лігво</li>
+    <li>camp->Притулок</li>
+    <li>bandit->Бандитів</li>
+    <li>bandit->Рейдерів</li>
+    <li>bandit->Вигнанців</li>
+    <li>bandit->Головорізів</li>
+    <li>bandit->Біженців</li>
+    <li>bandit->Мародерів</li>
+    <li>bandit->Грабіжників</li>
+    <li>bandit->Розбійників</li>
   </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>Quest expired: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
@@ -48,14 +48,14 @@
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>Quest failed: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
   <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>Після виявлення бандитського табору, він був розігнаний. Доручення [resolvedQuestName] закінчилося.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
   <!-- EN: Payment arrived -->
   <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>Payment arrived</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
   <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
   <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
-  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service. -->
-  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

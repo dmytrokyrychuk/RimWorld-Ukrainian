@@ -11,6 +11,8 @@
   <OK>ОК</OK>
   <!-- EN: Close -->
   <Close>Закрити</Close>
+  <!-- EN: Accept -->
+  <Accept>Прийняти</Accept>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -403,45 +405,45 @@
   <!-- EN: Misc -->
   <MiscRecordsCategory>Різне</MiscRecordsCategory>
   <!-- EN: Chemical -->
-  <Chemical>Chemical</Chemical>
+  <Chemical>Хімія</Chemical>
   <!-- EN: High gain per dose -->
-  <HighGain>High gain per dose</HighGain>
+  <HighGain>Приріст кайфу за дозу</HighGain>
   <!-- EN: High fall rate -->
-  <HighFallRate>High fall rate</HighFallRate>
+  <HighFallRate>Швидкість зниження кайфу</HighFallRate>
   <!-- EN: High duration per dose -->
-  <HighDuration>High duration per dose</HighDuration>
+  <HighDuration>Тривалість кайфу за дозу</HighDuration>
   <!-- EN: Tolerance gain per dose -->
-  <ToleranceGain>Tolerance gain per dose</ToleranceGain>
+  <ToleranceGain>Приріст звикання за дозу</ToleranceGain>
   <!-- EN: Tolerance fall rate -->
-  <ToleranceFallRate>Tolerance fall rate</ToleranceFallRate>
+  <ToleranceFallRate>Зниження звикання за дозу</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
-  <MinimumToleranceForAddiction>New addiction min tolerance</MinimumToleranceForAddiction>
+  <MinimumToleranceForAddiction>Мінімальне звикання для залежності</MinimumToleranceForAddiction>
   <!-- EN: Safe dose interval -->
-  <SafeDoseInterval>Safe dose interval</SafeDoseInterval>
+  <SafeDoseInterval>Інтервал безпечного прийому</SafeDoseInterval>
   <!-- EN: New addiction chance -->
-  <Addictiveness>New addiction chance</Addictiveness>
+  <Addictiveness>Шанс отримання залежності</Addictiveness>
   <!-- EN: Addiction initial severity -->
-  <AddictionSeverityInitial>Addiction initial severity</AddictionSeverityInitial>
+  <AddictionSeverityInitial>Первісна серйозність залежності</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
-  <AddictionSeverityPerDose>Addiction severity per dose</AddictionSeverityPerDose>
+  <AddictionSeverityPerDose>Серйозність залежності за дозу</AddictionSeverityPerDose>
   <!-- EN: Addiction need fill per dose -->
-  <AddictionNeedOffset>Addiction need fill per dose</AddictionNeedOffset>
+  <AddictionNeedOffset>Заповнення потреби за дозу</AddictionNeedOffset>
   <!-- EN: Addiction need fall rate -->
-  <AddictionNeedFallRate>Addiction need fall rate</AddictionNeedFallRate>
+  <AddictionNeedFallRate>Швидкість зниження задовільнення залежності</AddictionNeedFallRate>
   <!-- EN: Addiction need dose interval -->
-  <AddictionNeedDoseInterval>Addiction need dose interval</AddictionNeedDoseInterval>
+  <AddictionNeedDoseInterval>Інтервал задовільнення залежності</AddictionNeedDoseInterval>
   <!-- EN: Addiction recovery time -->
-  <AddictionRecoveryTime>Addiction recovery time</AddictionRecoveryTime>
+  <AddictionRecoveryTime>Швидкість відновлення від залежності</AddictionRecoveryTime>
   <!-- EN: Addiction cost -->
-  <AddictionCost>Addiction cost</AddictionCost>
+  <AddictionCost>Ціна залежності</AddictionCost>
   <!-- EN: Random overdose chance -->
-  <RandomODChance>Random overdose chance</RandomODChance>
+  <RandomODChance>Шанс випадкового передозування</RandomODChance>
   <!-- EN: Always safe -->
-  <AlwaysSafe>Always safe</AlwaysSafe>
+  <AlwaysSafe>Завжди безпечний</AlwaysSafe>
   <!-- EN: Never safe -->
-  <NeverSafe>Never safe</NeverSafe>
+  <NeverSafe>Ніколи не безпечно</NeverSafe>
   <!-- EN: {0} / day -->
-  <PerDay>{0} / day</PerDay>
+  <PerDay>{0} / день</PerDay>
   <!-- EN: Pack animal -->
   <PackAnimal>В’ючні тварини</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -513,9 +515,9 @@
   <!-- EN: Can use {0} focus type because -->
   <MeditationFocusCanUse>Можна використовувати тип фокусу {0}, тому що</MeditationFocusCanUse>
   <!-- EN: {0} focus objects -->
-  <MeditationFocusObjects>{0} focus objects</MeditationFocusObjects>
+  <MeditationFocusObjects>{0} цільових об'єктів</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
-  <MeditationFocusEnabledByTitle>holds title: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByTitle>володіє титулом: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
   <MeditationFocusEnabledByChildhood>має дитинство</MeditationFocusEnabledByChildhood>
   <!-- EN: has adulthood -->
@@ -542,6 +544,8 @@
   <TraderCount>Скільки з цього предмету, він повинен торгувати.</TraderCount>
   <!-- EN: Accept -->
   <AcceptButton>Прийняти</AcceptButton>
+  <!-- EN: Load selected -->
+  <LoadSelected>Load selected</LoadSelected>
   <!-- EN: Reset -->
   <ResetButton>Скинути</ResetButton>
   <!-- EN: Cancel -->
@@ -561,7 +565,7 @@
   <!-- EN: Negotiator -->
   <Negotiator>Парламентер</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
-  <NegotiatorTradeDialogInfo>Negotiator: {0} (+{1})</NegotiatorTradeDialogInfo>
+  <NegotiatorTradeDialogInfo>Переговорник: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
   <NegotiatorTalkingImpaired>Ваш переговорник {1_labelShort} не може говорити належним чином через погане здоров'я.</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
@@ -614,12 +618,16 @@
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>Сформувати караван</FormCaravan>
+  <!-- EN: Send -->
+  <Send>Відправити</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>Кількість, яку можна відправити з караваном.</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>Люди і тварини</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>Предмети</ItemsTab>
+  <!-- EN: Travel supplies -->
+  <FoodAndMedicineTab>Travel supplies</FoodAndMedicineTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>Ви повинні призначити хоча б одного неприлюдного колоніста.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -647,7 +655,7 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Необмежено</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>Приблизна кількість днів перед тим, як хоча б одна людина чи тварина залищиться без їжі. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>Приблизна кількість днів перед тим, як хоча б одна людина чи тварина залищиться без їжі. У різних видів є різні дієти, тому у одних їжа закінчується швидше ніж у інших. Це значення обчислюється точніше після того, як маршрут буде обраний.\n\nНа нього впливає:\n  - Поточний інвентар пішки\n  - Тип переносимої їжі і кількість\n  - Члени Каравану і їх дієти\n  - Коефіцієнт збору\n  - Чи можуть тварини випасатися\n  - Час до до того, як їжа спортиться\n  - При теплій погоді їжа портиться швидше</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(тільки перша шляхова точка приймається в рахунок)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
@@ -712,6 +720,8 @@
   <AnimalsSection>Тварини</AnimalsSection>
   <!-- EN: Choose route -->
   <ChooseRouteButton>Обрати рейс</ChooseRouteButton>
+  <!-- EN: Change route -->
+  <ChangeRouteButton>Змінити маршрут</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>Покинути</AbandonButton>
   <!-- EN: Movement speed -->
@@ -742,6 +752,8 @@
   <FactionType>База фракції</FactionType>
   <!-- EN: Total body size -->
   <TotalBodySize>Загальний розмір тіла</TotalBodySize>
+  <!-- EN: Automatically select travel supplies -->
+  <AutomaticallySelectFoodAndMedicine>Automatically select travel supplies</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -778,6 +790,8 @@
   <TransporterItemIsUnreachableMulti>Немає шляху між транспортним поясом і {0}x {1}.</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
   <TransporterSingleItemIsUnreachableMulti>Немає шляху між транспортним поясом і {0}x {1}.</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>Only {0} colonists maximum allowed.</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
@@ -852,8 +866,8 @@
   <MoodThresholdColumnLabel>Тільки якщо настрій нижче</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
   <JoyThresholdColumnLabel>Тільки якщо відновлення нижче</JoyThresholdColumnLabel>
-  <!-- EN: Take to inventory -->
-  <TakeToInventoryColumnLabel>Візьміть на інвентар</TakeToInventoryColumnLabel>
+  <!-- EN: Keep in inventory -->
+  <TakeToInventoryColumnLabel>Мати з собою</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
   <NoDrugsBrackets>(ніяких наркотиків)</NoDrugsBrackets>
   <!-- EN: Every day -->
@@ -895,17 +909,17 @@
   <!-- EN: Simple -->
   <FoodRestrictionSimple>Просте</FoodRestrictionSimple>
   <!-- EN: Paste -->
-  <FoodRestrictionPaste>Часткове</FoodRestrictionPaste>
+  <FoodRestrictionPaste>Паста</FoodRestrictionPaste>
   <!-- EN: Raw -->
   <FoodRestrictionRaw>Сира</FoodRestrictionRaw>
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Нічого</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Вибрати обмеження в їжі</SelectFoodRestriction>
+  <SelectFoodRestriction>Вибрати обмеження</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>Нове обмеження в їжі</NewFoodRestriction>
+  <NewFoodRestriction>Нове обмеження</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Видалити обмеження в їжі</DeleteFoodRestriction>
+  <DeleteFoodRestriction>Видалити обмеження</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
   <NoFoodRestrictionSelected>Немає обраних обмежень в їжі</NoFoodRestrictionSelected>
 
@@ -923,7 +937,7 @@
   <!-- EN: Neutral faction -->
   <MedGroupNeutralFaction>Нейтральна фракція</MedGroupNeutralFaction>
   <!-- EN: Hostile faction -->
-  <MedGroupHostileFaction>Ворожа поверхня</MedGroupHostileFaction>
+  <MedGroupHostileFaction>Ворожа фракція</MedGroupHostileFaction>
   
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
@@ -968,8 +982,8 @@
   <ConfirmCleanupTranslationFiles_Confirm>Так, у мене є резервне копіювання</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>Караван буде нерухомим, якщо відправити стручки на порожню плитку. Продовжувати все-таки?</TransportersCaravanWillBeImmobile>
+  <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
+  <TransportersCaravanWillBeImmobile>Караван буде нерухомим, якщо відправитися на порожню клітинку. Продовжувати все-таки?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
@@ -979,7 +993,7 @@
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>Необхідна лінія призову</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
-  <AbilityEntropyGain>Neural heat gain</AbilityEntropyGain>
+  <AbilityEntropyGain>Нейронний приріст тепла</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
   <AbilityPsyfocusCost>Вартість психофокусу</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
@@ -990,13 +1004,60 @@
   <AbilityCastingTime>Час прицілювання</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>Жодна лінія зору не націлена.</AbilityCannotHitTarget>
+  <!-- EN: Can't reach the target. -->
+  <AbilityCannotReachTarget>Can't reach the target.</AbilityCannotReachTarget>
+  <!-- EN: Not enough free space. -->
+  <AbilityNotEnoughFreeSpace>Not enough free space.</AbilityNotEnoughFreeSpace>
   <!-- EN: {0} must target an empty area. -->
   <AbilityOccupiedCells>{0} має націлюватися на одноразову зону.</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
   <AbilityUnwalkable>{0} має націлюватися на одноразову зону.</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
   <AbilityRoofed>{0} має націлюватися на одноразову зону.</AbilityRoofed>
-  <!-- EN: {0} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>{0} психічно зломлений.</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is mentally broken. -->
+  <AbilityCantApplyToMentallyBroken>{0_labelShort} is mentally broken.</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not mentally broken. -->
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} is not mentally broken.</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0} doesn't work on the '{1}' mental state. -->
+  <AbilityDoesntWorkOnMentalState>{0} doesn't work on the '{1}' mental state.</AbilityDoesntWorkOnMentalState>
+  <!-- EN: {0_labelShort} has zero resistance. -->
+  <AbilityCantApplyNoResistance>{0_labelShort} has zero resistance.</AbilityCantApplyNoResistance>
+  <!-- EN: Cannot use: {0} is asexual. -->
+  <AbilityCantApplyOnAsexual>Cannot use: {0} is asexual.</AbilityCantApplyOnAsexual>
+  <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} is the wrong gender for {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: Psyfocus cost per mental break intensity -->
+  <PsyfocusCostPerMentalBreakIntensity>Psyfocus cost per mental break intensity</PsyfocusCostPerMentalBreakIntensity>
+  <!-- EN: {0_labelShort} is already inspired. -->
+  <AbilityAlreadyInspired>{0_labelShort} is already inspired.</AbilityAlreadyInspired>
+  <!-- EN: {0_labelShort} can't get an inspiration right now. -->
+  <AbilityCantGetInspiredNow>{0_labelShort} can't get an inspiration right now.</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <AbilityCantApplyUnconscious>{0_labelShort} is unconscious.</AbilityCantApplyUnconscious>
+  <!-- EN: {0_labelShort} is asleep. -->
+  <AbilityCantApplyAsleep>{0_labelShort} is asleep.</AbilityCantApplyAsleep>
+  <!-- EN: This tile is impassable. -->
+  <AbilityWorldTileImpassable>This tile is impassable.</AbilityWorldTileImpassable>
+  <!-- EN: Skip to random ally -->
+  <AbilitySkipToRandomAlly>Skip to random ally</AbilitySkipToRandomAlly>
+  <!-- EN: Skip to join caravan -->
+  <AbilitySkipToJoinCaravan>Skip to join caravan</AbilitySkipToJoinCaravan>
+  <!-- EN: Need ally at target for navigation -->
+  <AbilityNeedAllyToSkip>Need ally at target for navigation</AbilityNeedAllyToSkip>
+  <!-- EN: No chunks to skip. -->
+  <AbilityNoChunkToSkip>No chunks to skip.</AbilityNoChunkToSkip>
+  <!-- EN: Induce psychic love in -->
+  <PsychicLoveInduceIn>Induce psychic love in</PsychicLoveInduceIn>
+  <!-- EN: Psychic love for -->
+  <PsychicLoveFor>Psychic love for</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}?</FarskipConfirmTeleportingLodger>
+  
+  <!-- EN: minor -->
+  <MentalBreakIntensityMinor>minor</MentalBreakIntensityMinor>
+  <!-- EN: major -->
+  <MentalBreakIntensityMajor>major</MentalBreakIntensityMajor>
+  <!-- EN: extreme -->
+  <MentalBreakIntensityExtreme>extreme</MentalBreakIntensityExtreme>
   
 </LanguageData>

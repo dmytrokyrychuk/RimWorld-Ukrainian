@@ -27,7 +27,7 @@
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>Очистити файли перекладу</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>Update translations files (TKey's)</TranslationFilesTKeyUpdate>
+  <TranslationFilesTKeyUpdate>Оновити файли перекладів (TKey's)</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Очищення файлів перекладу</CleaningTranslationFiles>
   <!-- EN: Credits -->
@@ -195,9 +195,9 @@
   <!-- EN: This mod is incompatible with: {0}. -->
   <ModIncompatibleWithTip>Цей мод не сумісний з: {0}.</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually.</ModOrderingWarning>
+  <ModOrderingWarning>Цей мод завантажений у неправильному порядку по відношенню до інших модів. Натисніть кнопку "авто-сортування' або змініть порядок модів уручну.</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>Інший активний мод використовує такий же ID: {0}.</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>Інший активний мод використовує такий самий ID: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
   <ModCyclicDependency>Є циклічна залежність модів, що починається з {0}.</ModCyclicDependency>
   <!-- EN: This requires following mods to work: {0}. -->
@@ -377,7 +377,7 @@
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
   <PawnSummary>{PAWN_race} віком {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>{PAWN_gender} з {PAWN_race} віком {PAWN_ageFull}</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_race}, {PAWN_gender} віком {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
   <Backstory>Передісторія</Backstory>
   <!-- EN: Incapable of -->
@@ -385,17 +385,17 @@
   <!-- EN: Abilities -->
   <Abilities>Здібності</Abilities>
   <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>Caused by backstory: {0}</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>Спричинено передісторією: {0}</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>Caused by title: {0}</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>Спричинено назвою: {0}</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>Caused by trait: {0}</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>Спричинено рисою: {0}</IncapableOfTooltipTrait>
   <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>Caused by: {0}</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>Спричинено: {0}</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>Disabled work types:</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>Неактивні види праці:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by quest status: {0} -->
-  <IncapableOfTooltipQuest>Caused by quest status: {0}</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>Спричинено статусом завдання: {0}</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
   <Traits>Риси</Traits>
   <!-- EN: Permanent mood effect -->
